@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2a5f72e-a6e2-4c69-8d48-96b2688d6b84" name="Default" comment="">
+      <change type="MOVED" beforePath="C:\xampp\htdocs\EI-LOCAL\.idea\EI-PHP-GAE.iml" afterPath="$PROJECT_DIR$/.idea/EI-LOCAL.iml" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\EI-LOCAL\JS\SetCase .js" afterPath="$PROJECT_DIR$/JS/SetCase.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/CUSTOMER/ACCESSCARD/Ctrl_Access_Card_Card_Assign.php" afterPath="$PROJECT_DIR$/application/controllers/CUSTOMER/ACCESSCARD/Ctrl_Access_Card_Card_Assign.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/CUSTOMER/ACCESSCARD/Ctrl_Access_Card_Replace.php" afterPath="$PROJECT_DIR$/application/controllers/CUSTOMER/ACCESSCARD/Ctrl_Access_Card_Replace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/CUSTOMER/ACCESSCARD/Ctrl_Access_Card_Search_Update.php" afterPath="$PROJECT_DIR$/application/controllers/CUSTOMER/ACCESSCARD/Ctrl_Access_Card_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/CUSTOMER/ACCESSCARD/Ctrl_Access_Card_View.php" afterPath="$PROJECT_DIR$/application/controllers/CUSTOMER/ACCESSCARD/Ctrl_Access_Card_View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/CUSTOMER/CUSTOMER/Ctrl_Customer_Erm_Entry_Search_Update.php" afterPath="$PROJECT_DIR$/application/controllers/CUSTOMER/CUSTOMER/Ctrl_Customer_Erm_Entry_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/CUSTOMER/CUSTOMER/Ctrl_Customer_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/controllers/CUSTOMER/CUSTOMER/Ctrl_Customer_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/FINANCE/FINANCE/Ctrl_Finance_Extract_Deposit_Pdf.php" afterPath="$PROJECT_DIR$/application/controllers/FINANCE/FINANCE/Ctrl_Finance_Extract_Deposit_Pdf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/FINANCE/OCBC/Ctrl_Ocbc_Banktt_Entry.php" afterPath="$PROJECT_DIR$/application/controllers/FINANCE/OCBC/Ctrl_Ocbc_Banktt_Entry.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/FINANCE/OCBC/Ctrl_Ocbc_Banktt_Search_Update.php" afterPath="$PROJECT_DIR$/application/controllers/FINANCE/OCBC/Ctrl_Ocbc_Banktt_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/EXPENSE/Ctrl_Pdf.php" afterPath="$PROJECT_DIR$/application/controllers/EXPENSE/Ctrl_Pdf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/REPORT/Ctrl_Report_Charts.php" afterPath="$PROJECT_DIR$/application/controllers/REPORT/Ctrl_Report_Charts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/EXPENSE/STAFF/Ctrl_Staff_Daily_Entry_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/controllers/EXPENSE/STAFF/Ctrl_Staff_Daily_Entry_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/EXPENSE/STAFF/Ctrl_Staff_Detail_Entry_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/controllers/EXPENSE/STAFF/Ctrl_Staff_Detail_Entry_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/EXPENSE/STAFF/Ctrl_Staff_Employee_Entry_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/controllers/EXPENSE/STAFF/Ctrl_Staff_Employee_Entry_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Creation_Search_Update.php" afterPath="$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Creation_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Door_Code_Search_Update.php" afterPath="$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Door_Code_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Existing_Unit.php" afterPath="$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Existing_Unit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Termination.php" afterPath="$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Termination.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/EI_HDR.php" afterPath="$PROJECT_DIR$/application/libraries/EI_HDR.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/ACCESS CARD/Mdl_access_card_card_assign.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/ACCESS CARD/Mdl_access_card_card_assign.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/ACCESS CARD/Mdl_access_card_replace.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/ACCESS CARD/Mdl_access_card_replace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/ACCESS CARD/Mdl_access_card_search_update.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/ACCESS CARD/Mdl_access_card_search_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/ACCESS CARD/Mdl_access_card_view.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/ACCESS CARD/Mdl_access_card_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/ACCESS RIGHTS/Mdl_access_rights_search_update.php" afterPath="$PROJECT_DIR$/application/models/ACCESS RIGHTS/Mdl_access_rights_search_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/ACCESS RIGHTS/Mdl_access_rights_terminate_search_update.php" afterPath="$PROJECT_DIR$/application/models/ACCESS RIGHTS/Mdl_access_rights_terminate_search_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EXPENSE/BIZEXPENSE/Mdl_biz_expense_daily_entry_search_update_delete.php" afterPath="$PROJECT_DIR$/application/models/EXPENSE/BIZEXPENSE/Mdl_biz_expense_daily_entry_search_update_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EXPENSE/BIZEXPENSE/Mdl_biz_expense_detail_entry_search_update_delete.php" afterPath="$PROJECT_DIR$/application/models/EXPENSE/BIZEXPENSE/Mdl_biz_expense_detail_entry_search_update_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CONFIGURATION/Mdl_configuration_trigger.php" afterPath="$PROJECT_DIR$/application/models/CONFIGURATION/Mdl_configuration_trigger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_cancel_uncancel.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_cancel_uncancel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_creation.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_creation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_creation_uat.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_creation_uat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_erm_entry_search_update.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_erm_entry_search_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_extension.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_extension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_search_update_delete.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_search_update_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_termination.php" afterPath="$PROJECT_DIR$/application/models/CUSTOMER/CUSTOMER/Mdl_customer_termination.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_calender.php" afterPath="$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_calender.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_common_function.php" afterPath="$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_common_function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_invoice_contract.php" afterPath="$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_invoice_contract.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/FINANCE/FINANCE/Mdl_finance_deposit_calculations.php" afterPath="$PROJECT_DIR$/application/models/FINANCE/FINANCE/Mdl_finance_deposit_calculations.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/FINANCE/FINANCE/Mdl_finance_extract_deposit_pdf.php" afterPath="$PROJECT_DIR$/application/models/FINANCE/FINANCE/Mdl_finance_extract_deposit_pdf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/FINANCE/OCBC/Mdl_ocbc_banktt_entry.php" afterPath="$PROJECT_DIR$/application/models/FINANCE/OCBC/Mdl_ocbc_banktt_entry.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EXPENSE/Mdl_pdf.php" afterPath="$PROJECT_DIR$/application/models/EXPENSE/Mdl_pdf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EXPENSE/PERSONAL/Mdl_personal_daily_entry_search_update_delete.php" afterPath="$PROJECT_DIR$/application/models/EXPENSE/PERSONAL/Mdl_personal_daily_entry_search_update_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/REPORT/Mdl_report_charts.php" afterPath="$PROJECT_DIR$/application/models/REPORT/Mdl_report_charts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EXPENSE/STAFF/Mdl_staff_daily_entry_search_update_delete.php" afterPath="$PROJECT_DIR$/application/models/EXPENSE/STAFF/Mdl_staff_daily_entry_search_update_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EXPENSE/STAFF/Mdl_staff_detail_entry_search_update_delete.php" afterPath="$PROJECT_DIR$/application/models/EXPENSE/STAFF/Mdl_staff_detail_entry_search_update_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/EXPENSE/STAFF/Mdl_staff_employee_entry_search_update_delete.php" afterPath="$PROJECT_DIR$/application/models/EXPENSE/STAFF/Mdl_staff_employee_entry_search_update_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/UNIT/Mdl_unit_creation_search_update.php" afterPath="$PROJECT_DIR$/application/models/UNIT/Mdl_unit_creation_search_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/UNIT/Mdl_unit_door_code_search_update.php" afterPath="$PROJECT_DIR$/application/models/UNIT/Mdl_unit_door_code_search_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/UNIT/Mdl_unit_existing_unit.php" afterPath="$PROJECT_DIR$/application/models/UNIT/Mdl_unit_existing_unit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/UNIT/Mdl_unit_termination.php" afterPath="$PROJECT_DIR$/application/models/UNIT/Mdl_unit_termination.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_Card_Assign.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_Card_Assign.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_Replace.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_Replace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_Search_Update.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_View.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Access_Rights_Search_Update.php" afterPath="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Access_Rights_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Access_Rights_Site_Maintenance.php" afterPath="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Access_Rights_Site_Maintenance.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Access_Rights_Terminate_Search_Update.php" afterPath="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Access_Rights_Terminate_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/EXPENSE/BIZEXPENSE/Vw_Biz_Expense_Daily_Entry_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/views/EXPENSE/BIZEXPENSE/Vw_Biz_Expense_Daily_Entry_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/EXPENSE/BIZEXPENSE/Vw_Biz_Expense_Detail_Entry_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/views/EXPENSE/BIZEXPENSE/Vw_Biz_Expense_Detail_Entry_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Cancel_Uncancel.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Cancel_Uncancel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Creation.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Creation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Erm_Entry_Search_Update.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Erm_Entry_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Extension.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Extension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Recheckin.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Recheckin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Deposit_Calculations.php" afterPath="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Deposit_Calculations.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Extract_Deposit_Pdf.php" afterPath="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Extract_Deposit_Pdf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Outstanding_Payee_list.php" afterPath="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Outstanding_Payee_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Menu.php" afterPath="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Banktt_Entry.php" afterPath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Banktt_Entry.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Banktt_Search_Update.php" afterPath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Banktt_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Cheque_Entry_Search_Update.php" afterPath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Cheque_Entry_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Model_Entry_Search_Update.php" afterPath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Model_Entry_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Ocbc.php" afterPath="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Ocbc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/EXPENSE/PERSONAL/Vw_Personal_Daily_Entry_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/views/EXPENSE/PERSONAL/Vw_Personal_Daily_Entry_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/REPORT/Vw_Report_Charts.php" afterPath="$PROJECT_DIR$/application/views/REPORT/Vw_Report_Charts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/EXPENSE/STAFF/Vw_Staff_Daily_Entry_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/views/EXPENSE/STAFF/Vw_Staff_Daily_Entry_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/EXPENSE/STAFF/Vw_Staff_Detail_Entry_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/views/EXPENSE/STAFF/Vw_Staff_Detail_Entry_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/EXPENSE/STAFF/Vw_Staff_Employee_Entry_Search_Update_Delete.php" afterPath="$PROJECT_DIR$/application/views/EXPENSE/STAFF/Vw_Staff_Employee_Entry_Search_Update_Delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Creation_Search_Update.php" afterPath="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Creation_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Door_Code_Search_Update.php" afterPath="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Door_Code_Search_Update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Existing_Unit.php" afterPath="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Existing_Unit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Termination.php" afterPath="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Termination.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_finance_payments_entry_active_customer.php" afterPath="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_finance_payments_entry_active_customer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    </list>
+    <ignored path="EI-PHP-GAE.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="EI-PHP-GAE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Mdl_finance_deposit_calculations.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/models/FINANCE/FINANCE/Mdl_finance_deposit_calculations.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.68214285">
+              <caret line="719" column="12" selection-start-line="719" selection-start-column="12" selection-end-line="719" selection-end-column="12" />
+              <folding>
+                <marker date="1438082479088" expanded="true" signature="1289:1344" placeholder="SELECT DISTI..." />
+                <marker date="1438082479088" expanded="true" signature="1717:1728" placeholder="DROP TABLE $..." />
+                <marker date="1438082479088" expanded="true" signature="1921:1962" placeholder="SELECT CED_I..CUSTOMER_ENTRY_DETAILS..." />
+                <marker date="1438082479088" expanded="true" signature="2174:2198" placeholder="SELECT UNIT_..UNIT..." />
+                <marker date="1438082479088" expanded="true" signature="2398:2431" placeholder="SELECT PD_ID..PAYMENT_DETAILS..." />
+                <marker date="1438082479088" expanded="true" signature="2641:2671" placeholder="SELECT EU_ID..EXPENSE_UNIT..." />
+                <marker date="1438082479088" expanded="true" signature="2882:2914" placeholder="SELECT CUSTO..CUSTOMER..." />
+                <marker date="1438082479088" expanded="true" signature="3141:3179" placeholder="SELECT CLP_I..CUSTOMER_LP_DETAILS..." />
+                <marker date="1438082479088" expanded="true" signature="4259:4845" placeholder="SELECT DISTI..CUSTOMER_ENTRY_DETAILS..." />
+                <marker date="1438082479088" expanded="true" signature="6950:7018" placeholder="SELECT DDC_D..DEPOSIT_DEDUCTION_CONFIGURATION..." />
+                <marker date="1438082479088" expanded="true" signature="10769:10843" placeholder="UPDATE FILE_..." />
+                <marker date="1438082479088" expanded="true" signature="14670:14684" placeholder="SELECT * FRO..." />
+                <marker date="1438082479088" expanded="true" signature="14784:14836" placeholder="SELECT * FRO..." />
+                <marker date="1438082479088" expanded="true" signature="34968:34979" placeholder="DROP TABLE $..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Creation.php" />
+        <option value="$PROJECT_DIR$/JS/JQuery.js" />
+        <option value="$PROJECT_DIR$/application/views/CUSTOMER/CUSTOMER/Vw_Customer_Termination.php" />
+        <option value="$PROJECT_DIR$/application/views/CONFIGURATION/EMAIL/Vw_Email_Profile_Entry_Search_Update_Delete.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/controllers/EXPENSE/PERSONAL/Ctrl_Personal_Daily_Entry_Search_Update_Delete.php" />
+        <option value="$PROJECT_DIR$/application/models/EXPENSE/PERSONAL/Mdl_personal_daily_entry_search_update_delete.php" />
+        <option value="$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_calender.php" />
+        <option value="$PROJECT_DIR$/application/views/FINANCE/OCBC/Vw_Ocbc_Cheque_Entry_Search_Update.php" />
+        <option value="$PROJECT_DIR$/application/views/EXPENSE/PERSONAL/Vw_Personal_Daily_Entry_Search_Update_Delete.php" />
+        <option value="$PROJECT_DIR$/application/views/EXPENSE/PERSONAL/Vw_Personal_Daily_Entry_Search_Update_Delete.php" />
+        <option value="$PROJECT_DIR$/application/models/EXPENSE/BIZEXPENSE/Mdl_biz_expense_daily_entry_search_update_delete.php" />
+        <option value="$PROJECT_DIR$/application/views/EXPENSE/BIZEXPENSE/Vw_Biz_Expense_Detail_Entry_Search_Update_Delete.php" />
+        <option value="$PROJECT_DIR$/application/views/EXPENSE/BIZEXPENSE/Vw_Biz_Expense_Detail_Entry_Search_Update_Delete.php" />
+        <option value="$PROJECT_DIR$/application/models/EXPENSE/BIZEXPENSE/Mdl_biz_expense_detail_entry_search_update_delete.php" />
+        <option value="$PROJECT_DIR$/application/libraries/EI_HDR.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Menu.php" />
+        <option value="$PROJECT_DIR$/application/views/ACCESS RIGHTS/Vw_Menu.php" />
+        <option value="$PROJECT_DIR$/application/views/EXPENSE/BIZEXPENSE/Vw_Biz_Expense_Daily_Entry_Search_Update_Delete.php" />
+        <option value="$PROJECT_DIR$/application/views/EXPENSE/BIZEXPENSE/Vw_Biz_Expense_Daily_Entry_Search_Update_Delete.php" />
+        <option value="$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Creation_Search_Update.php" />
+        <option value="$PROJECT_DIR$/application/models/UNIT/Mdl_unit_creation_search_update.php" />
+        <option value="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Door_Code_Search_Update.php" />
+        <option value="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_Card_Assign.php" />
+        <option value="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_Replace.php" />
+        <option value="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_Search_Update.php" />
+        <option value="$PROJECT_DIR$/application/views/CUSTOMER/ACCESS CARD/Vw_Access_Card_View.php" />
+        <option value="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Existing_Unit.php" />
+        <option value="$PROJECT_DIR$/application/controllers/FINANCE/FINANCE/Ctrl_Finance_Deposit_Calculations.php" />
+        <option value="$PROJECT_DIR$/application/models/FINANCE/FINANCE/Mdl_finance_extract_deposit_pdf.php" />
+        <option value="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Creation_Search_Update.php" />
+        <option value="$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Termination.php" />
+        <option value="$PROJECT_DIR$/application/views/REPORT/Vw_Report_Charts.php" />
+        <option value="$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_common_function.php" />
+        <option value="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Extract_Deposit_Pdf.php" />
+        <option value="$PROJECT_DIR$/application/models/FINANCE/FINANCE/Mdl_finance_deposit_calculations.php" />
+        <option value="$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Deposit_Calculations.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-LOCAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-LOCAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-LOCAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-LOCAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-LOCAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-LOCAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EI-LOCAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/J-HUB" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\EI-LOCAL\application" />
+      <recent name="C:\xampp\htdocs\EI-LOCAL\application\views\UNIT" />
+      <recent name="C:\xampp\htdocs\EI-LOCAL\application\models\CUSTOMER" />
+      <recent name="C:\xampp\htdocs\EI-LOCAL\application\views" />
+      <recent name="C:\xampp\htdocs\EI-LOCAL\application\views\CUSTOMER" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2a5f72e-a6e2-4c69-8d48-96b2688d6b84" name="Default" comment="" />
+      <created>1432903745515</created>
+      <option name="number" value="Default" />
+      <updated>1432903745515</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1.Updated script on(29-05-2015) DID PDF EXPORT FOR DATATABLE IN BIZ DETAIL.&#10; 2.IMPLEMENTED AUTOFOCUS,AUTOGROW FOR EXPENSE(BIZ DAILY,BIZ DETAIL,PERSONAL)&#10; 3.ADDED 3 FUNCTION IN COMMONFUNCTION">
+      <created>1432904067048</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1432904067048</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.Updated script on(30-05-2015)  DESINGED CUSTOMER TERMINATION FORM WITH LOADED CUSTOMER DETAILS IN TABLE FOR ACTIVE CUSTOMER">
+      <created>1432987683906</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1432987683906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.Updated script on(01-06-2015)  SHOWED THE CUSTOMER DETAILS IN FORM WITH VALIDATION AND ALIGNED&#10;">
+      <created>1433164288391</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1433164288391</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.Updated script on(02-06-2015) DELETED UNWANTED FILES AND SEPARATED MODEL AND VIEW FILES IN CORRESPONDING FOLDER.&#10;2.COMPLETED SAVE PART FOR UNTERMINATED AND REACTIVE CUSTOMER.&#10;3.CHANGED THE TIME FORMATE IN TERMINATION CALENDAR FUNCTION AND CORRECTED OUTPUT ARRAY IN COMMON FUNCTION.&#10;">
+      <created>1433251760724</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1433251760724</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.Updated script on(04-06-2015) CHANGED THE MVC NAME AS PER NOMENCLATURE AND MOVED THE CONTROLLER FILE INTO CORRESPONDING FOLDER.&#10;2.REMOVED INCLUDE FILE IN CONTROLLER AND USERSTAMP,TIMEZONEFORMAT GET FROM EILIB.&#10;3.CHANGED URL AS GLOBAL AND USED CONSTRUCT FOR LOAD MODEL IN CONTROLLER.&#10;">
+      <created>1433426126759</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1433426126759</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.Updated script on(05-06-2015) UPDATED THE SCRIPT FOR CALENDAR PROCESS FOR ACTIVE CUSTOMER.&#10;2.GET THE HEADER FILE FROM LIBRARY.">
+      <created>1433511760236</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1433511760236</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.Updated script on(06-06-2015)UPDATED THE SCRIPT FOR STARTTIME AND ENDTIME AS ARRAY IN VIEW AND MODEL.">
+      <created>1433590092866</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1433590092866</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1.Updated script on(08-06-2015) IMPLEMENTED AUTOFOCUS IN CUSTOMER TERMINATION FORM.&#10;2.FIXED PRELOADER BREAKING IMAGE WHILE MENU LOADING.">
+      <created>1433768850885</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1433768850885</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1.Updated script on(08-06-2015) IMPLEMENTED AUTOFOCUS IN CUSTOMER TERMINATION FORM.&#10;2.FIXED PRELOADER BREAKING IMAGE WHILE MENU LOADING.">
+      <created>1433769098600</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1433769098600</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1.Updated script on(09-06-2015) UPDATED SCRIPT FOR CALENDAR UPDATION IN  STARHUB.&#10;2.CHANGED THE DELETE CALENDAR FUNCTION IN EILIB CALENDAR&#10;3.CLEARED THE LISTBOX WHEN RADIO BTN CLICK">
+      <created>1433857020552</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1433857020552</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1.Updated script on(10-06-2015) CLEARED THE ISSUES OPENED ON 09-06-2015 IN BIZ DAILY FORM .">
+      <created>1433942369252</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1433942369252</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1.Updated script on(12-06-2015) FIXED ISSUE IN HOUSEKEEPING PAYMENT DURATION SEARCH RESULT AND UPDATE BUTTON VALIDATION.&#10;2.DID CALENDAR ROLLBACK FOR STARHUB CREATION AND UPDATION / IMPLEMENTED PLACEHOLDER AND DP ICON.&#10;3.DID CALENDAR ROLLBACK FOR CUSTOMER TERMINATION.&#10;&#10;">
+      <created>1434113904862</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1434113904862</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1.Updated script on(12-06-2015) FIXED ISSUE IN HOUSEKEEPING PAYMENT DURATION SEARCH RESULT AND UPDATE BUTTON VALIDATION.&#10;2.DID CALENDAR ROLLBACK FOR STARHUB CREATION AND UPDATION / IMPLEMENTED PLACEHOLDER AND DP ICON.&#10;3.DID CALENDAR ROLLBACK FOR CUSTOMER TERMINATION.&#10;&#10;">
+      <created>1434114055319</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1434114055319</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1.REMOVED THE UNWANTED RETURN FUNCTION IN MODEL.&#10;&#10;">
+      <created>1434170707167</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1434170707167</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1.IMPLEMENTED PLACEHOLDER AND DATEPICKER ICON IN PERSONAL EXPENSE FORM.&#10;2.FORM HEADER MAKE IT RESPONSIVE.&#10;&#10;">
+      <created>1434199180273</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1434199180273</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1.FIXED THE ISSUES IN BIZ DAILY AND BIZ DETAIL FORMS.&#10;&#10;">
+      <created>1434374724609</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1434374724609</updated>
+    </task>
+    <task id="LOCAL-00017" summary="1.DID UPDATE ICON VALIDATION FOR STARHUB TABLE.&#10;2.ADDED SCRIPT FOR DELETE FUNCTION AND PROCESSING NOT FINISHED.&#10;&#10;">
+      <created>1434460730430</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1434460730430</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1.FIXED THE ISSUES IN BIZ DETAIL FORM(DELETE OPTION AND CALENDAR UPDATION)&#10;2.FIXED THE ISSUE IN PERSONAL EXPENSE FORM&#10;3.IN STAFF DAILY EXPENSE, IN ENTRY FORM DID VALIDATION FOR DATEPICKER, RADIO BUTTON VALIDATIN IN STAFF SALARY, SAVE BUTTON VALIDATION WITH SAVE PART.&#10;&#10;">
+      <created>1434546444546</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1434546444546</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1.DID VALIDATIION FOR EXPENSE STAFF ENTRY AFTER SAVE.&#10;2.ALIGNED THE SEARCH/UPDATE FORM REDUCED THE GAP BETWEEN THE ELEMENTS.&#10;3.DID SEARCH PART FOR AGENT COMMISSION AND STAFF SALRY WITH ALL SEARCH OPTIONS .&#10;&#10;">
+      <created>1434631901454</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1434631901454</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1.DID SEARCH PART FOR STAFF EXPENSE WITH VALIDATION.&#10;2.CORRECTED UPDATE PART AND DELETE PAT WITH  VALIDATION AFTER UPDATION/DELETION.&#10;3.SHOWED THE FORM WHILE EDIT CLICK WITH CORRECT DATA AND UPDATE BTN VALIDATION.&#10;&#10;">
+      <created>1434718666098</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1434718666098</updated>
+    </task>
+    <task id="LOCAL-00021" summary="1.DID SALARY ENTRY UPDATE AND DELETE PART WITH VALIDATION.&#10;2.DID INLINE EDIT FOR STAFF EXPENSE TYPE.&#10;&#10;">
+      <created>1434802136019</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1434802136019</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24018127" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.72440946" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.72440946" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="1.Updated script on(29-05-2015) DID PDF EXPORT FOR DATATABLE IN BIZ DETAIL.&#10; 2.IMPLEMENTED AUTOFOCUS,AUTOGROW FOR EXPENSE(BIZ DAILY,BIZ DETAIL,PERSONAL)&#10; 3.ADDED 3 FUNCTION IN COMMONFUNCTION" />
+    <MESSAGE value="1.Updated script on(30-05-2015)  DESINGED CUSTOMER TERMINATION FORM WITH LOADED CUSTOMER DETAILS IN TABLE FOR ACTIVE CUSTOMER" />
+    <MESSAGE value="1.Updated script on(01-06-2015)  SHOWED THE CUSTOMER DETAILS IN FORM WITH VALIDATION AND ALIGNED&#10;" />
+    <MESSAGE value="1.Updated script on(02-06-2015) DELETED UNWANTED FILES AND SEPARATED MODEL AND VIEW FILES IN CORRESPONDING FOLDER.&#10;2.COMPLETED SAVE PART FOR UNTERMINATED AND REACTIVE CUSTOMER.&#10;3.CHANGED THE TIME FORMATE IN TERMINATION CALENDAR FUNCTION AND CORRECTED OUTPUT ARRAY IN COMMON FUNCTION.&#10;" />
+    <MESSAGE value="1.Updated script on(04-06-2015) CHANGED THE MVC NAME AS PER NOMENCLATURE AND MOVED THE CONTROLLER FILE INTO CORRESPONDING FOLDER.&#10;2.REMOVED INCLUDE FILE IN CONTROLLER AND USERSTAMP,TIMEZONEFORMAT GET FROM EILIB.&#10;3.CHANGED URL AS GLOBAL AND USED CONSTRUCT FOR LOAD MODEL IN CONTROLLER.&#10;" />
+    <MESSAGE value="1.Updated script on(05-06-2015) UPDATED THE SCRIPT FOR CALENDAR PROCESS FOR ACTIVE CUSTOMER.&#10;2.GET THE HEADER FILE FROM LIBRARY." />
+    <MESSAGE value="1.Updated script on(06-06-2015)UPDATED THE SCRIPT FOR STARTTIME AND ENDTIME AS ARRAY IN VIEW AND MODEL." />
+    <MESSAGE value="1.Updated script on(08-06-2015) IMPLEMENTED AUTOFOCUS IN CUSTOMER TERMINATION FORM.&#10;2.FIXED PRELOADER BREAKING IMAGE WHILE MENU LOADING." />
+    <MESSAGE value="1.Updated script on(09-06-2015) UPDATED SCRIPT FOR CALENDAR UPDATION IN  STARHUB.&#10;2.CHANGED THE DELETE CALENDAR FUNCTION IN EILIB CALENDAR&#10;3.CLEARED THE LISTBOX WHEN RADIO BTN CLICK" />
+    <MESSAGE value="1.Updated script on(10-06-2015) CLEARED THE ISSUES OPENED ON 09-06-2015 IN BIZ DAILY FORM ." />
+    <MESSAGE value="1.Updated script on(12-06-2015) FIXED ISSUE IN HOUSEKEEPING PAYMENT DURATION SEARCH RESULT AND UPDATE BUTTON VALIDATION.&#10;2.DID CALENDAR ROLLBACK FOR STARHUB CREATION AND UPDATION / IMPLEMENTED PLACEHOLDER AND DP ICON.&#10;3.DID CALENDAR ROLLBACK FOR CUSTOMER TERMINATION.&#10;&#10;" />
+    <MESSAGE value="1.REMOVED THE UNWANTED RETURN FUNCTION IN MODEL.&#10;&#10;" />
+    <MESSAGE value="1.IMPLEMENTED PLACEHOLDER AND DATEPICKER ICON IN PERSONAL EXPENSE FORM.&#10;2.FORM HEADER MAKE IT RESPONSIVE.&#10;&#10;" />
+    <MESSAGE value="1.FIXED THE ISSUES IN BIZ DAILY AND BIZ DETAIL FORMS.&#10;&#10;" />
+    <MESSAGE value="1.DID UPDATE ICON VALIDATION FOR STARHUB TABLE.&#10;2.ADDED SCRIPT FOR DELETE FUNCTION AND PROCESSING NOT FINISHED.&#10;&#10;" />
+    <MESSAGE value="1.FIXED THE ISSUES IN BIZ DETAIL FORM(DELETE OPTION AND CALENDAR UPDATION)&#10;2.FIXED THE ISSUE IN PERSONAL EXPENSE FORM&#10;3.IN STAFF DAILY EXPENSE, IN ENTRY FORM DID VALIDATION FOR DATEPICKER, RADIO BUTTON VALIDATIN IN STAFF SALARY, SAVE BUTTON VALIDATION WITH SAVE PART.&#10;&#10;" />
+    <MESSAGE value="1.DID VALIDATIION FOR EXPENSE STAFF ENTRY AFTER SAVE.&#10;2.ALIGNED THE SEARCH/UPDATE FORM REDUCED THE GAP BETWEEN THE ELEMENTS.&#10;3.DID SEARCH PART FOR AGENT COMMISSION AND STAFF SALRY WITH ALL SEARCH OPTIONS .&#10;&#10;" />
+    <MESSAGE value="1.DID SEARCH PART FOR STAFF EXPENSE WITH VALIDATION.&#10;2.CORRECTED UPDATE PART AND DELETE PAT WITH  VALIDATION AFTER UPDATION/DELETION.&#10;3.SHOWED THE FORM WHILE EDIT CLICK WITH CORRECT DATA AND UPDATE BTN VALIDATION.&#10;&#10;" />
+    <MESSAGE value="1.DID SALARY ENTRY UPDATE AND DELETE PART WITH VALIDATION.&#10;2.DID INLINE EDIT FOR STAFF EXPENSE TYPE.&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.DID SALARY ENTRY UPDATE AND DELETE PART WITH VALIDATION.&#10;2.DID INLINE EDIT FOR STAFF EXPENSE TYPE.&#10;&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Creation_Search_Update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_table/media/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11447811">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/database/DB_driver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39517626">
+          <caret line="841" column="5" selection-start-line="841" selection-start-column="5" selection-end-line="841" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_table/media/css/colreorder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1222031">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/SetCase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.63822526">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/JQuery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="199" column="35" selection-start-line="199" selection-start-column="26" selection-end-line="199" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44464287">
+          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EI GAS LIB/GAS EILIB FR PHP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EI GAS LIB/REPORT.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EI GAS LIB/DD EXTRACTION.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5221843">
+          <caret line="210" column="39" selection-start-line="210" selection-start-column="39" selection-end-line="210" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/EI_HDR.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.09107143">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/UNIT/Ctrl_Unit_Creation_Search_Update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/UNIT/Vw_Unit_Creation_Search_Update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.475089">
+          <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+          <folding>
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437977714672" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_calender.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0889679">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1437484315389" expanded="true" signature="-1:-1" placeholder="SELECT C.CUS..CUSTOMER_ENTRY_DETAILS..." />
+            <marker date="1437484315389" expanded="true" signature="-1:-1" placeholder="SELECT C.CUS..CUSTOMER_ENTRY_DETAILS..." />
+            <marker date="1437484315389" expanded="true" signature="-1:-1" placeholder="SELECT CUFD_..CUSTOMER_FILE_DIRECTORY..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/EILIB/Mdl_eilib_common_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48398575">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <marker date="1438059462460" expanded="true" signature="-1:-1" placeholder="SELECT UNIT_..UNIT_FOLDER_DIRECTORY..." />
+            <marker date="1438059462460" expanded="true" signature="-1:-1" placeholder="SELECT UNIT_..UNIT..." />
+            <marker date="1438059462460" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..UNIT..." />
+            <marker date="1438059462460" expanded="true" signature="-1:-1" placeholder="SELECT EHKU_..EXPENSE_HOUSEKEEPING_UNIT..." />
+            <marker date="1438059462460" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..EMAIL_LIST..." />
+            <marker date="1438059462460" expanded="true" signature="-1:-1" placeholder="SELECT EL_EM..EMAIL_LIST..." />
+            <marker date="1438059462460" expanded="true" signature="-1:-1" placeholder="SELECT C.CUS..CUSTOMER_ENTRY_DETAILS..." />
+            <marker date="1438059462460" expanded="true" signature="-1:-1" placeholder="SELECT CLP.C..CUSTOMER_LP_DETAILS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/FINANCE/FINANCE/Ctrl_Finance_Deposit_Calculations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7259787">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EI GAS LIB/DD CALCULATIONS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36177474">
+          <caret line="272" column="3" selection-start-line="272" selection-start-column="3" selection-end-line="272" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Extract_Deposit_Pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="533" column="239" selection-start-line="533" selection-start-column="237" selection-end-line="533" selection-end-column="239" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/FINANCE/FINANCE/Vw_Finance_Deposit_Calculations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61985016">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+          <folding>
+            <element signature="e#6#116#0#PHP" expanded="true" />
+            <marker date="1438082707303" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/FINANCE/FINANCE/Mdl_finance_extract_deposit_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60714287">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <marker date="1437823076401" expanded="true" signature="-1:-1" placeholder="SELECT DDC_D..DEPOSIT_DEDUCTION_CONFIGURATION..." />
+            <marker date="1437823076401" expanded="true" signature="-1:-1" placeholder="SELECT ETD ...EMAIL_TEMPLATE_DETAILS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/FINANCE/FINANCE/Mdl_finance_deposit_calculations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68214285">
+          <caret line="719" column="12" selection-start-line="719" selection-start-column="12" selection-end-line="719" selection-end-column="12" />
+          <folding>
+            <marker date="1438082479088" expanded="true" signature="1289:1344" placeholder="SELECT DISTI..." />
+            <marker date="1438082479088" expanded="true" signature="1717:1728" placeholder="DROP TABLE $..." />
+            <marker date="1438082479088" expanded="true" signature="1921:1962" placeholder="SELECT CED_I..CUSTOMER_ENTRY_DETAILS..." />
+            <marker date="1438082479088" expanded="true" signature="2174:2198" placeholder="SELECT UNIT_..UNIT..." />
+            <marker date="1438082479088" expanded="true" signature="2398:2431" placeholder="SELECT PD_ID..PAYMENT_DETAILS..." />
+            <marker date="1438082479088" expanded="true" signature="2641:2671" placeholder="SELECT EU_ID..EXPENSE_UNIT..." />
+            <marker date="1438082479088" expanded="true" signature="2882:2914" placeholder="SELECT CUSTO..CUSTOMER..." />
+            <marker date="1438082479088" expanded="true" signature="3141:3179" placeholder="SELECT CLP_I..CUSTOMER_LP_DETAILS..." />
+            <marker date="1438082479088" expanded="true" signature="4259:4845" placeholder="SELECT DISTI..CUSTOMER_ENTRY_DETAILS..." />
+            <marker date="1438082479088" expanded="true" signature="6950:7018" placeholder="SELECT DDC_D..DEPOSIT_DEDUCTION_CONFIGURATION..." />
+            <marker date="1438082479088" expanded="true" signature="10769:10843" placeholder="UPDATE FILE_..." />
+            <marker date="1438082479088" expanded="true" signature="14670:14684" placeholder="SELECT * FRO..." />
+            <marker date="1438082479088" expanded="true" signature="14784:14836" placeholder="SELECT * FRO..." />
+            <marker date="1438082479088" expanded="true" signature="34968:34979" placeholder="DROP TABLE $..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
