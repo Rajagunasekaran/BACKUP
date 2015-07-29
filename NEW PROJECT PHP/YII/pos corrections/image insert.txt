@@ -1,0 +1,9 @@
+//purchaseentrycontroller.php-actionmultiproductsave()-if() conditon
+$extimgpath = $productfields['imagepath'];
+
+//js-submitMultipriceproduct()
+var img=$('#Product_imagepath').val();
+
+if(field.name==='Product[imagepath]')
+   postObj['Product'][res[1]] = img;
+}

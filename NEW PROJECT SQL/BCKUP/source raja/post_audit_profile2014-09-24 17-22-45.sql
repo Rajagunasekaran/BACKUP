@@ -1,0 +1,23 @@
+USE source_raja;
+
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (1,'PROJECT_DETAILS');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (2,'USER_ADMIN_REPORT_DETAILS');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (3,'ADMIN_WEEKLY_REPORT_DETAILS');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (4,'ONDUTY_ENTRY_DETAILS');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (5,'EMPLOYEE_DETAILS');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (6,'MENU_PROFILE');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (7,'ROLE_CREATION');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (8,'USER_LOGIN_DETAILS');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (9,'USER_ACCESS');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (10,'USER_MENU_DETAILS');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (11,'PUBLIC_HOLIDAY');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (12,'CONFIGURATION_PROFILE');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (13,'CONFIGURATION');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (14,'ERROR_MESSAGE_CONFIGURATION');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (15,'USER_RIGHTS_CONFIGURATION');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (16,'REPORT_CONFIGURATION');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (17,'ATTENDANCE_CONFIGURATION');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (18,'TICKLER_PROFILE');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (19,'TICKLER_TABID_PROFILE');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (20,'BASIC_ROLE_PROFILE');
+insert into `post_audit_profile`(`POSTAP_ID`,`POSTAP_DATA`) values (21,'BASIC_MENU_PROFILE');

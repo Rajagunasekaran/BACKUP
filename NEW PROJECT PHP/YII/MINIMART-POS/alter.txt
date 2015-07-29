@@ -1,0 +1,1 @@
+ALTER TABLE `poslogreport` ADD `rtn_product_quantity` INT NOT NULL DEFAULT '0' AFTER `today_purchase`;

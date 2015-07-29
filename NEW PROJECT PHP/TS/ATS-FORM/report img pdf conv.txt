@@ -1,0 +1,11 @@
+    //report img pdf
+//        $imageheadername='LMC TIME SHEET IMAGE REPORT FOR '.$EmployeeReport[5].' ON '.date('d-m-Y',strtotime($reportdate));
+//        $imagefilename='LMC TIME SHEET IMAGE REPORT FOR '.$EmployeeReport[5].' ON '.date('d-m-Y',strtotime($reportdate)).'.pdf';
+//        $image_pdf='<html><body><table><sethtmlpageheader name="header" page="all" value="on" show-this-page="1"/><tr><td><img id=image src="'.$uploadpath.'"/><br></td></tr></table></body></html>';
+//        $mpdf=new mPDF('utf-8','A4');
+//        $mpdf->debug=true;
+//        $mpdf->SetHTMLHeader('<h3><div style="text-align: center; font-weight: bold;margin-bottom: 2cm;">'.$imageheadername.'</div></h3>', 'O', true);
+//        $mpdf->SetHTMLFooter('<div style="text-align: center;">{PAGENO}</div>');
+//        $mpdf->WriteHTML($image_pdf);
+//        $imagepdf=$mpdf->Output('foo.pdf','S');
+//        $mail->AddStringAttachment($imagepdf,$imagefilename);

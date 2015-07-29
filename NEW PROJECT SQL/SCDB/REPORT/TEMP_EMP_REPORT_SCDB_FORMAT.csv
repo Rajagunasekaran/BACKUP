@@ -1,0 +1,721 @@
+siloId,timeStamp,name,Uname,Udate,Ureport,Uid,userStamp
+report,2013-04-02,HARINI,harini.ramachandran86@gmail.com,2013-04-02,1.done coding in google apps script,1,harini.ramachandran86@gmail.com
+report,2013-04-03,HARINI,harini.ramachandran86@gmail.com,2013-04-03,"1.learnt sql quries,created form using google script,worked out queries..",2,harini.ramachandran86@gmail.com
+report,2013-04-04,HARINI,harini.ramachandran86@gmail.com,2013-04-04,1.done coding using frontend(googlescript) and backend(sql)connected using db to store values.,3,harini.ramachandran86@gmail.com
+report,2013-04-05,HARINI,harini.ramachandran86@gmail.com,2013-04-05,1.done coding using flux table,4,harini.ramachandran86@gmail.com
+report,2013-04-06,HARINI,harini.ramachandran86@gmail.com,2013-04-06,"1.done coding using flux table using select,update,delete queries",5,harini.ramachandran86@gmail.com
+report,2013-04-08,HARINI,harini.ramachandran86@gmail.com,2013-04-08,"1.done coding using flux table using select,update,delete queries nd done sorting for employee name learnt to create sites done flex tables and viewed by TL",6,harini.ramachandran86@gmail.com
+report,2013-04-09,DHINAKARAN,dhinakaranilk@gmail.com,2013-04-09,"learnt the basic sql queries with simple examples and data types,clauses and TRIGGERS,VIEWS,DML commands",7,dhinakaranilk@gmail.com
+report,2013-04-09,HARINI,harini.ramachandran86@gmail.com,2013-04-09,1.done the changes for flextable and done validation function sent to TL,8,harini.ramachandran86@gmail.com
+report,2013-04-10,DHINAKARAN,dhinakaranilk@gmail.com,2013-04-10,"Advanced SQL methods such as JOINS,CONSTRAINTS,unions,VIEWS,..then how to create a index in my sql was succesfully studied.",9,dhinakaranilk@gmail.com
+report,2013-04-10,HARINI,harini.ramachandran86@gmail.com,2013-04-10,1.done changes in flextables which was said by TL,10,harini.ramachandran86@gmail.com
+report,2013-04-11,DHINAKARAN,dhinakaranilk@gmail.com,2013-04-11,learnt the Stored Procedure concepts with examples and work out various types of queries,11,dhinakaranilk@gmail.com
+report,2013-04-11,HARINI,harini.ramachandran86@gmail.com,2013-04-11,"1.Created queries using join ,corrected the issues",12,harini.ramachandran86@gmail.com
+report,2013-04-12,HARINI,harini.ramachandran86@gmail.com,2013-04-12,1.corrected the issues in the flex table,13,harini.ramachandran86@gmail.com
+report,2013-04-13,HARINI,harini.ramachandran86@gmail.com,2013-04-13,1.corrected the issues in the flex table,14,harini.ramachandran86@gmail.com
+report,2013-04-15,HARINI,harini.ramachandran86@gmail.com,2013-04-15,1.corrected the issues,15,harini.ramachandran86@gmail.com
+report,2013-04-16,HARINI,harini.ramachandran86@gmail.com,2013-04-16,"1.corrected the issues in flex table( these are the issues which i had cleared: When any field except the comments will empty ,the data cant stored in data base.
+2.if update msg came at first time ,it ll clear again when i click the radio button in the flex table.(same for delete msg).
+3.when i click delete button ,Delete and search button are not visible). 4.save message cant shows after saving the employee data.",16,harini.ramachandran86@gmail.com
+report,2013-04-17,HARINI,harini.ramachandran86@gmail.com,2013-04-17,"created 8 tables(1.the first 4 tables are samples and the next 4 tables are 1.EXPENSE_DETAIL_STAFF_SALARY,2.EXPENSE_STAFF_SALARY,3.EXPENSE_STAFF.
+,4.EXPENSE_AGENT",17,harini.ramachandran86@gmail.com
+report,2013-04-18,HARINI,harini.ramachandran86@gmail.com,2013-04-18,"created 5 views(1.ACTIVE CUSTOMER,2.NON ACTIVE CUSTOMER,3.ALL TERMINATED CUSTOMERS,4.-ALL PRE TERMINATED CUSTOMER,5.ALL CANCEL CUSTOMER)",18,harini.ramachandran86@gmail.com
+report,2013-04-19,HARINI,harini.ramachandran86@gmail.com,2013-04-19,"1.joined 4 tables by using views getting a particular value from each table,2.created employee detail table nd learnt how to insert values ,3.earnt store procedure",19,harini.ramachandran86@gmail.com
+report,2013-04-20,HARINI,harini.ramachandran86@gmail.com,2013-04-20,"1.CREATED TABLES IN TICKLER,2.DONE WORK IN SPREADSHEET3.LEARNT TRIGGERS",20,harini.ramachandran86@gmail.com
+report,2013-04-22,HARINI,harini.ramachandran86@gmail.com,2013-04-22,"1.learnt triggers nd done query using triggeres,2.doING migration(4032RECORDS)",21,harini.ramachandran86@gmail.com
+report,2013-04-23,HARINI,harini.ramachandran86@gmail.com,2013-04-23,"1.DOING MIGRATION(4032RECORDS),2.CREATED TRIGGER USING INSERT",22,harini.ramachandran86@gmail.com
+report,2013-04-24,HARINI,harini.ramachandran86@gmail.com,2013-04-24,"1.DONE TRIGGER USING UPDATE,DELETE,INSERT....2.DOING MIGRATION(4032RECORDS)",23,harini.ramachandran86@gmail.com
+report,2013-04-25,HARINI,harini.ramachandran86@gmail.com,2013-04-25,FINALLY FINISHED MIGRATING 4032 RECORDS..,24,harini.ramachandran86@gmail.com
+report,2013-04-26,HARINI,harini.ramachandran86@gmail.com,2013-04-26,ABSENT,25,harini.ramachandran86@gmail.com
+report,2013-04-27,HARINI,harini.ramachandran86@gmail.com,2013-04-27,ABSENT,26,harini.ramachandran86@gmail.com
+report,2013-04-29,HARINI,harini.ramachandran86@gmail.com,2013-04-29,1.created trigger for 5 tables using dml operation,27,harini.ramachandran86@gmail.com
+report,2013-04-30,HARINI,harini.ramachandran86@gmail.com,2013-04-30,created 4 tables and the result 4 tables result is displayed in trigger table using dml operation,28,harini.ramachandran86@gmail.com
+report,2013-05-08,LAKSHMINARAYANAN,bgopi7@gmail.com,2013-05-08,"created three tables using primary key and foreign key ,and also done insertion deletion and updation.and read stored procedures concepts and some basic sql concepts",29,bgopi7@gmail.com
+report,2013-05-08,nithiyanandan,nithi5990@gmail.com,2013-05-08,read concepts of trigger and joints (),30,nithi5990@gmail.com
+report,2013-05-09,LAKSHMINARAYANAN,bgopi7@gmail.com,2013-05-09,"EXECUTE STORED PROCEDURES OUERIES LIKE SELECT ,INSERT .STUDY SOME BASIC QUERIES.",31,bgopi7@gmail.com
+report,2013-05-09,nithiyanandan,nithi5990@gmail.com,2013-05-09,"alter table, update, joint quries",32,nithi5990@gmail.com
+report,2013-05-10,LAKSHMINARAYANAN,bgopi7@gmail.com,2013-05-10,"using stored procedures insert update,select made for three tables using single stored procedures.joins concept also used to view all fields in single queries.",33,bgopi7@gmail.com
+report,2013-05-10,nithiyanandan,nithi5990@gmail.com,2013-05-10,"LEARNT CONCEPTS OF SQL STORED PROCEDURES FOR SINGLE TABLE AND EXECUTED INSERT, DELETE, UPDATE",34,nithi5990@gmail.com
+report,2013-05-16,ASMA,asmainfotech3@gmail.com,2013-05-16,"1.did query using DML, DDL using foreign key constraints 
+2.tried join queries",35,asmainfotech3@gmail.com
+report,2013-05-17,ASMA,asmainfotech3@gmail.com,2013-05-17,"1.i did triggers using insert,update,delete.then i learnt about store procedures",36,asmainfotech3@gmail.com
+report,2013-06-06,THARINI,tharini3@gmail.com,2013-06-06,counselled the emplyopees and got their reviews about the company. got some marketing information about the firm,37,tharini3@gmail.com
+report,2013-06-07,THARINI,tharini3@gmail.com,2013-06-07,prepared the salary payslip and payment slips,38,tharini3@gmail.com
+report,2013-06-08,THARINI,tharini3@gmail.com,2013-06-08,entries for payment slips,39,tharini3@gmail.com
+report,2013-06-10,THARINI,tharini3@gmail.com,2013-06-10,edited payslip And payment invoice,40,tharini3@gmail.com
+report,2013-06-11,THARINI,tharini3@gmail.com,2013-06-11,"completed palyment invoice, learned some marketing techniques",41,tharini3@gmail.com
+report,2013-07-01,MUGILAN,mugilan@gmail.com,2013-07-01,"1. mysql recall
+2. today i covered topics basic insert delete update drop,select, create table;
+3. and i covered select top , like, wilcards,in,between,join,primary key, foreign key,default ,unique,not null",42,mugilan@gmail.com
+report,2013-07-01,PRBHAKARAN,prbhakaran@gmail.com,2013-07-01,"Today covered some Google script and Mysql
+1) Types of User Interface
+2) try/catch
+3) creating buttons ,textbox,etc.,
+4) Creating table in mysql
+5) Retrieve tables, select,Distinct
+6) usage of where,order by,update.
+7) Joining,Primary Key, Foreign Key",43,prbhakaran@gmail.com
+report,2013-07-02,MUGILAN,mugilan@gmail.com,2013-07-02,work out mysql with example,44,mugilan@gmail.com
+report,2013-07-08,RAJAGOPAL,rajagopal@gmail.com,2013-07-08,"1.Studied mysql basic concept
+2.Working mysql concept",45,rajagopal@gmail.com
+report,2013-07-09,RAJAGOPAL,rajagopal@gmail.com,2013-07-09,"1.Studied stored procedure and function
+2.working that concept for mysql",46,rajagopal@gmail.com
+report,2013-07-10,SHA,shameerviyas@gmail.com,2013-07-10,"Mr prem said firefox intermediately not opning problem that fixing and checking,",47,shameerviyas@gmail.com
+report,2013-07-11,RAJAGOPAL,rajagopal@gmail.com,2013-07-11,1.create stored procedure and working all statement,48,rajagopal@gmail.com
+report,2013-07-12,RAJAGOPAL,rajagopal@gmail.com,2013-07-12,"1.Stuied trigger concept
+2.working with that concept",49,rajagopal@gmail.com
+report,2013-07-15,VIKIRAM,vikiram29@gmail.com,2013-07-15,"1.Refreshed all sql syntax
+2. worked on all SP, trigger, view and other functionalities
+3. Tried to complete CN assisgned task",50,vikiram29@gmail.com
+report,2013-07-16,Sivabalan,sivabalan.bt@gmail.com,2013-07-16,"1. Learned SQL basics
+2.Performed sql queries 
+3. Performed sql functions and constraints.
+4. Performed sql views ( create, update and delete views)",51,sivabalan.bt@gmail.com
+report,2013-08-19,vimala,vims2kjmj@gmail.com,2013-08-19,"1. lEARNED stored PROCEDURE IN mY sql
+2. wROTE A STORED PROCEDURE FOR CUSTOMER CARD ASSIGN FORM WHICH IS HALF THE WAY
+3. TRIED OUT SPLITTER FUNCTIONS AND TEMP TABLES WHICH IS NOT YET COMPLETED",52,vims2kjmj@gmail.com
+report,2013-12-23,KALAIVANI .R,kalaismileyy@gmail.com,2013-12-23,"1.Learned basic sql queries
+2. Implemented and worked with sql basic queries create, insert,delete,update ,select, alter,drop tables
+3. Learned join queries",53,kalaismileyy@gmail.com
+report,2013-12-24,KALAIVANI .R,kalaismileyy@gmail.com,2013-12-24,"1.Learned stored procedure
+2.Did given task in stored procedure",54,kalaismileyy@gmail.com
+report,2013-12-25,KALAIVANI .R,kalaismileyy@gmail.com,2013-12-25,"1.did given task in sp(create emp details and staff salary detail table and insert table values from staff configuration table )
+2.Learned and views in sql
+3.doing spread sheet work (aircon services and car park)",55,kalaismileyy@gmail.com
+report,2013-12-26,KALAIVANI .R,kalaismileyy@gmail.com,2013-12-26,"1.Doing BIZ-DAILY-SCDB-FORMAT spreadsheet.
+2.arranged headers are below sheets.
+ AIRCON SERVICES, 
+ CAR PARK, 
+ DIGITAL VOICE ,
+ FACILITY USE, 
+ MOVING IN AND OUT 
+ and merging these sheets into another single spread sheet as ""BIZ_DAILY_SCDB_KALAI"".",56,kalaismileyy@gmail.com
+report,2013-12-27,KALAIVANI .R,kalaismileyy@gmail.com,2013-12-27,"1.Completed BIZ_DAILY_SCDB_FORMAT ,BIZ_DAILY_SCDB_FORMAT1 spread sheets
+2.Arraged headers are
+ HOUSE KEEPING,
+ HOUSE KEEPING PAYMENT,
+ PETTY CASH
+ PURCHASE NEW ACCESS
+ STAR HUB
+ UNIT EXPENSE
+merging these sheets into another single spread sheet",57,kalaismileyy@gmail.com
+report,2013-12-28,KALAIVANI .R,kalaismileyy@gmail.com,2013-12-28,"1.Delivered CHEQUE_ENTRY_DETAILS1 .(created and inserted customer details)
+2.Checked BANK_TRANSFER table customers details and collect inconsistant data",58,kalaismileyy@gmail.com
+report,2013-12-30,KALAIVANI .R,kalaismileyy@gmail.com,2013-12-30,"Checking BIZ_EXPENSES expenses table (electricity,moving_out_in,facily,airconservice,pettycash,house keeping,housekeeping payment,house keeping unit,purchase card detail ,starhub)inserted data 
+correct data:
+exp_facility, 
+moving_out and in,
+petty cash 
+find issues:
+aircon services 128 data(130 rows in migration table)
+purchase card expenses(epnc no dulpicate entry) 
+house keeping 1452 data(712 rows in mirgration table)",59,kalaismileyy@gmail.com
+report,2013-12-31,KALAIVANI .R,kalaismileyy@gmail.com,2013-12-31,"1.Checked BIZ_EXPENSES expenses table (electricity,moving_out_in,facily,airconservice,pettycash,house keeping,housekeeping payment,house keeping unit,purchase card detail ,starhub)inserted data...
+2.inconsistant customer report sent",60,kalaismileyy@gmail.com
+report,2014-01-02,KALAIVANI .R,kalaismileyy@gmail.com,2014-01-02,"checked BIZ_EXPENSES expenses table ,
+aircon services and carpark detail tables, and sent patch report .",61,kalaismileyy@gmail.com
+report,2014-01-06,RANDJITHKUMAR M,randjithkumar@gmail.com,2014-01-06,"written procedures for charts to plot monthly expenses for car, car_loan and Baby.",62,randjithkumar@gmail.com
+report,2014-01-07,RANDJITHKUMAR M,randjithkumar@gmail.com,2014-01-07,"modified procedure for chart as per the requirements, migration work on BANK_TT is ongoing",63,randjithkumar@gmail.com
+report,2014-01-08,RANDJITHKUMAR M,randjithkumar@gmail.com,2014-01-08,working on SP Charts as per the new logic,64,randjithkumar@gmail.com
+report,2014-01-09,RANDJITHKUMAR M,randjithkumar@gmail.com,2014-01-09,created procedure SP_CHARTS_EXPENSES have to be delivered after testing,65,randjithkumar@gmail.com
+report,2014-02-10,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-10,"1.perform the task of basic sql queries
+2.performing the operation joinqueries and alias queries
+3.studying with sql stored procedure
+4.perform the simple task in stored procedure",66,kader.abdul1989.ak@gmail.com
+report,2014-02-11,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-11,"1.creating the staff,salary table using sp 
+2.performing the operation of the insertion using sp
+3.performing the operation of the updation using sp
+4.performing the operation of the flag insertion using sp",67,kader.abdul1989.ak@gmail.com
+report,2014-02-12,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-12,"1.creating the staff ,salary table using trigger
+2.perform the operation of the creating,insertion using trigger
+3.to perform the operation of updation using trigger and sp
+4.to perform the operation of deletion using sp",68,kader.abdul1989.ak@gmail.com
+report,2014-02-13,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-13,"1.To perform the operation of deletion using trigger and sp
+2.To perfrom the operation of creating four table in one sp
+3.to perform the operation of inserting four table in one sp",69,kader.abdul1989.ak@gmail.com
+report,2014-02-14,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-14,"1. the operation of updation of four tables using one sp
+2. the operation of updation one table value to another table value using triggers in sp
+.with three temp tables.",70,kader.abdul1989.ak@gmail.com
+report,2014-02-15,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-15,"1.WORKING WITH TRIGGER TO UPDATE THE VALUES ONE TEMP TABLE TO ANOTHER TEMP
+2.STUDYING AND WORKING WITH VIEWS",71,kader.abdul1989.ak@gmail.com
+report,2014-02-17,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-17,"1.implementation of flag for sucess message for insertion and updation for following sp
+bizdly digital voice insert, blzdtl aircon service by insert, expense housekeeping payment insert",72,kader.abdul1989.ak@gmail.com
+report,2014-02-18,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-18,"implementation of flag for sucess message for insertion and updation for following sp
+BIZDLY_HKP_UPDATE,CHEQUE_INSERT,BIZDLY_PNC_INSERT,CHEQUE_UPDATE,
+EMPDTL_UPDATE.",73,kader.abdul1989.ak@gmail.com
+report,2014-02-19,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-19,ABSENT,74,kader.abdul1989.ak@gmail.com
+report,2014-02-20,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-20,ABSENT -FEVER,75,kader.abdul1989.ak@gmail.com
+report,2014-02-21,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-21,"ALTER TABLE FOR USER_RIGHTS,CONFIGURATION,EMAIL,
+UNIT,BANKTT,CHEQUE,ERM",76,kader.abdul1989.ak@gmail.com
+report,2014-02-22,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-22,"UPDATION OF SP_BIZDLY_PURCHASE_NEW_CARD_INSERT,
+STUDYING AND USE THE LIKE STATEMENT",77,kader.abdul1989.ak@gmail.com
+report,2014-02-24,BALAJI R,bala.ten10@gmail.com,2014-02-24,"1.PRACTICE ALL MYSQL QUERIS
+2.STUDY BASICK THINK IN MYSQL",78,bala.ten10@gmail.com
+report,2014-02-24,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-24,"updation of SP_BIZDLY_DIGITAL_VOICE_INSERT 
+updation of data type in sp for ERM AND EMAIL.",79,kader.abdul1989.ak@gmail.com
+report,2014-02-25,BALAJI R,bala.ten10@gmail.com,2014-02-25,"1.Stored Procedures,MYSQL QUERY
+2.PRACTICE PARAMETER,SP SAMPLE PROGARAMES
+3.VARIABLE DECLARATION",80,bala.ten10@gmail.com
+report,2014-02-25,M.ABDUL KADER,kader.abdul1989.ak@gmail.com,2014-02-25,"UPDATION OF UNIT LOGIN DETAILS ,BIZDLY_STARHUB_INSERT,
+BIZDTL_AIRCON_SERVICE_BY_INSERT,SP_BIZDLY_PURCHASE_NEW_CARD_UPDATE,
+SP_EMPDTL_UPDATE,SP_BIZDLY_PETTY_CASH_INSERT,
+SP_BIZDLY_PURCHASE_NEW_CARD_INSERT.",81,kader.abdul1989.ak@gmail.com
+report,2014-02-26,BALAJI R,bala.ten10@gmail.com,2014-02-26,1.UPDATE SP CASH_INSERT VERSIONS ETC,82,bala.ten10@gmail.com
+report,2014-02-27,BALAJI R,bala.ten10@gmail.com,2014-02-27,"1.SP_EMPDTL_INSERT_VER_1.0_27022014
+2.SP_BIZDLY_PETTY_CASH_INSERT_VER_0.7_27022014
+3.SP_BIZDLY_HOUSEKEEPING_PAYMENT_UPDATE_VER_0.4_27022014
+4.SP_CUSTOMER_CURRENT_MONTH_EXPIRY_VER03_27022014
+5.SP_CUSTOMER_EXPIRY_BEFORE_DATE_VER0.3_27022013
+6.SP_CUSTOMER_EXPIRY_BETWEEN_DATE_VER0.3_27022014
+7.SP_CUSTOMER_EXTENSION_INSERT_VER_07_27022014
+8.create sample sp with table",83,bala.ten10@gmail.com
+report,2014-02-28,BALAJI R,bala.ten10@gmail.com,2014-02-28,"1.SP_CONFIG_CHECK_TRANSACTION_VER_0_4_28022014
+2.SP_EMPDTL_INSERT_VER_1.1_28022014
+3.SP_EMPDTL_UPDATE_VER_0_6_27022014
+4.SP_SINGLE_TABLE_ROW_DELETION_VER_0_8_28022014
+5.SAMPLE SP CREATION",84,bala.ten10@gmail.com
+report,2014-03-01,BALAJI R,bala.ten10@gmail.com,2014-03-01,"1.insert tabel values bank detail,customer, bank,config,email,expalin ect
+2.create sample sp",85,bala.ten10@gmail.com
+report,2014-03-03,BALAJI R,bala.ten10@gmail.com,2014-03-03,"1.create seperate sp for update, delete,alter,insert
+2.create trigger in a table",86,bala.ten10@gmail.com
+report,2014-03-04,BALAJI R,bala.ten10@gmail.com,2014-03-04,"1.study about stored procedure looping concept
+2.creat storep procedure 
+3.worck to creat seperat sp for create command",87,bala.ten10@gmail.com
+report,2014-03-06,BALAJI R,bala.ten10@gmail.com,2014-03-06,1. CREATE SP FOR EXPENSE_STARHUB CORRECTION BENDING,88,bala.ten10@gmail.com
+report,2014-03-07,BALAJI R,bala.ten10@gmail.com,2014-03-07,1. CREATE SP FOR EXPENSE_STARHUB ONE ERROR IS NOT CLEARED,89,bala.ten10@gmail.com
+report,2014-03-08,BALAJI R,bala.ten10@gmail.com,2014-03-08,1.CREATE SP FOR EXPENSE_STARHUB,90,bala.ten10@gmail.com
+report,2014-04-02,RAGHU,raghunathu10@gmail.com,2014-04-02,"1.REMOVED BLANK SPACES AND COMMENT LINE IN SP_CAR_BABY_INSERT, SP_EXPENCE_PERSONAL . 
+2.FINISHED ALL THE GENERAL QURIES AND COMPLEX QUERIES(STORED PROCEDURE)",91,raghunathu10@gmail.com
+report,2014-04-03,RAGHU,raghunathu10@gmail.com,2014-04-03,"1. execute the basic trigger queries 
+2.execute the join queries for view the common datas(source and destination database)",92,raghunathu10@gmail.com
+report,2014-04-04,RAGHU,raghunathu10@gmail.com,2014-04-04,"1. checking both table data matching or not in the unit and unit scdb format 
+2.checking both table data matching or not in the customer and customer scdb format 
+3.checking both table data matching or not in the payment and rental scdb format",93,raghunathu10@gmail.com
+report,2014-04-05,RAGHU,raghunathu10@gmail.com,2014-04-05,"1. check common record from dailyexpense in source bizdaily record.
+2.check common record from source bizdetail record .",94,raghunathu10@gmail.com
+report,2014-04-07,RAGHU,raghunathu10@gmail.com,2014-04-07,"1. TASK REPLACE OF :
+COMMENT :797 AND ISSUE: 28
+POST_AUDIT_PROFILE TO TICKLER_TABID_PROFILE
+POSTAP_ID TO TTIP_ID
+POSTAP_DATA TO TTIP_DATA
+TO FOLLOWING TABLES:
+BANK TRANSFER
+CHEQUE
+EMPLOYEE_DETAILS
+STAFF EXPENSE
+SP AUTO TERMINATION:
+SP CUSTOMER UNTERMINATED:
+ SP CUSTOMER REACTIVE UPDATE
+SP CUSTOMER CANCEL INSERT
+2.checking common data records in staff detail scdb format and unit_access_stamp_detail
+expense_detail_staff_salary
+expense_agent
+expense staff
+expense_staff_salary",95,raghunathu10@gmail.com
+report,2014-04-10,RAGHU,raghunathu10@gmail.com,2014-04-10,"1. checking the unit, expense unit, expense configuration whether presented in biz_daily_scdb_format data
+2.checking the customer, payment details data whether presented in rental_scdb_format data",96,raghunathu10@gmail.com
+report,2014-04-11,RAGHU,raghunathu10@gmail.com,2014-04-11,"UPDATE THE SP , VIEW , TRIGGER USING WHICH FORM IN SS",97,raghunathu10@gmail.com
+report,2014-04-12,RAGHU,raghunathu10@gmail.com,2014-04-12,"1.UPDATE THE SP , VIEW , TRIGGER USING WHICH FORM IN SS
+2.cheked the biz_daily, biz_detail, staff, unit",98,raghunathu10@gmail.com
+report,2014-04-15,RAGHU,raghunathu10@gmail.com,2014-04-15,"1.CHECKED THE FOLLOWING DOMAINS FOR ALL THE RECORDS ARE MATCHED WITH SOURCE TABLE BANK,STAFF",99,raghunathu10@gmail.com
+report,2014-04-16,RAGHU,raghunathu10@gmail.com,2014-04-16,CHECKING ALL THE WRITTEN QUERY CORRECTLY WORKING OR NOT FOR MIGRATION,100,raghunathu10@gmail.com
+report,2014-04-17,RAGHU,raghunathu10@gmail.com,2014-04-17,"1.TEST EMPLOYEE UPDATE SP 
+2.CHECK AND IDENTIFY THE ERROR FOR(Cannot add or update a child row: a foreign key constraint fails (`DEV`.`EXPENSE_STARHUB`, CONSTRAINT `EXPENSE_STARHUB_ibfk_1` FOREIGN KEY (`EDSH_ID`) REFERENCES `EXPENSE_DETAIL_STAR_HUB` (`EDSH_ID`)))
+3.CREATE A SAMPLE PROCEDURE FOR EMPLOYEE (INSERT,UPDATE ,DELETE,)",101,raghunathu10@gmail.com
+report,2014-04-18,RAGHU,raghunathu10@gmail.com,2014-04-18,"1.TRY TO CREATE TRIGGER.
+2.CHECK ALL  FORM OBJECT AND ALL DOMAIN SP WITHOUT,WITH COMMENT NAME MATCHED OR NOT.
+3.got permission 1 hr reason going hospital at 2-3pm",102,raghunathu10@gmail.com
+report,2014-04-19,RAGHU,raghunathu10@gmail.com,2014-04-19,"CREATING A SAMPLE TRIGGER AND PROCEDURES(INSERT,UPDATE,DELETE)",103,raghunathu10@gmail.com
+report,2014-04-21,RAGHU,raghunathu10@gmail.com,2014-04-21,ABSENT Reason: WENT TO COLLEGE FOR PROJECT REVIEW,104,raghunathu10@gmail.com
+report,2014-04-22,RAGHU,raghunathu10@gmail.com,2014-04-22,"1.UPDATED TIMESTAMP OCBC_SCDB_FORMAT
+2.COMPARED TIMESTAMP FOR CONFIG_SCDB_FORMAT AND CONFIG_SQL_FORMAT
+3.CHECKED BIZ_DETAIL_SCDB_FORMAT TIMESTAMP",105,raghunathu10@gmail.com
+report,2014-04-23,RAGHU,raghunathu10@gmail.com,2014-04-23,"1.check the all data are migration in staff_detail and daily .
+2.And also check timestamps for expense_staff _salary,expense_agent,and expense_staff,expense_detail_staff_salary.
+3.check the form object and form sp ..record name are matched or not 
+4.comment and space removing from card assinging,customer extension SP's",106,raghunathu10@gmail.com
+report,2014-04-24,RAGHU,raghunathu10@gmail.com,2014-04-24,ON DUTY,107,raghunathu10@gmail.com
+report,2014-04-25,RAGHU,raghunathu10@gmail.com,2014-04-25,"1.SP_CHK_TRANSACTION CHECK THE ERROR NOT WORKING IN CLOUD
+2.SAMPLE PROCEDURE FOR UNIT_LOGIN_DETAIL",108,raghunathu10@gmail.com
+report,2014-04-26,RAGHU,raghunathu10@gmail.com,2014-04-26,1.CREATE SP FOR SAMPLE USERLOGIN DETAILS INSERT UODATE.,109,raghunathu10@gmail.com
+report,2014-04-26,VENKATESH,vkingmaster@gmail.com,2014-04-26,"1.CREATING THE BASIC COMMAND FOR STORING DATA
+2.JOIN QUERIES DID AND UPDATE EXECUTED
+BASIC OF THE MYSQL CONCEPT LEARN",110,vkingmaster@gmail.com
+report,2014-04-28,RAGHU,raghunathu10@gmail.com,2014-04-28,"1.to create a sample sp for delete with conditions
+2.to check migration data payment details and biz_detail",111,raghunathu10@gmail.com
+report,2014-04-28,VENKATESH,vkingmaster@gmail.com,2014-04-28,"1.learning the storing procedure command 
+2.creating the table using sp and insert,update using sp
+delete the values using sp
+3.CREATING THE SCHEMA",112,vkingmaster@gmail.com
+report,2014-04-29,RAGHU,raghunathu10@gmail.com,2014-04-29,"1.checked payment ,biz_detail,bank tt completed.
+2.checking a unit_scdb_fomat",113,raghunathu10@gmail.com
+report,2014-04-29,VENKATESH,vkingmaster@gmail.com,2014-04-29,"1.Updating the data using the storing procedure
+2.joins operation using schema comparing from one schema relationship to another schema relationship,
+all join operation will be performed and executed successfully.",114,vkingmaster@gmail.com
+report,2014-04-30,RAGHU,raghunathu10@gmail.com,2014-04-30,"1.TO CHECK UNIT,CHEQUE,BANKTT DETAILS COMPLETED
+2.TO CHECK ERM DETAIL HAVING ISSUE TO LOADING DATA IN SOURCE (ERM HAVING ISSUE FOR LOADING DATA IN SOURCE MIG ERM ENTRY DETAILS AND MIG ERM OCCUPATION DETAILS)",115,raghunathu10@gmail.com
+report,2014-05-02,RAGHU,raghunathu10@gmail.com,2014-05-02,"1. TO TO CHECK A DATA MIGRATION FOR OCBC SCDB FORMAT AND ERM AND BANK TT
+2.TO CHECK A DATA MIGRATION FOR GOT THE RESULT FOR PAYMENT DETAILS SPLITTED DATA IN RENTAL AMOUNT",116,raghunathu10@gmail.com
+report,2014-05-03,RAGHU,raghunathu10@gmail.com,2014-05-03,"1.TO REMOVE COMMENTS AND SPACES FROM DD.
+2.TO CREATE A DYNAMIC SP FO CUSTOMER_WEEKLY_EXPIRY.",117,raghunathu10@gmail.com
+report,2014-05-05,RAGHU,raghunathu10@gmail.com,2014-05-05,leave: reson for sister engagement,118,raghunathu10@gmail.com
+report,2014-06-12,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-12,"1.STUDIED ABOUT TEXT MEDIUM INTEGER AND WHY THEY USED
+2.STUDIED HOW TO WRITE A STORED PROCEDURE FOR CREATE, INSERT, UPDATE, AND DELETE
+3.DONE SAMPLE PROJECT 1 AND STUDIED ABOUT THAT.
+4.PARTIALY COMPLETED SAMPLE PROJECT 2",119,thiru.p1992@gmail.com
+report,2014-06-13,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-13,"1. DID SAMPLE PROJECT 2 PARTIALLY
+2.LEARNED QUERRIES OF CREATE TABLE, INSERT INTO,UPDATE, SELECT, DISTINCT, WHERE, AND & OR, ORDER BY,DELETE COMMANDS",120,thiru.p1992@gmail.com
+report,2014-06-14,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-14,LEAVE REASON : GOING TO ATTEND VAO EXAM,121,thiru.p1992@gmail.com
+report,2014-06-16,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-16,learned all querry statements and done all statement in toad.,122,thiru.p1992@gmail.com
+report,2014-06-17,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-17,"1. LEARNED QUERRY FUNCTION AND BY USE OF THOSE FUNCTION WROTE ONE PROGRAM
+2. DONE A TASK OF CREATE SINGLE SP FOR CREATE, INSERT, UPDATE AND DELETE",123,thiru.p1992@gmail.com
+report,2014-06-18,PRIYANGA.K,priyangakmca@gmail.com,2014-06-18,"1.LEARNED SQL QURIES 
+2.EXECUTE THE SQL QURIES TO CREATE TABLE, INSERT, DELETE, UPDATE, JOIN TABLES ECT.",124,priyangakmca@gmail.com
+report,2014-06-18,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-18,"1.SP FOR CREATE
+2. SINGLE SP FOR INSERT, UPDATE, DELETE IN DYNAMICALLY
+3.CREATE VIEW FOR ABOVE TABLE
+4.CREATE TRIGGER FOR BEFORE INSERT,BEFORE UPDATE,BEFORE DELETE AND AFTER INSERT, AFTER UPDATE, AFTER DELETE
+5.CREATE TWO TABLES (PRIMARY KEY OF FIRST TABLE IS THE FOREIGN KEY FOR SECOND TABLE) AND APPLY ALL JOIN IN MYSQL",125,thiru.p1992@gmail.com
+report,2014-06-19,PRIYANGA.K,priyangakmca@gmail.com,2014-06-19,"1.LEARN PROCEDURE
+2.LEARN SQL FUNCTIONS",126,priyangakmca@gmail.com
+report,2014-06-19,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-19,"1. SP FOR JOINS
+2. SP FOR ALL DIFFERENT JOINS RESULT IS STORED IN DIFFERENT TABLES",127,thiru.p1992@gmail.com
+report,2014-06-20,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-20,"1. LEARNED LOOPING CONCEPTS IN MY SQL
+2. DONE A SAMPLE PROGRAMS FOR EACH LOOPING CONCEPTS.",128,thiru.p1992@gmail.com
+report,2014-06-21,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-21,LEARNING TO COMPARE THE DATA FROM SOURCE AND DESTINATION TABLE,129,thiru.p1992@gmail.com
+report,2014-06-23,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-23,"LEARNING TO COMPARE THE DATA FROM SOURCE AND DESTINATION TABLE
+1.checked expense staff salary
+2.checked expense staff
+3.checked expense detail staff salary
+4.checked unitlogin
+5.checked unit roomtype
+6.checked unit stampduty
+7.checked unit details
+8.checked unit account details
+9.checked unit access stamp details",130,thiru.p1992@gmail.com
+report,2014-06-24,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-24,"1. DONE EXPENSE_DETAIL_ELECTRICITY TRIGGER
+2. CHECKED EXPENSE_AIRCON_SERVICE_BY
+3. CHECKED EXPENSE_DETAIL_STARHUB",131,thiru.p1992@gmail.com
+report,2014-06-25,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-25,"WROTE TRIGGER FOR
+1. EXPENSE_PERSONAL
+2. EXPENSE_CAR
+3. EXPENSE_BABY
+4. EXPENSE_CAR_LOAN
+5.EXPENSE_AIRCON_SERVICE
+6.ERM_ENTRY_DETAILS.",132,thiru.p1992@gmail.com
+report,2014-06-26,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-26,"checked and delivered the check constraints trigger for
+1. CUSTOMER_COMPANY_DETAILS
+2. EXPENSE_DETAIL_ELECTRICITY
+3. EXPENSE_AIRCON_SERVICE
+4. EXPENSE_PERSONAL
+5. EXPENSE_CAR
+6. EXPENSE_BABY
+7. EXPENSE_CAR_LOAN
+8. ERM_ENTRY_DETAILS",133,thiru.p1992@gmail.com
+report,2014-06-27,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-27,"CHECKED THE MIGRATION DATA IN THE FOLLOWING DOMAIN
+1. UNIT_STAMP_DUTY_TYPE
+2. UNIT_ACCESS_STAMP_DETAILS
+3. UNIT_ACCOUNT_DETAILS
+4. UNIT_ROOM_TYPE_DETAILS
+5. UNIT_DETAILS
+6. UNIT_LOGIN_DETAILS",134,thiru.p1992@gmail.com
+report,2014-06-28,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-28,"CHECKED THE MIGRATION DATA FOR THE FOLLOWING DOMAINS
+1. EMAIL_LIST
+2. EMAIL_PROFILE
+3. EMAIL_TEMPLATE
+4. EMAIL_TEMPLATE_DETAILS
+5. CUSTOMER
+6. CUSTOMER_COMPANY_DETAILS",135,thiru.p1992@gmail.com
+report,2014-06-30,THIRUPATHI.P,thiru.p1992@gmail.com,2014-06-30,"TESTED THE CHECK CONSTRAINTS SP AND TRIGGER FOR THE FOLLOWING DOMAINS
+1. UNIT
+2. STAFF_DAILY
+3. ERM_ENTRY_DETAILS
+4.EXPENSE_HOUSEKEEPING_PAYMENT
+5.EXPENSE_PURCHASE_NEW_CARD
+FOUND AN ISSUE IN THE TABLE
+1. EXPENSE_HOUSEKEEPING_PAYMENT EHKP_PAID DATE IS GREATER THAN TODAY DATE
+2. EXPENSE_PURCHASE_NEW_CARD EPNC_INVOICE_DATE IS NOT BETWEEN UNIT START DATE AND UNIT END DATE",136,thiru.p1992@gmail.com
+report,2014-07-01,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-01,"TESTED THE CHECK CONSTRAINTS SP AND TRIGGER FOR THE FOLLOWING DOMAINS
+1. EXPENSE_DETAIL_DIGITAL_VOICE
+2. EXPENSE_DETAIL_ELECTRICITY
+3. EXPENSE_CARPARK
+IN THIS EXPENSE_CARPARK TABLE FOUND AN ISSUE BUT AFTER UPDATE AN UNIT START_DATE AND END_DATE. THAT ISSUE WAS NOT OCCURS SO I UPDATE AGAIN IN SS
+AND I CHECKED AGAIN ALL TABLES MENTIONED ABOVE AFTER UPDATE AN UNIT START_DATE AND END_DATE",137,thiru.p1992@gmail.com
+report,2014-07-02,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-02,"CHECKED UNIT, CUSTOMER, PURCHASE CARD SCDB RECORDS(AFTER PATCH)",138,thiru.p1992@gmail.com
+report,2014-07-03,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-03,"CHECKED THE CHECK CONSTRAINTS TABLE FOR THE FOLLOWING DOMAINS
+1. EMPLOYEE_DETAILS
+2. EXPENSE_DETAIL_STAFF_SALARY
+3. EXPENSE_STAFF_SALARY
+4. EXPENSE_STAFF
+5. EXPENSE_AGENT
+6. EXPENSE_AIRCON_SERVICE_BY
+7. EXPENSE_DETAIL_ELECTRICITY
+8. EXPENSE_DETAIL_DIGITAL_VOICE
+9. EXPENSE_DETAIL_AIRCON_SERVICE
+10. EXPENSE_DETAIL_CARPARK
+11. EXPENSE_DETAIL_STARHUB
+12. EXPENSE_HOUSEKEEPING_PAYMENT AND ERRORS ARE UPDATED IN FOLLOWING LINK
+AND CHECKED CHECKED STAFF, PERSONAL (AFTER PATCH)",139,thiru.p1992@gmail.com
+report,2014-07-04,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-04,"I CHECKED THE CHECK CONSTRAINTS TABLE FOR THE FOLLOWING DOMAINS
+1. EXPENSE_STAFF_SALARY
+2. EXPENSE_STAFF
+3. EXPENSE_AGENT
+4. ERM_OCCUPATION_DETAILS
+5. ERM_ENTRY_DETAILS
+6. EXPENSE_PERSONAL
+7. EXPENSE_CAR
+8. EXPENSE_BABY
+9. EXPENSE_CAR_LOAN
+10. EXPENSE_AIRCON_SERVICE_BY
+11. EXPENSE_DETAIL_STARHUB
+12. EXPENSE_DETAIL_ELECTRICITY
+13. EXPENSE_DETAIL_DIGITAL_VOICE
+14. EXPENSE_DETAIL_AIRCON_SERVICE
+15. EXPENSE_DETAIL_CARPARK
+16. EXPENSE_DETAIL_STAFF_SALARY
+17. CHEQUE_ENTRY_DETAILS
+AND I CHECKED BIZ_DETAIL (AFTER PATCH)",140,thiru.p1992@gmail.com
+report,2014-07-05,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-05,"I CHECKED THE CHECK CONSTRAINTS TABLE FOR THE FOLLOWING DOMAINS
+PERSONAL, STAFF, CHEQUE, ERM (BEFORE AND AFTER UPDATE AN INSERT QUERY)
+NO ERROR OCCURS.",141,thiru.p1992@gmail.com
+report,2014-07-07,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-07,"I CHECKED THE CHECK CONSTRAINTS TABLE AND MIGRATION FOR THE FOLLOWING DOMAINS
+1. OCBC
+2. STAFF
+3. EMAIL
+4. USER RIGHTS",142,thiru.p1992@gmail.com
+report,2014-07-08,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-08,"I CHECKED THE CHECK CONSTRAINTS TABLE FOR EXPENSE STAR HUB
+AND I CHECKED THE MIGRATION DOMAIN FOR STAFF, EMAIL",143,thiru.p1992@gmail.com
+report,2014-07-09,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-09,"I CHECKED THE CHECK CONSTRAINTS TABLE FOR EXPENSE STAR HUB
+AND I CHECKED THE MIGRATION DOMAIN FOR STAFF, EMAIL,USER RIGHTS",144,thiru.p1992@gmail.com
+report,2014-07-10,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-10,"i checked 
+RENTAL _ AFTER PATCH 
+BIZ DETAIL
+UNIT
+HOUSE KEEPING
+STAR HUB 
+ELECTRICITY
+CUSTOMER, ACCESS (after running patch)",145,thiru.p1992@gmail.com
+report,2014-07-11,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-11,LEAVE REASON: STAFF MARRIAGE,146,thiru.p1992@gmail.com
+report,2014-07-12,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-12,"CHECKED THE CHECK CONSTRAINTS TABLE AND MIGRATION FOR THE FOLLOWING DOMAINS
+PERSONAL, STAFF",147,thiru.p1992@gmail.com
+report,2014-07-14,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-14,"CHECKED THE CHECK CONSTRAINTS TABLE AND MIGRATION FOR THE FOLLOWING DOMAINS
+PERSONAL, STAFF",148,thiru.p1992@gmail.com
+report,2014-07-15,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-15,"FINDED THE CUSTOMER AND ACCESS SCDB FORMAT FOR DUPLICATE CARD WITHIN THE SAME LEASE PERIOD
+ASSIGNED THE ALTERNATE CARD CUSTOMER AND ACCESS SCDB FORMAT WITHIN THE SAME LEASE PERIOD",149,thiru.p1992@gmail.com
+report,2014-07-16,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-16,"1.CHECKED THE ALL DOMAIN SP'S NAME AND VERSION WITH THE FORM OBJECT SP'S.
+2.CHECKED THE MIGRATION DATA FOR THE DOMAINS
+PERSONAL, STAFF WITH THE DESTINATION TABLE.
+3.CHECKED THE ALL THE DATA'S ARE MIGRATED CORRECTLY WITH THE DESTINATION TABLE
+4.CHECKED THE FORM OBJECT SP'S NAMING ,VERSION AND DUPLICATE WITH THE ALL DOMAIN SP'S.
+5. CHECKED THE DUPLICATE CARD ASSIGNING SHEET FOR THE ALTERNATE CARD FOR THE SAME CARD USING SAME LEASE PERIOD",150,thiru.p1992@gmail.com
+report,2014-07-17,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-17,"I CHECKED THE CHECK CONSTRAINTS TABLE AND MIGRATION FOR THE FOLLOWING DOMAINS
+PERSONAL, STAFF",151,thiru.p1992@gmail.com
+report,2014-07-18,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-18,found the duplicate cards for an customer and access splitted table within the same lease period and also found the alternate card and wrote a patch for few records.,152,thiru.p1992@gmail.com
+report,2014-07-19,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-19,WROTE A PATCH FOR THE DUPLICATE CARDS OF CUSTOMER_LP_DETAILS AND CUSTOMER_ACCESS_CARD_DETAILS,153,thiru.p1992@gmail.com
+report,2014-07-21,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-21,"found the duplicate cards for an customer and access splitted table within the same lease period after run the patch
+found the duplicate cards for an customer and access splitted table within the same lease period and also found the alternate card and wrote a patch for few records.",154,thiru.p1992@gmail.com
+report,2014-07-22,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-22,WROTE A PATCH FOR THE DUPLICATE CARDS OF CUSTOMER_LP_DETAILS AND CUSTOMER_ACCESS_CARD_DETAILS FOR A SAME LEASE PERIOD AND AFTER RUN A PATCH FOUNDED THE NULL CARDS,155,thiru.p1992@gmail.com
+report,2014-07-23,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-23,"found and assign another card for the duplicate cards for an customer and access splitted table within the same lease period after run the patch
+found and assign another card for the duplicate cards for an customer and access splitted table within the same lease period and also found the alternate card and wrote a patch for few records.",156,thiru.p1992@gmail.com
+report,2014-07-24,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-24,"WROTE AN SP FOR UPDATING A ACCESS CARD DETAILS IN TICKLER TABLE HISTORY.THE SP'S ARE
+SP_ACCESS_CARD_TICKLER_OLDVALUE
+SP_ACCESS_CARD_TICKLER_NEWVALUE
+SP_UPDATE_CUSTOMER_ACCESS_CARD_DETAILS",157,thiru.p1992@gmail.com
+report,2014-07-25,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-25,"COMPLETED AN SP FOR UPDATING AN ACCESS CARD DETAILS IN TICKLER TABLE HISTORY.THE SP'S ARE
+SP_ACCESS_CARD_TICKLER_OLDVALUE
+SP_ACCESS_CARD_TICKLER_NEWVALUE
+SP_UPDATE_CUSTOMER_ACCESS_CARD_DETAILS
+AND TESTED THE ABOVE SP'S",158,thiru.p1992@gmail.com
+report,2014-07-30,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-30,ABSENT-SICK,159,thiru.p1992@gmail.com
+report,2014-07-31,THIRUPATHI.P,thiru.p1992@gmail.com,2014-07-31,ABSENT-SICK,160,thiru.p1992@gmail.com
+report,2014-08-01,THIRUPATHI.P,thiru.p1992@gmail.com,2014-08-01,ABSENT-SICK,161,thiru.p1992@gmail.com
+report,2014-08-02,THIRUPATHI.P,thiru.p1992@gmail.com,2014-08-02,"FINDED THE ALTERNATE CARDS FOR NEWLY FINDED DUPLICATE CUSTOMERS AND WROTE PATCH FOR ALL THIS CUSTOMER FOR CUSTOMER LP DETAILS
+WROTE THE PATCH FOR UPDATE THE CUSTOMER ACCESS CARD DETAILS AND TICKLER HISTORY.",162,thiru.p1992@gmail.com
+report,2014-08-04,PR,pradab55@gmail.com,2014-08-04,"Guided ISndhu to run php files in phstorm without xamp
+Expaliend how to store to data from php form to sql DB
+Exaplained various method of php form submisson with sample as Email Profile Entry form 
+Expalined Dt with php function and expaliend its features",163,pradab55@gmail.com
+report,2014-08-04,THIRUPATHI.P,thiru.p1992@gmail.com,2014-08-04,"1.COMPLETED AND DELIVERED CUSTOMER AND ACCESS PATCH FOR DUPLICATE CARDS
+2.COMPLETED ERROR MESSAGE FROM CONFIGURATION TABLE FOR CHECK CONSTRAINTS TRIGGER FOR ERM AND PERSONAL DOMAIN",164,thiru.p1992@gmail.com
+report,2014-08-05,PR,pradab55@gmail.com,2014-08-05,"Explained to sindhu , Type of mysql function to fetch data from sql table, types of php array .
+Array formation and read php array values, diffrence b/w php and js array , objects
+Dynamicaly creating datatable with sql data (UNIT expense as example)
+Php string concatenation, string len cal.
+Creating db connection in common file and share with all other required files",165,pradab55@gmail.com
+report,2014-08-05,THIRUPATHI.P,thiru.p1992@gmail.com,2014-08-05,"COMPLETED AND DELIVERED THE CHECK CONSTRAINTS TRIGGER ERROR MESSAGE GETTING FROM THE CONFIGURATION TABLE FOR THE FOLLOWING DOMAINS
+1.ERM
+2.BIZ DAILY",166,thiru.p1992@gmail.com
+report,2014-08-06,PR,pradab55@gmail.com,2014-08-06,"1) Tried DT table tools with saradha, in XAMP server, Phpstorm, and GAE live site ssomenstest.appspot.com got o/p
+2)Tested autogrow issue in EI INT site with Punitha, Autogrow old code itself working fine now
+3)Tested page laoding time, with empty page, even that one also taking same time",167,pradab55@gmail.com
+report,2014-08-07,PR,pradab55@gmail.com,2014-08-07,"Tested PROD site with various browser along with SN, found its hang only in FF when he opens multi tab with multiple forms in each Tab
+Explained why jquery latest version not working with current EI site, shown its result Caja test page,and explane dabout depricated fucntions in it
+Tested alternated Auto Grow textarea code , which slightly work good than current version , gave the code to puni
+Searched about Phpstrom data fetching issue , cant able to find any post related to it",168,pradab55@gmail.com
+report,2014-08-08,PR,pradab55@gmail.com,2014-08-08,"Helped Tamizh to send mail from GAE using simple form
+Gave New Code for Textarea Auto Grow , and tested in all browser , its working fine
+Tested New version of jquery , upto 1.11.0 ver only working in caja, and 2.x.x creating some issue in form , tesing going on it one by one",169,pradab55@gmail.com
+report,2014-08-09,PR,pradab55@gmail.com,2014-08-09,Created two attendance table in salary detail page,170,pradab55@gmail.com
+report,2014-08-11,PR,pradab55@gmail.com,2014-08-11,"1. Testing Jquery Lib on progress , testing 2.0 jq in caja with single datepicker itslef , feeling slower than old version
+2. Guided Safy and team members in php",171,pradab55@gmail.com
+report,2014-08-11,SHALINI.C,shalinipdy27@gmail.com,2014-08-11,"1.Designed a html form using some attributes(Radio btn,Chck bx,txt bx with labels) 
+2. Learned some concepts in jquery(ts form)",172,shalinipdy27@gmail.com
+report,2014-08-12,PR,pradab55@gmail.com,2014-08-12,"Tried to apply New skins for datepicker, but its supports for jq 1.10.0 ver only not supporting fr higher version
+Expalined xmlhttpresponse js function to get data from Db without refresh page to safy and team members
+Tried DP,DTand some other sample forms with jq 2.0.0 ver , for some people its working with some error , for some people its not at all loading",173,pradab55@gmail.com
+report,2014-08-12,SHALINI.C,shalinipdy27@gmail.com,2014-08-12,"designed a form for terminate search nd update form using jquery (used datepcker,hiding and showing fn)",174,shalinipdy27@gmail.com
+report,2014-08-13,PR,pradab55@gmail.com,2014-08-13,"Guided sindhu to install sample wordpress app in goolge launcher 
+explained how to fetch data from DB via Ajax for stat date adn end date params with out relaoding page
+Tested Jq 2.0.0 in CC form and reported its issue
+Analysd and report abt various e commerce site pro and cons with ref link",175,pradab55@gmail.com
+report,2014-08-13,SHALINI.C,shalinipdy27@gmail.com,2014-08-13,Designed the remaining forms of tc using notepad++ and learned tutorials for jquery using W3SCHOOLS,176,shalinipdy27@gmail.com
+report,2014-08-14,PR,pradab55@gmail.com,2014-08-14,"Tested MENU with JQ2.0 ,problem accurs in dynamicaly creating code not in css, when i test plain html menu its working perfectly
+Testing DP , corrected css to reduce shadow , but still its appers
+Multiple DP code is used in diff forms , when applying jq 2.0 diff error accurs for diff DP",177,pradab55@gmail.com
+report,2014-08-14,SHALINI.C,shalinipdy27@gmail.com,2014-08-14,Designed the form fully for tc and did some validation in the tc,178,shalinipdy27@gmail.com
+report,2014-08-18,PR,pradab55@gmail.com,2014-08-18,"Custom Msg before menu redirection task finished 
+Guided sindhu in accessing multi page php url in GAE",179,pradab55@gmail.com
+report,2014-08-18,SHALINI.C,shalinipdy27@gmail.com,2014-08-18,Completed the validation part for the TC,180,shalinipdy27@gmail.com
+report,2014-08-19,PR,pradab55@gmail.com,2014-08-19,"Fixed CSS issue in GAE php 
+Working on msg box position",181,pradab55@gmail.com
+report,2014-08-19,SHALINI.C,shalinipdy27@gmail.com,2014-08-19,"1.CONNECTED THE TS WITH DB 
+2.LOADED THE LISTBOX WITH DB VALUES
+3.VALIDATION FOR LISTBOXES",182,shalinipdy27@gmail.com
+report,2014-08-20,PR,pradab55@gmail.com,2014-08-20,"Tested Draging msg box fucntion 
+its not working properly in Sites, even its not working in caja also , but its working wen we deploye as standalone app",183,pradab55@gmail.com
+report,2014-08-20,SHALINI.C,shalinipdy27@gmail.com,2014-08-20,"1. RETRIVING THE VALUES FROM DB
+2.INSERTING THE VALUES INTO DB
+3.LEARNED SOME TUTORIAL FOR MYSQL CONNECTION",184,shalinipdy27@gmail.com
+report,2014-08-21,PR,pradab55@gmail.com,2014-08-21,"Tested msg Box position in my sample app, it appears center from left side but at the top position, next we will test it in INT site
+Taught and soleved some issue to every one of Php Timesheet project",185,pradab55@gmail.com
+report,2014-08-21,SHALINI.C,shalinipdy27@gmail.com,2014-08-21,"1.UPDATED LOGIN FORM USING DB 
+2.LEARNED SOME TUTORIALS FOR DATEPICKER AND LOADING RADIO BUTTON
+3.DID SOME PART FOR LOADING RADIOBUTTON",186,shalinipdy27@gmail.com
+report,2014-08-22,PR,pradab55@gmail.com,2014-08-22,"Tested couple of methods to fix msg box postion at center of window, but its working center of body 
+So trying to send a trigger element postion to msg box , and it will fix postion as per button which is clicked , this work is on progress",187,pradab55@gmail.com
+report,2014-08-22,SHALINI.C,shalinipdy27@gmail.com,2014-08-22,"1.DISABLED THE DATEPICKER FOR FUTURE DATES.
+2.INSERTED THE REJOIN FORM 
+3.PR CORRECTED AND TAUGHT ME PHP FUNCTIONS REGARDING INSERT IN DB",188,shalinipdy27@gmail.com
+report,2014-08-23,SHALINI.C,shalinipdy27@gmail.com,2014-08-23,ABSENT,189,shalinipdy27@gmail.com
+report,2014-08-25,PR,pradab55@gmail.com,2014-08-25,"Took Php class fr kumar, sindhu, shalani
+Guided Php Timesheet Team and solved some issues
+Got o/p for fixing msg box position near to clicked button",190,pradab55@gmail.com
+report,2014-08-25,SHALINI.C,shalinipdy27@gmail.com,2014-08-25,"1.RELOADED THE PAGE USING HTTP REQUEST FOR THE FORM
+2.PR TAUGHT PHP FOR 2 HRS
+3.FETECHED DATA FROM THE DB REMAINING",191,shalinipdy27@gmail.com
+report,2014-08-26,PR,pradab55@gmail.com,2014-08-26,"Fixed psotion for Db succes msg box by passing target element ID
+Focused Form element after clicking okay to Db succes msg",192,pradab55@gmail.com
+report,2014-08-26,SHALINI.C,shalinipdy27@gmail.com,2014-08-26,"1.FETCHED DATA FROM THE DB
+2.LEARNED HOW TO DEVELOP AUTHENTICATION FORM FROM W3SCHOOLS
+3.PR CORRECTED SOME ERROR FROM THE TS",193,shalinipdy27@gmail.com
+report,2014-08-27,PR,pradab55@gmail.com,2014-08-27,"Delivered Jq to focus form Title , to make msg box visible near button and to make visible pre loader near to button
+Helped Php team members",194,pradab55@gmail.com
+report,2014-08-27,SHALINI.C,shalinipdy27@gmail.com,2014-08-27,"1.COMPLETED TIMESHEET AND SOME CORRECTIONS ARE THERE
+2.PR CLEARED ERRORS IN THE FORM",195,shalinipdy27@gmail.com
+report,2014-08-28,PR,pradab55@gmail.com,2014-08-28,"Analysed Auto focus for Search result table, Auto Focus not working fr DB succes fucntion , targetting dummy elements also not usefull one reamains same as old 
+Got solution for Pre loader disapprears before menu loading issue",196,pradab55@gmail.com
+report,2014-08-28,SHALINI.C,shalinipdy27@gmail.com,2014-08-28,"1.CORRECTED THE ERRORS IN THE TIMESHEET 
+2.REDUCED THE PHP FILES INTO SINGLE PHP FILE USING OPTIONS",197,shalinipdy27@gmail.com
+report,2014-08-30,PR,pradab55@gmail.com,2014-08-30,"Discssed with SN regards Tex box hanging, form loading time in PROD and UAT 
+Solved some errors in shalani and lalitha php forms",198,pradab55@gmail.com
+report,2014-08-30,SHALINI.C,shalinipdy27@gmail.com,2014-08-30,"1. SETTED MINDATE AND MAX DATE FOR DATEPICKER
+2.SETTED WIDTH FOR DATEPICKER
+3.REFRESHED OR CLEARED ALL THE VALUES
+4.STARTED DOING THE ERROR MSG FROM DB",199,shalinipdy27@gmail.com
+report,2014-09-01,SHALINI.C,shalinipdy27@gmail.com,2014-09-01,"1.DID ERROR MESS FROM DB
+2.CORRECTED THE VALIDATION PART
+3.CORRECTED SOME OTHER ERRORS IN THE PHP FILE
+4.LEARNED SOME CONCEPTS OF REPLACING THE SUBSTRING USING W3C SCHOOLS",200,shalinipdy27@gmail.com
+report,2014-09-02,PR,pradab55@gmail.com,2014-09-02,"Instaled Netbeans and config Yii framework in it
+Applied some themes to sample 
+Searched and downlaoded Gae ready YII framework package",201,pradab55@gmail.com
+report,2014-09-02,SHALINI.C,shalinipdy27@gmail.com,2014-09-02,ABSENT,202,shalinipdy27@gmail.com
+report,2014-09-03,PR,pradab55@gmail.com,2014-09-03,Config Pay role app and learned flow of yii frame work,203,pradab55@gmail.com
+report,2014-09-03,SHALINI.C,shalinipdy27@gmail.com,2014-09-03,ABSENT,204,shalinipdy27@gmail.com
+report,2014-09-04,PR,pradab55@gmail.com,2014-09-04,"1)salary rate textbox Onchange Ot Rate calculation based on salary rate in create employee page.
+2)Modified pdf salary slip Rate/Total column based on salary type.
+3)salary should not get affect when employee salary rate is changed once salary is generated. 
+4)Total savings from join date is calculated and displayed in salary slip.
+5)Added sub menu under Employee menu (View savings).
+6)Removed operation menu from employee admin (View savings).",205,pradab55@gmail.com
+report,2014-09-04,SHALINI.C,shalinipdy27@gmail.com,2014-09-04,ABSENT,206,shalinipdy27@gmail.com
+report,2014-09-05,PR,pradab55@gmail.com,2014-09-05,"1)Analyst the way to optamize jquery to improve performance
+2)helped saradha in css in her project
+3)Fixed issue in lalitha tree view sturc
+4)Fixed issue in safy json data passing method
+5)guided shalani in string replace method
+6)Explained kumar payroll full app work flow with example entry and explained how to retrive data ,cal salary methods
+7)discussed with punitha to implement my updates of preloader , msg box custom position in EI INT site",207,pradab55@gmail.com
+report,2014-09-05,SHALINI.C,shalinipdy27@gmail.com,2014-09-05,"1.Did error message configuration
+2.corrected errors in my coding 
+3.Learned some concepts for string replace using javascript",208,shalinipdy27@gmail.com
+report,2014-09-06,SHALINI.C,shalinipdy27@gmail.com,2014-09-06,"1.CORRECETED ERRORS IN THE DB PART
+2.CHANGE THE DB PART WITH SP FOR TERMINATE AND REJOIN
+3.LEARNED STR REPLACE CONCEPT IN PHP",209,shalinipdy27@gmail.com
+report,2014-09-08,PR,pradab55@gmail.com,2014-09-08,"Tested Jquery 2.0.x , menu,bulr,change,datepicker ,button validation making issue, extra date picker appears in form , trying to correct them
+Tested google client API lib , can able get access for Google Drive and calendars, but there no enough example to perform some event adding test",210,pradab55@gmail.com
+report,2014-09-08,SHALINI.C,shalinipdy27@gmail.com,2014-09-08,"1.CORRECTED SOME ERRORS
+2.DID SOME CHANGES IN THE MIN DATE",211,shalinipdy27@gmail.com
+report,2014-09-09,PR,pradab55@gmail.com,2014-09-09,attendace calculation table for hour and day wise emplyoee done,212,pradab55@gmail.com
+report,2014-09-09,SHALINI.C,shalinipdy27@gmail.com,2014-09-09,ATTENDED CLASS IN PHP,213,shalinipdy27@gmail.com
+report,2014-09-10,ANUSHA.G,anusha@gmail.com,2014-09-10,ATTENDED CLASS IN MYSQL,214,anusha@gmail.com
+report,2014-09-10,PR,pradab55@gmail.com,2014-09-10,"completed Invoice module and verified output with Raja
+Raja gave new CR need Pdf in new format that displaying report for whole emp of a company, working on it",215,pradab55@gmail.com
+report,2014-09-10,SHALINI.C,shalinipdy27@gmail.com,2014-09-10,ATTENDED CLASS IN MYSQL,216,shalinipdy27@gmail.com
+report,2014-09-11,ANUSHA.G,anusha@gmail.com,2014-09-11,ATTENDED CLASS IN SOFTWARE DEVELOPMENT CYCLE AND PHP,217,anusha@gmail.com
+report,2014-09-11,PR,pradab55@gmail.com,2014-09-11,"Took class in 
+1) core php vs php framework
+2)fundamendal of Yii framework with MVC concepts
+3) various types of jquery selector
+4)jquery optimization methods to improve performance",218,pradab55@gmail.com
+report,2014-09-11,SHALINI.C,shalinipdy27@gmail.com,2014-09-11,ATTENDED CLASS IN SOFTWARE DEVELOPMENT CYCLE AND PHP,219,shalinipdy27@gmail.com
+report,2014-09-12,ANUSHA.G,anusha@gmail.com,2014-09-12,"1)Took class in basic php
+2)attended class in dynamic calling of pages in xml 
+3)today i learned some basics in timesheet",220,anusha@gmail.com
+report,2014-09-12,PR,pradab55@gmail.com,2014-09-12,"In pay slip when advance is made for 4 months , its deducted after one yr also
+when i tried to correct that error , found that they didnt put salay for in between months so advance is carriying fr next yr also",221,pradab55@gmail.com
+report,2014-09-12,SHALINI.C,shalinipdy27@gmail.com,2014-09-12,"1.MORNING TILL 11 AM PHP CLASS
+2.CORRECTED MIN DATE FOR REJOIN AND TERMINATION
+3.NO LAP FOR ME TODAY",222,shalinipdy27@gmail.com
+report,2014-09-13,PR,pradab55@gmail.com,2014-09-13,"worked on focusing form header or menu after clicks ok button, while checking plain code focus working in chrome ,
+while testing along with EI forms focus works, but pages not scrolling to that position, but cursor points that element",223,pradab55@gmail.com
+report,2014-09-13,SHALINI.C,shalinipdy27@gmail.com,2014-09-13,CORRECTING THE NAMES IN THE FORM AND DOING CORRECTION IN MY TIMESHEET,224,shalinipdy27@gmail.com
+report,2014-09-15,PR,pradab55@gmail.com,2014-09-15,"Worked on github , installed and tested with GAE
+started to work on advacne amount issue in payroll, need to test will delivery it 2moro",225,pradab55@gmail.com
+report,2014-09-15,SHALINI.C,shalinipdy27@gmail.com,2014-09-15,"1.CORRECTED THE ERRORS AND SOME CHANGES ARE MADE
+2.CHANGED THE DB PART WITH FUNCTION TO REDUCE THE CODING",226,shalinipdy27@gmail.com
+report,2014-09-16,PR,pradab55@gmail.com,2014-09-16,"Delivered prs adavace issue fixes
+connected local machine with gae repository and updated files using commands , but front end not getting updates",227,pradab55@gmail.com
+report,2014-09-16,SHALINI.C,shalinipdy27@gmail.com,2014-09-16,COMPLETED ALL THE CORRECTIONS AND DELIVERED IT TO SAFFI,228,shalinipdy27@gmail.com
+report,2014-09-17,PR,pradab55@gmail.com,2014-09-17,"tried to change serch patten in prs advacne master form, but need raja help to understand default setting of prs
+successfully deployed app from git to gae, need to test more functionalities of github",229,pradab55@gmail.com
+report,2014-09-17,SHALINI.C,shalinipdy27@gmail.com,2014-09-17,STARTED NEW FORM AND COMPLETED BUT LITTLE CORRECTIONS ARE THERE,230,shalinipdy27@gmail.com
+report,2014-09-18,PR,pradab55@gmail.com,2014-09-18,"emptxn date filter textbox is modified with month year picker 
+Saving list page calculating total savings amount for all the employees is done",231,pradab55@gmail.com
+report,2014-09-18,SHALINI.C,shalinipdy27@gmail.com,2014-09-18,CHANGED SEARCH ND UPDATE FORM TO DATA TABLE FORMAT AND CORRECTED SOME ERRORS,232,shalinipdy27@gmail.com
+report,2014-09-19,PR,pradab55@gmail.com,2014-09-19,"In Advance Master and Allowance/Deduction screen made date field as mandatory
+made some changes in saving list calculation fr all emp",233,pradab55@gmail.com
+report,2014-09-19,SHALINI.C,shalinipdy27@gmail.com,2014-09-19,COMPLETED THE DATA TABLE WITHOUT RELOADING THE FORM AND SOME CHANGES ARE MADE,234,shalinipdy27@gmail.com
+report,2014-09-20,PR,pradab55@gmail.com,2014-09-20,"practiced github with gae 
+helped to timesheet project members in thier issues",235,pradab55@gmail.com
+report,2014-09-20,SHALINI.C,shalinipdy27@gmail.com,2014-09-20,CHANGED THE DATA TABLE WITH BUBBLE EDITOR FOR UPDATE ND REPORT ENTRY FORM,236,shalinipdy27@gmail.com
+report,2014-09-22,PR,pradab55@gmail.com,2014-09-22,practiced github + phpstorme + gae facing issues,237,pradab55@gmail.com
+report,2014-09-22,SHALINI.C,shalinipdy27@gmail.com,2014-09-22,COMPLETED DATA TABLE WITH BUBBLE EDITOR SAMPLE FOR REPORT UPDATE SEARCH FORM,238,shalinipdy27@gmail.com
+report,2014-09-23,SHALINI.C,shalinipdy27@gmail.com,2014-09-23,MANY MODIFICATIONS WERE DONE IN THE REPORT ENTRY UPDATE SEARCH FORM AND SOME CHANGES ARE DONE,239,shalinipdy27@gmail.com
+report,2014-09-24,SHALINI.C,shalinipdy27@gmail.com,2014-09-24,DESIGNED THE NEW REPORT ENTRY UPDATE SEARCH FORM AND DID DATA TABLE FOR THIS FORM,240,shalinipdy27@gmail.com
+report,2014-09-25,PR,pradab55@gmail.com,2014-09-25,"Dicussed abt POS and FYM app requirements 
+instal and config pos in sys 
+put sample data entries in pos sys",241,pradab55@gmail.com
+report,2014-09-25,SHALINI.C,shalinipdy27@gmail.com,2014-09-25,SOME CHANGES ARE MADE IN THE FORM DESIGN AND SOME CONCEPT ARE CHANGED IN THE PROJECT REPORT ENTRY SEARCH UPDATE,242,shalinipdy27@gmail.com
+report,2014-09-26,PR,pradab55@gmail.com,2014-09-26,"Discussed with raja regarding implementing invoice module in PRS and started to work on it
+Discussed abt POS billing printing options",243,pradab55@gmail.com
+report,2014-09-26,SHALINI.C,shalinipdy27@gmail.com,2014-09-26,DID VALIDATION AND AUTOCOMPLETE IN REPORT ENTRY UPDATE SEARCH FORM,244,shalinipdy27@gmail.com
+report,2014-09-27,SHALINI.C,shalinipdy27@gmail.com,2014-09-27,ABSENT(WENT TO COLL TO GET PROVISIONAL CERTIFICATE),245,shalinipdy27@gmail.com
+report,2014-09-29,PR,pradab55@gmail.com,2014-09-29,"Company List Box added in Attendance Entry and as per selection company id is stored in attendance table
+Company list box added in Payroll geneation table , now working on form to get input rates for invoice 
+invoice table created just clone of saalrydetail table
+And explained all these to kumar",246,pradab55@gmail.com
+report,2014-09-29,SHALINI.C,shalinipdy27@gmail.com,2014-09-29,"1.Did save part with sp
+2.changed the status to readonly format
+3.some corrections are done and update is remaining in the report entry search update form",247,shalinipdy27@gmail.com
+report,2014-09-30,PR,pradab55@gmail.com,2014-09-30,"Added custom form in payroll generation form to get manual rate to generate invoice if company id is not equal to 1
+created Invoice module file 
+Explained all these to kumar",248,pradab55@gmail.com
+report,2014-09-30,SHALINI.C,shalinipdy27@gmail.com,2014-09-30,DID SAMPLE DATATABLE AND IMPLEMENT IT IN THE REPORT ENTRY FORM BUT SOME ERRORS ARE THERE,249,shalinipdy27@gmail.com
+report,2014-09-30,SUBASH.P,subashcbp8@gmail.com,2014-09-30,"update lenovo windows software and application to punitha system, install toad, Open office, GIE, networks , and Appache softwares",250,subashcbp8@gmail.com
+report,2014-10-01,SHALINI.C,shalinipdy27@gmail.com,2014-10-01,IMPLEMENT THE DATA TABLE BUT SOME ERRORS ARE THERE AND SOME CHANGES SRE DONE IN THE FORM,251,shalinipdy27@gmail.com
+report,2014-10-03,PR,pradab55@gmail.com,2014-10-03,"Contact Raja through phone and got idea to create CRUD operations fr new Model
+Create invoice details for external company is done and stored in invocie table
+Search operation fr invoice is added along with salarydetails with an if condition in admin action",252,pradab55@gmail.com
+report,2014-10-03,SHALINI.C,shalinipdy27@gmail.com,2014-10-03,"1.CHECKED THE SP FOR INSERT AND UPDATE IN THE REPORT ENTRY SEARCH UPDATE FORM
+2.CORRECTED SOME ERRORS IN THE DATATABLE",253,shalinipdy27@gmail.com
+report,2014-10-03,SUBASH.P,subashcbp8@gmail.com,2014-10-03,"windows software and ccleaner, Dismax updated to Kumar,Raja,Bhavani,Rajalakshmi,Jeevitha systems",254,subashcbp8@gmail.com
+report,2014-10-06,PR,pradab55@gmail.com,2014-10-06,"Eplained my work to raja what i have done fr invoice through skype call
+i used same controller for salary detiails and invocie generation with one if condition , me re used all function
+he expting diff pages for Invocie that is copy of salery details with small modification , so did that part today
+facing small errors . will get over soon
+Explained all process to kumar.. creating models, controlelrs, CRUD operations",255,pradab55@gmail.com
+report,2014-10-06,SHALINI.C,shalinipdy27@gmail.com,2014-10-06,"1.CORRECTED SOME CHANGES TOLD BY SN SIR
+2.CONVERTED THE SAMPLE EDITABLE TABLE TO DATATABLE",256,shalinipdy27@gmail.com
+report,2014-10-06,SUBASH.P,subashcbp8@gmail.com,2014-10-06,"Windows update and Troad,Open office,Gae,Networkx apps Install to Shaffy and Bhavani Systems",257,subashcbp8@gmail.com
+report,2014-10-07,PR,pradab55@gmail.com,2014-10-07,"Recevied new CR in invoice module ,
+Creating New compnay in Invoice page itself with adress and contact information",258,pradab55@gmail.com
+report,2014-10-07,SHALINI.C,shalinipdy27@gmail.com,2014-10-07,ABSENT(FEVER),259,shalinipdy27@gmail.com
+report,2014-10-07,SUBASH.P,subashcbp8@gmail.com,2014-10-07,"Windows Update and Troad,Open office,Gae,Networkx apps Install to ShalinSystem",260,subashcbp8@gmail.com
+report,2014-10-08,PR,pradab55@gmail.com,2014-10-08,ABSENT(FEVER),261,pradab55@gmail.com
+report,2014-10-08,SHALINI.C,shalinipdy27@gmail.com,2014-10-08,ABSENT(FEVER),262,shalinipdy27@gmail.com
+report,2014-10-09,PR,pradab55@gmail.com,2014-10-09,"1)Added sal_archive column in attendance table to mention whether salary is calculated for that date
+2) Ot rate = sal * 1.5 will work only for Hour based employee for others it will empty 
+3)Attendance will be displayed in payslip using filter of salary calculated dates using sal_archive column in attendance table",263,pradab55@gmail.com
+report,2014-10-09,SHALINI.C,shalinipdy27@gmail.com,2014-10-09,"COMPLETED DATA TABLE WITH ROW EDIT AND CORRECTED SOME ERRORS
+MANY CHANGES WERE DONE",264,shalinipdy27@gmail.com
+report,2014-10-09,SUBASH.P,subashcbp8@gmail.com,2014-10-09,INSTALL TOAD TO RAJA SYSTEM,265,subashcbp8@gmail.com
+report,2014-10-10,SHALINI.C,shalinipdy27@gmail.com,2014-10-10,"1.COMPLETED BOTH DATATABLE AND PROJECT ENTRY IN SEPARATE PHP AND SOME CORRECTIONS ARE DONE
+2.DONE UPDATE USING SP",266,shalinipdy27@gmail.com
+report,2014-10-10,PR,pradab55@gmail.com,2014-10-10,Working On Displaying invoice print format in the way to display for single company,267,pradab55@gmail.com
+report,2014-10-11,PR,pradab55@gmail.com,2014-10-11,ABSENT(WENT TO CHENNAI),268,pradab55@gmail.com
+report,2014-10-11,SHALINI.C,shalinipdy27@gmail.com,2014-10-11,"1.COMBINED BOTH THE DATATABLE AND THE PROJECT ENTRY FORM BUT SOME ERRORS ARE THERE
+2.DATA TABLE IS NOT REFRESHING",269,shalinipdy27@gmail.com
+report,2014-10-11,SUBASH.P,subashcbp8@gmail.com,2014-10-11,Windows update and Networkx apps Install to Shalini and Pradhap system,270,subashcbp8@gmail.com
+report,2014-10-13,SHALINI.C,shalinipdy27@gmail.com,2014-10-13,CORRECTIONS ARE MADE IN THE REPORT ENTRY SEARCH UPDATE FORM,271,shalinipdy27@gmail.com
+report,2014-10-13,PR,pradab55@gmail.com,2014-10-13,"Stoped working on PRS and started POS
+Config matched version DLL file in php in order to print files directly without preview
+started working on designing bill fr printing purpose",272,pradab55@gmail.com
+report,2014-10-14,SHALINI.C,shalinipdy27@gmail.com,2014-10-14,CHANGED DATEPICKER TO BE READONLY AND SOME CORRECTIONS ARE DONE,273,shalinipdy27@gmail.com
+report,2014-10-14,PR,pradab55@gmail.com,2014-10-14,wrote code to retrive prducts dynamicaly from bill in order to print bill,274,pradab55@gmail.com
+report,2014-10-14,SUBASH.P,subashcbp8@gmail.com,2014-10-14,"Windows update, Ccleaner, Diskmax Updates and Installed Open Office",275,subashcbp8@gmail.com
+report,2014-10-15,SUBASH.P,subashcbp8@gmail.com,2014-10-15,"1. Windows update, Ccleaner, Diskmax Updates to Jeevitha System. 2. windows Update, Ccleaner, Diskmax and Installed Networkx,Gae to Shalini",276,subashcbp8@gmail.com
+report,2014-10-15,PR,pradab55@gmail.com,2014-10-15,"Design completed for POS bill
+used Yii extention itself to generate PDF 
+saving pdf file in disk is done
+tried to print PDF but not working, can able to print bmp imgae only",277,pradab55@gmail.com
+report,2014-10-15,SHALINI.C,shalinipdy27@gmail.com,2014-10-15,ABSENT(FEVER),278,shalinipdy27@gmail.com
+report,2014-10-16,SHALINI.C,shalinipdy27@gmail.com,2014-10-16,"STARTED ADMIN WEEKLY REPORT ENTRY FORM AND COMPLETED DB PART ALSO.
+ONLY DATEPICKER VALIDATION IS REMAINING",279,shalinipdy27@gmail.com
+report,2014-10-16,SUBASH.P,subashcbp8@gmail.com,2014-10-16,"1. windows updates , Ccleaner, Diskmax Updates to KUMAR system. 2, Gae,Php Storm, Netbeans,Xampp install to RAJA system",280,subashcbp8@gmail.com
+report,2014-10-16,PR,pradab55@gmail.com,2014-10-16,"Removed creating PDF method for direct printing,
+Now using printer_draw_text method to print Bills without generatring pdf",281,pradab55@gmail.com
+report,2014-10-17,SHALINI.C,shalinipdy27@gmail.com,2014-10-17,"ONLY ONE VALIDATION IS REMAINING IN THE ADMIN WEEKLY REPORT ENTRY FORM.
+STARTED WEEKLY ADMIN REPORT SEARCH UPDATE (DESIGN COMPLETED)",282,shalinipdy27@gmail.com
+report,2014-10-17,PR,pradab55@gmail.com,2014-10-17,"Billing price are rounded to two decimal values 
+Address and shop name added
+Re used Billing design for Bill cancel, Bill Exchange and took sampe prints
+Now Printing work for BILL, ECHANGE, CANCEL, CLOSE BALANCE",283,pradab55@gmail.com
+report,2014-10-17,SUBASH.P,subashcbp8@gmail.com,2014-10-17,"1. windows updates , Ccleaner, Diskmax Updates to Bhavani system. 2, Windows Update, Ccleaner, Diskmax Update to Raja System",284,subashcbp8@gmail.com
+report,2014-10-18,SHALINI.C,shalinipdy27@gmail.com,2014-10-18,COMPLETED ADMIN WEEKLY REPORT ENTRY FORM FULLY,285,shalinipdy27@gmail.com
+report,2014-10-18,PR,pradab55@gmail.com,2014-10-18,"1) there should be no tax field as per the item line. (E.g. Lean meat, qty:1. [don't show the tax for each item])
+2) all price should be denoted with a $ in front
+3)
+ (not related to format) but, the name of the item should not be 
+something like Lean Meat (100g) @4.1. It should just be Lean Meat (100g)
+4) all receipts have to have date and time.
+5) for all receipts, please change the bill no. To be named as receipt no. (More appropriate for minimart)",286,pradab55@gmail.com
+report,2014-10-18,SUBASH.P,subashcbp8@gmail.com,2014-10-18,"1. windows updates , Ccleaner, Diskmax Updates to shalini system. 2, Windows Update, Ccleaner, Diskmax Update to Rajalakshmi System",287,subashcbp8@gmail.com
+report,2014-10-20,SHALINI.C,shalinipdy27@gmail.com,2014-10-20,SOME CHANGES ARE MADE IN THE ADMIN REPORT ENTRY FORM,288,shalinipdy27@gmail.com
+report,2014-10-20,PR,pradab55@gmail.com,2014-10-20,"gathered  requirments for stock report generation , 
+SL and SN explained about table desing anb form working flow
+started form form desing
+searched good study material for yii framework and mailed the details",289,pradab55@gmail.com
+report,2014-10-20,SUBASH.P,subashcbp8@gmail.com,2014-10-20,"1. windows updates , Ccleaner, Diskmax Updates and Install Jdk App to Sasikala system.     2, Windows Update, Ccleaner, Diskmax Update to 
+My System",290,subashcbp8@gmail.com
+report,2014-10-21,PR,pradab55@gmail.com,2014-10-21,"Verified and commented the code written by timesheet team members
+Noted some points to improve the code qality and performance of application
+working on stock report forms in POS",291,pradab55@gmail.com
+report,2014-10-21,SUBASH.P,subashcbp8@gmail.com,2014-10-21,"1. Jdk, Netbeans install to Sasikala,and Saradhammal system",292,subashcbp8@gmail.com
+report,2014-10-21,SHALINI.C,shalinipdy27@gmail.com,2014-10-21,ABSENT,293,shalinipdy27@gmail.com
+report,2014-10-23,SHALINI.C,shalinipdy27@gmail.com,2014-10-23,"COMPLETED ADMIN WEEKLY REPORT ENTRY FORM FULLY AND GAVE TO SAFI
+STARTED ADMIN WEEKLY SEARCH UPDATE",294,shalinipdy27@gmail.com
+report,2014-10-23,PR,pradab55@gmail.com,2014-10-23,"Explained the points i have noted in php timesheet coding to safy and team members , things need to be changed in thier coding
+working on stock manage design",295,pradab55@gmail.com
+report,2014-10-23,SUBASH.P,subashcbp8@gmail.com,2014-10-23,"Lenovo software, Windows Updates, Ccleaner, DiskMax Updates To Saradhambal System",296,subashcbp8@gmail.com
+report,2014-10-24,SUBASH.P,subashcbp8@gmail.com,2014-10-24,"Windows Updates, Ccleaner, Diskmax to Subash System",297,subashcbp8@gmail.com
+report,2014-10-24,SHALINI.C,shalinipdy27@gmail.com,2014-10-24,"CORRECTED SOME ERRORS IN THE ADMIN WEEKLY REPORT SEARCH AND UPDATE FORM AND UPDATE PART ALONE REMAINING
+COMPLETED DATATABLE",298,shalinipdy27@gmail.com
+report,2014-10-24,PR,pradab55@gmail.com,2014-10-24,"In pos stock managment ,Designed the table to display data , working on showing history of price",299,pradab55@gmail.com
+report,2014-10-25,SUBASH.P,subashcbp8@gmail.com,2014-10-25,"1. windows updates , Ccleaner, Diskmax Updates to Jeevitha system. 2, Windows Update, Ccleaner, Diskmax Update to Shalini System",300,subashcbp8@gmail.com
+report,2014-10-25,SHALINI.C,shalinipdy27@gmail.com,2014-10-25,ABSENT(FEVER),301,shalinipdy27@gmail.com
+report,2014-10-25,PR,pradab55@gmail.com,2014-10-25,"Working on ajax dialog box to show price history, facing some error, working on it",302,pradab55@gmail.com
+report,2014-10-26,SHALINI.C,shalinipdy27@gmail.com,2014-10-26,COMPLETED ADMIN WEEKLY REPORT ENTRY SEARCH UPDATE FORM AND SOME CHANGES ARE DONE,303,shalinipdy27@gmail.com
+report,2014-10-27,SHALINI.C,shalinipdy27@gmail.com,2014-10-27,COMPLETED ADMIN WEEKLY REPORT ENTRY SEARCH UPDATE FORM AND GAVE TO SAFFI,304,shalinipdy27@gmail.com
+report,2014-10-27,SUBASH.P,subashcbp8@gmail.com,2014-10-27,"1. windows updates , Ccleaner, Diskmax Updates to Bhavani system. 2, lenovo, Windows Update, Ccleaner, Diskmax Update to Punitha System. 3, Lenovo, Windows, Ccleaner, Diskmax Updates to Babu sir system",305,subashcbp8@gmail.com
+report,2014-10-27,PR,pradab55@gmail.com,2014-10-27,"Fetched the requird result for displaying history price , facing issue in designing form for it",306,pradab55@gmail.com

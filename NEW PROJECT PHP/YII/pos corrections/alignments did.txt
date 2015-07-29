@@ -1,0 +1,34 @@
+posclient div position: 
+286-cat,prod
+285-divi,unmang
+calc: style="height:29px"
+286- odr table
+menu |
+--------------
+subproduct search align
+expiry search align
+rmv quantiry in expiry table
+sales search align
+registre align
+expiry *
+stock enquiry *
+stock inventory * 
+purchase tbx alter
+product crct $ purhcase prd tbx align
+table name product but shows code in stock invnty and invdate
+
+//prod and pur form:
+<div style="margin-bottom: 14px;">
+last purchase price- label name
+image lable size- 'style' => 'max-width:150px; min-width:100px; max-height:150px; min-height:100px;',
+108 -list box font size 
+
+removed yii coding:
+//puchase form
+<?php echo $form->textFieldGroup($productprice,'stockinhand',array('widgetOptions'=>array('htmlOptions'=>array('class'=>'span5','maxlength'=>10,'disabled'=>true,'value'=>''))));?>
+
+//posclient form
+<input type="text" id="qoi_id" onkeyup='getOrderProductsForABill(event, "<?php echo $orderProductsForABillUrl;?>");'
+
+//img extention size error msg
+'The file "{file}" is either small or large. Its size should be {limit} kilo bytes.'
