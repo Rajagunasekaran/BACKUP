@@ -1,0 +1,30 @@
+new bill - clear screen
+
+xchange bill
+
+refund bill
+
+hold, cancel bill - 
+
+only supplier wise
+SELECT ppl.id, ppl.name supplier, SUM(op.amount) sales
+FROM orderproducts op 
+LEFT OUTER JOIN products pr ON op.product_id = pr.id 
+LEFT OUTER JOIN people ppl ON pr.supplier_id = ppl.id 
+GROUP BY ppl.id
+
+supplier,product wise
+SELECT ppl.name supplier, pr.name product, SUM(op.amount) sales
+FROM orderproducts op 
+LEFT OUTER JOIN products pr ON op.product_id = pr.id 
+LEFT OUTER JOIN people ppl ON pr.supplier_id = ppl.id 
+GROUP BY op.product_id, ppl.id
+
+product wise
+SELECT pr.name product, ppl.name supplier,  SUM(op.amount) sales
+FROM orderproducts op 
+LEFT OUTER JOIN products pr ON op.product_id = pr.id 
+LEFT OUTER JOIN people ppl ON pr.supplier_id = ppl.id 
+GROUP BY op.product_id
+
+vimeo.com/62384293

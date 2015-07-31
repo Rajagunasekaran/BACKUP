@@ -1,0 +1,26 @@
+//productcontroller-fillPriceFromPostToModel()
+
+if($newprc['expdate']!=''){
+            $prdprc->expdate = date('Y-m-d', strtotime(str_replace('/', '-', $newprc['expdate'])));         
+         }
+         else{
+            $prdprc->expdate =null;
+         }
+
+//productprice model-rules()
+
+remove expdate field in array
+
+//apscript-setProductpricesDataTable()
+
+var tmp = '';
+            if((typeof(row.expdate) !== 'undefined') && row.expdate != null)
+             {
+              tmp = FormTableDateFormat(row.expdate);
+              }
+                else
+                {
+               tmp='';
+               }
+              row.expdate=tmp;
+              return tmp;

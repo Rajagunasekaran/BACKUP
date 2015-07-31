@@ -1,0 +1,11 @@
+// put in posclient.php
+	<table border="0" cellpadding="0" cellspacing="0"> 
+            <tr style=" height: 10px">
+                <td style=" height: 10px">
+                    <input type="text" id="prd_skus" class="form-control" name="prd_skus" placeholder="Product Code" style="width:250px"/>
+                </td>
+                <td style=" height: 10px">
+                  <input type="text" id="prd_skus_over" style="width: 160px" class="form-control" placeholder="Bar Code" />
+                </td>
+            </tr>                
+        </table>

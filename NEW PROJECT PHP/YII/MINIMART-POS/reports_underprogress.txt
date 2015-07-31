@@ -1,0 +1,20 @@
+productwise sales
+
+search:
+
+daterange, supplier, category,
+
+product, category, supplier, amount, productdisc
+
+
+dailysales:
+
+day [today, yesterday, daybeforeyesterday]
+
+paidstatus [paid, onaccount]
+
+customer, billno[qoi_id], amount, disc, exchange, roundoff, paidstatus
+
+
+
+

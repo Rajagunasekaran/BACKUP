@@ -1,0 +1,295 @@
+/* customize.css*/
+html, body{height:100%;margin:0;padding:0;}
+
+#posclient-main{height: auto !important;min-height: 100%;position:relative;}
+#posclient-nav{
+    /*    padding:1em;*/
+    background:#007FFF;
+    line-height: 34px;
+}
+#posclient-nav a{color:#fff;}
+#posclient-content{padding-bottom:4.5em;background:#333;}
+#posclient-actions{position:absolute;bottom:10px;width:100%;padding:1em;background:#f3f3f3;}
+
+#posclient-actions .btn, .numberpad .btn{text-transform:uppercase;color:#fff;}
+#posclient-actions .btn:hover, .numberpad .btn:hover{opacity:0.9}
+.btn-hold{background:#9954BB;}
+.btn-held{background:#FF7518;}
+.btn-close{background:#FF0039;}
+.btn-exchange{background:#3FB618}
+.btn-refund{background:#222222}
+.btn-cancel{background:#FF0039}
+.btn-sm{padding:8px 10px;font-size:12px;line-height:1.6;border-radius:4px}
+.navbar, .panel, .panel-heading, .form-control{border-radius:0;-webkit-border-radius:0;}
+/*.btn{display:inline-block;padding:6px 12px;margin-bottom:2px;font-size:14px;font-weight:500;line-height:1.42857143;text-align:center;white-space:nowrap;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-image:none;border:1px solid transparent;border-radius:4px}*/
+.panel{box-shadow:none;-webkit-box-shadow:none;}
+.panel-heading{padding:6px;border:0;}
+
+.numberpad{background:#F5F5F5}
+.numberpad table th, .numberpad table td{padding:0;}
+#n_keypad{
+    /*    padding:0.5em 0*/
+}
+#n_keypad div[class*='col-'] {padding:0 5px;}
+#n_keypad .row{margin:0px 0 6px 0;}
+.numberpad .btn{font-weight:600;font-size:17px}
+
+#nontopcatDiv, #productsDiv, #topcatDiv, #non_mngd_productsDiv{}
+
+#paymentType, #summary{padding:0.5em;}
+#paymentType .form-group{margin-bottom:5px;}
+#paymentType input[type="radio"]{margin:0 5px 0 0;position:relative;}
+#paymentType label{margin:0 0 7px 0;display:block;}
+
+ul.g{display:inline;}
+ul.g li{padding:5px;border:0;width:80px;height:80px;overflow:hidden;display: inline;list-style-image:none}
+ul.g li:last-child{margin-right:-4px;}
+ul.g li a{display:block;width:80px;height:80px;padding:5px;overflow:hidden;font-size:12px;background:#000;color:#fff;}
+ul.g li a:hover{text-decoration:none;background:#428bca}
+ul.g li a.active{background:#428bca}
+ul.g li a img{background:none}
+
+#nontopcatDiv, #topcatDiv, #non_mngd_productsDiv, #productsDiv{height:250px;min-height:250px;overflow:auto;}
+#nontopcatDiv ul.g li, #nontopcatDiv ul.g li a, #topcatDiv ul.g li, #topcatDiv ul.g li a{width:93px;height:93px;}
+#non_mngd_productsDiv ul.g li, #non_mngd_productsDiv ul.g li a{width:78px;height:78px;}
+
+table th{background:#FFEFD3}
+
+/*li changes*/
+.list-group-heading
+{
+    padding: 10px 15px;
+    border: 1px solid #DDD;
+    font-size: 15px;
+    color:#714667;
+    background-color:#e46565;
+    table-layout: fixed;
+}
+.list-group-changes
+{
+
+    padding: 0px 0px;
+    border: 1px solid #DDD;
+    font-size: 15px;
+    color:white;
+    background-color: #e46565;
+    table-layout: fixed;
+}
+#myTabContent .tab-pane li
+{
+    margin: 0px;
+}
+#myTabContent .col-md-2
+{
+    padding: 0px;
+}
+#myTabContent .row
+{
+    margin-left: 0px;
+}
+.table-striped-changes
+{
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+    padding-right:0px;
+    margin-top: 10px;
+    /*         margin-left: -15px;*/
+    border: 1px solid #DDD;
+    font-size: 15px;
+    color:white;
+    /*	background-color: #e46565;*/
+    table-layout: fixed;
+}
+
+.btn-changes
+{
+    margin: -6px;
+    padding: 8px 14px;
+    background: success;
+    color: white;
+
+}
+.displayblock{
+    display: block;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+.pos-top-btn-row{
+    margin-top: 10px;
+}
+.numberpad{
+    position: relative;
+}
+.numberpad #n_keypad{
+    /*    position: absolute;*/
+    z-index: 100000;
+    top: 25px;
+    left: 5px;
+}
+.width200
+{
+    width:200px;
+}
+.width220
+{
+    width:220px;
+}
+.width250
+{
+    width:250px;
+}
+.width300
+{
+    width:300px;
+}
+.width400
+{
+    width:400px;
+}
+.row-without-margin{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.col-without-padding{
+    padding: 0px;
+}
+.col-onlyleft-padding{
+    padding: 0;
+}
+.col-onlyright-padding{
+    padding: 0;
+}
+.panel-without-margin{
+    margin: 0px;
+}
+#posclient-nav{
+    margin: 0px;
+}
+/*nav styles */
+#navigation ul li a{
+    display:block;
+    padding:3px 6px;
+    margin:1px;
+    font-size:12px;
+    white-space:nowrap;
+}
+
+
+.navigation ul {
+    font: bold 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+.navigation li {
+    display: inline-block;
+}
+.navigation a {
+    background: #395870;
+    background: linear-gradient(#49708f, #293f50);
+    border-right: 1px solid rgba(0, 0, 0, .3);
+    color: #fff;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+.navigation a:hover {
+    background: #314b60;
+    box-shadow: inset 0 0 10px 1px rgba(0, 0, 0, .3);
+}
+.navigation li:first-child a {
+    border-radius: 4px 0 0 4px;
+}
+.navigation li:last-child a {
+    border-right: 0;
+    border-radius: 0 4px 4px 0;
+}
+
+
+
+li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+
+
+
+
+
+
+/*button {
+  border: 0;
+  background: #0087cc;
+  border-radius: 4px;
+  box-shadow: 0 5px 0 #006599;
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 12px 20px;
+  transition: all .1s linear;
+  }
+button:active {
+  box-shadow: 0 2px 0 #006599;
+  transform: translateY(3px);
+}*/
+
+
+
+
+.box {
+    background: #2db34a;
+    border-radius: 6px;
+    transition-property: background, border-radius;
+    transition-duration: .2s, 1s;
+    transition-timing-function: linear, ease-in;
+}
+.box:hover {
+    background: #ff7b29;
+    border-radius: 50%;
+}
+
+
+
+.mainselection {
+    overflow:hidden;
+    width:350px;
+    margin-left:35px;
+    background: url("images/dropdown_arrow.png") no-repeat #fff 319px 2px;
+    /* dropdown_arrow.png is a 31x28 image */
+}
+/*select {
+    border:0;
+    background:transparent;
+    height:32px;
+    border:1px solid #d8d8d8;
+    width:350px;
+    -webkit-appearance: none;
+}*/
+.input50percent {
+    width:50%;
+}
+.input60percent {
+    width:60%;
+}
+.input70percent {
+    width:70%;
+}
+.input75percent {
+    width:75%;
+}
+.input80percent {
+    width:80%;
+}
+.input90percent {
+    width:90%;
+}

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html ng-app="theApp" ng-controller="IndexCtrl">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<!-- Viewport metatags -->
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="MobileOptimized" content="320" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+	<!-- iOS webapp metatags -->
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+	<!-- iOS webapp icons -->
+	<link rel="apple-touch-icon" href="touch-icon-iphone.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="touch-icon-retina.png" />
+
+	<!-- CSS Reset -->
+	<link rel="stylesheet" type="text/css" href="../mylibs/lib2/css/reset.css" media="screen" />
+	<!--  Fluid Grid System -->
+	<link rel="stylesheet" type="text/css" href="../mylibs/lib2/css/fluid.css" media="screen" />
+	<!-- Theme Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../mylibs/lib2/css/theme.css" media="screen" />
+	<!--  Main Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../mylibs/lib2/css/main.css" media="screen" />
+        <link rel="stylesheet" href="../mylibs/lib2/css/loader.css" />
+	 <!--Demo Stylesheet--> 
+	<link rel="stylesheet" type="text/css" href="../mylibs/lib2/css/demo.css" media="screen" />        
+	<!--Custom Stylesheet -->
+	<link rel="stylesheet" href="assets/css/app.css" />
+        <link rel="stylesheet" href="../mylibs/lib2/css/gantt.css" type="text/css" />
+        <link rel="stylesheet" href="../mylibs/lib2/css/dhtmlxgantt.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+	
+        <!-- jQuery JavaScript File -->
+	<script type="text/javascript" src="../mylibs/lib2/js/jquery-1.7.2.min.js"></script>
+	
+	<!-- jQuery-UI JavaScript Files -->
+	<!-- <script type="text/javascript" src="../mylibs/lib2/jui/js/jquery-ui-1.8.20.min.js"></script> -->
+	<script type="text/javascript" src="../mylibs/lib2/jui/js/source/jquery-ui-1.8.20.js"></script>
+	<script type="text/javascript" src="../mylibs/lib2/jui/js/jquery.ui.timepicker.min.js"></script>
+	<script type="text/javascript" src="../mylibs/lib2/jui/js/jquery.ui.touch-punch.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="../mylibs/lib2/jui/css/jquery.ui.all.css" media="screen" />
+	<!-- Plugin Files -->
+
+	<!-- FileInput Plugin -->
+	<script type="text/javascript" src="../mylibs/lib2/js/jquery.fileinput.js"></script>
+	<!-- Placeholder Plugin -->
+	<script type="text/javascript" src="../mylibs/lib2/js/jquery.placeholder.js"></script>
+	<!-- Mousewheel Plugin -->
+	<script type="text/javascript" src="../mylibs/lib2/js/jquery.mousewheel.min.js"></script>
+	<!-- Scrollbar Plugin -->
+	<script type="text/javascript" src="../mylibs/lib2/js/jquery.tinyscrollbar.min.js"></script>
+	<!-- Tooltips Plugin -->
+	<script type="text/javascript" src="../mylibs/lib2/plugins/tipsy/jquery.tipsy-min.js"></script>
+	<link rel="stylesheet" href="../mylibs/lib2/plugins/tipsy/tipsy.css" />
+	<link rel="stylesheet" href="../mylibs/bootstrap/css/bootstrap.css"/>
+        <link rel="stylesheet" href="../mylibs/assets/css/datetimepicker.css"/>
+	<!-- Data Table -->
+	<script type="text/javascript" src="../mylibs/lib2/js/jquery.dataTables.js"></script>
+	<script type="text/javascript" src="../mylibs/lib2/js/jquery.dataTables.columnFilter.js"></script>
+	<!--<script type="text/javascript" src="../mylibs/lib2/js/demo/demo.ui.js"></script>-->
+        <script type="text/javascript" src="../mylibs/bootstrap/js/bootstrap.js"></script>        
+	<!-- Core JavaScript Files -->
+	<script type="text/javascript" src="../mylibs/lib2/js/core/core.js"></script>
+
+	<!-- Customizer JavaScript File (remove if not needed) -->
+	<script type="text/javascript" src="../mylibs/lib2/js/core/customizer.js"></script>
+        
+	<script type="text/javascript" src ="../mylibs/lib2/js/angular-1.2.3/angular.js"></script>
+	<script type="text/javascript" src ="../mylibs/lib2/js/angular-1.2.3/angular-animate.js"></script>
+	<script type="text/javascript" src ="../mylibs/lib2/js/angular-1.2.3/angular-route.js"></script>
+	<script type="text/javascript" src ="../mylibs/lib2/js/angular-1.2.3/angular-resource.js"></script>
+	<script type="text/javascript" src ="../mylibs/lib2/js/angular-1.2.3/angular-cookies.js"></script>
+        <script type="text/javascript" src ="../mylibs/lib2/js/angular-jquery-ui-date.js"></script>
+	<script type="text/javascript" src ="../mylibs/lib2/js/angular-local-storage.js"></script>
+        <script type="text/javascript" src ="../mylibs/lib2/js/moment-with-langs.js"></script>
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script type="text/javascript" src="http://www.google.com/jsapi?ext.js"></script>
+        <!-- Google Map -->
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,600,300,700" rel="stylesheet" type="text/css"/>
+	<script src="http://maps.googleapis.com/maps/api/js?sensor=false&language=en&v=3.13"></script>    
+<!--	<script src="//cdn.jsdelivr.net/lodash/2.4.0/lodash.backbone.js" type="text/javascript"></script>-->
+        <script type="text/javascript" src ="../mylibs/lib2/js/angular-google-maps.js"></script>
+        <script type="text/javascript">
+		directives.api.utils.Logger.doLog = true;
+	</script>
+<!--<script type="text/javascript" src="../mylibs/lib2/js/ng-google-chart.js"></script>-->
+        <script type="text/javascript" src="../mylibs/lib2/js/dhtmlxgantt.js" charset="utf-8"></script>
+        <script type="text/javascript" src ="../mylibs/lib2/js/angular-gantt.js"></script>
+        <script type="text/javascript" src="../mylibs/assets/js/datetimepicker.js"></script>
+        <script type="text/javascript" src="assets/js/testdata.js" charset="utf-8"></script>
+        <script type="text/javascript" src="assets/js/demo_sample_data.js" charset="utf-8"></script>
+
+	<script type="text/javascript" src ="assets/js/app.js"></script>
+        <script type="text/javascript" src ="assets/js/filters.js"></script>
+        <script type="text/javascript" src ="../mylibs/assets/js/constants.js"></script>
+        <script type="text/javascript" src ="../mylibs/assets/js/directives.js"></script>
+        <script type="text/javascript" src ="../mylibs/assets/js/services.js"></script>
+        <script type="text/javascript" src ="../mylibs/assets/js/controllers.js"></script>
+        <script type="text/javascript" src ="assets/js/appconstants.js"></script>
+        <script type="text/javascript" src ="assets/js/infoController.js"></script>
+	<title id="ttlelmnt">{{ appTitle }}</title>
+</head>
+<body>
+<div id="da-wrapper" class="fluid">
+	<!-- Header -->	
+        <div id="da-header">
+		<div id="da-header-top">
+			<!-- Container -->
+			<div class="da-container clearfix">
+				<!-- Logo Container. All images put here will be vertically centere -->
+				<div id="da-logo-wrap">
+					<div id="da-logo">
+						<div id="da-logo-img">
+							<a href="#" id="hdrhref">
+								{{appTitle}}
+							</a>
+						</div>
+					</div>
+				</div>
+				<!-- Header Toolbar Menu -->
+				<div id="da-header-toolbar" class="clearfix">
+					<div id="da-user-profile">
+						<div id="da-user-avatar">
+							<img src="../mylibs/lib2/images/propic.png" alt="" />
+						</div>
+						<div id="da-user-info">
+							{{loginname}} as {{role}}
+						</div>
+<!--						<ul class="da-header-dropdown">
+							<li class="da-dropdown-caret">
+								<span class="caret-outer"></span>
+								<span class="caret-inner"></span>
+							</li>
+							<li><a href="#">Profile</a></li>
+							<li><a href="#">Settings</a></li>
+							<li><a href="#">Change Password</a></li>
+                                                        <li><a href="#/logout">Logout</a></li>
+						</ul>-->
+					</div>
+					<div id="da-header-button-container">
+                                            <ul>
+                                                <li class="da-header-button logout">
+							<a href="#/" ng-click="logout()">Sign Out</a>
+                                                </li>
+                                            </ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="da-header-mid" style="display:none;">
+                    <ul class="mainNav">
+                        <li id="mi_dashboard" ng-if="role !== 'customer'"><a href="#/home"><img src="../mylibs/lib2/images/dash.png" /><span>Dashboard</span></a></li>
+                        <li id="mi_newjob"><a href="#/new/orders"><img src="../mylibs/lib2/images/newentry.png" /><span>New Order</span></a></li>
+                        <li id="mi_jobsorders" ng-if="role !== 'customer'"><a href="#/list/orders"><img src="../mylibs/lib2/images/jobs.png" /><span>Jobs</span></a></li>
+                        <!--<li id="mi_jobsordertasks"><a href="#/list/tasks"><span class="iconfa-book"></span> Tasks</a></li>-->
+                        <li class="foradminonly" id="mi_schedule"><a href="#/schedule"><img src="../mylibs/lib2/images/schedule.png" /><span>Job Assign</span></a></li>
+                        <li class="foradminonly" id="mi_peoplepeople"><a href="#/list/people"><img src="../mylibs/lib2/images/users.png" /><span>Users</span></a></li>
+                        <li class="foradminonly" id="mi_accounts"><a href="#/list/accounts"><img src="../mylibs/lib2/images/invoice.png" /><span class="iconfa-file"></span> Invoices</a></li>
+                        <li class="foradminonly" id="mi_payments" ng-if="enableordrpayments"><a href="#/list/payments"><img src="../mylibs/lib2/images/payment.png" /><span class="iconfa-file"></span> Payments</a></li>
+                    </ul>
+		</div>
+		<div id="da-header-bottom">
+			<!-- Container -->
+			<div class="da-container clearfix">
+				<!-- Breadcrumbs -->
+				<div id="da-breadcrumb">
+					<ul>
+						<li class="active" id="curpage"></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Content -->
+	<div id="da-content">
+            <div id="processing" class="loader" style="display: none"></div>
+		<!-- Container -->
+		<div class="da-container clearfix">
+			<!-- Main Content Wrapper -->
+			<div id="da-content-wrap" class="clearfix">
+				<!-- Content Area -->
+				<div id="da-content-area" ng-view>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<div id="da-footer">
+		<div class="da-container clearfix">
+                    <p>{{ appFooter }}</p>
+		</div>
+	</div>
+</div>	
+</body>
+</html>

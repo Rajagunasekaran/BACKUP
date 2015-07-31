@@ -1,0 +1,26 @@
+// for add field in flx tables and buttn
+
+$flds['product_id'] = array(
+                        'name' => 'product_id',
+                        'value' => '$data->product->name',
+                        );
+$flds['quantity'] = array('name' => 'quantity');
+$flds['unit_sp']=array('name' => 'unit_sp');
+$flds['tax'] = array('name' => 'tax');
+$flds['amount'] = array('name'=>'amount');
+$viewbillnoUrl = '$this->grid->controller->createUrl("/order/admin")';
+$btncols = array( array(
+                        'class'=>'booster.widgets.TbButtonColumn',
+                        'header' => 'Back',
+                        'template'=>'{Back}',
+                        'buttons'=>array(
+                            'Back'=>array(
+                                'url'=>$viewbillnoUrl,
+                            ),
+                        ),
+                    ),
+                );
+$columns = array_merge($btncols, $flds);
+
+// enable this in gridview widget
+'columns'=>$columns, 'filter'=>$model,

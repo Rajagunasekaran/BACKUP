@@ -1,0 +1,8 @@
+.loader{
+	float:right;
+	width:24px;
+	height:24px;
+	margin:0;
+	background:url(../images/loaders/spinner_bar.gif) no-repeat center center;
+	
+}

@@ -1,0 +1,33 @@
+/* delete all tables records even seed recrods too
+*/
+DELETE FROM `accountorders`;
+DELETE FROM `accountpurchases`;
+DELETE FROM `accounts`;
+DELETE FROM `categories`;
+DELETE FROM `configs`;
+DELETE FROM `consignmentnotes`;
+DELETE FROM `geolocations`;
+DELETE FROM `idmasters`;
+DELETE FROM `locations`;
+DELETE FROM `logins`;
+DELETE FROM `mailqueues`;
+DELETE FROM `milestones`;
+DELETE FROM `orderaddresses`;
+DELETE FROM `orderpeople`;
+DELETE FROM `orderproductdns`;
+DELETE FROM `orderproducts`;
+DELETE FROM `orders`;
+DELETE FROM `ordertaskpeople`;
+DELETE FROM `ordertasks`;
+DELETE FROM `otprgrshistories`;
+DELETE FROM `payments`;
+DELETE FROM `people`;
+DELETE FROM `personaddresses`;
+DELETE FROM `persontimeslots`;
+DELETE FROM `productpeople`;
+DELETE FROM `products`;
+DELETE FROM `purchasepeople`;
+DELETE FROM `purchaseproducts`;
+DELETE FROM `purchases`;
+DELETE FROM `tasks`;
+DELETE FROM `timeslotstatuses`;

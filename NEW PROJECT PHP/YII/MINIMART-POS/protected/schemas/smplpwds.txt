@@ -1,0 +1,25 @@
+027a5a22d5890e87be8fcfe1d4ef2a98aa7f3133$d30bd965c0e92fae88258a8defa365ea415ed907 - admin admin
+37b84c8e767294549397595c929f43a237df340f$d30bd965c0e92fae88258a8defa365ea415ed907 - employee1 test
+97634d895df40d599b902fa4c82f99daa8a458d7$d30bd965c0e92fae88258a8defa365ea415ed907 - employee2 test
+56f3892ff033ecd58fb7a7af26faf8869d4fafd1$d30bd965c0e92fae88258a8defa365ea415ed907 - employee3 test
+0d93678b13efcda0d8f11ae884cf815084ba1a3b$d30bd965c0e92fae88258a8defa365ea415ed907 - customer1 test
+8646cf5228194f080340352e381a553400b3e678$d30bd965c0e92fae88258a8defa365ea415ed907 - customer2 test
+
+
+
+insert  into `people`
+(`id`,`type`,`firstname`,`lastname`,`mobile`,`mobile_addnls`,`mail`,`loginenabled`,`geo_update_frq`,`work_hour_start`,`work_hour_end`,`created_at`,`updated_at`)
+values 
+(1,'admin','admin','admin','9000',NULL,NULL,1,15,9,6,'2013-12-06 09:57:28','2013-12-06 09:57:28'),
+(2,'employee','employee1','employee1','9000',NULL,NULL,1,15,9,6,'2013-12-06 09:57:28','2013-12-06 09:57:28'),
+(3,'customer','customer1','customer1','9000',NULL,NULL,1,15,9,6,'2013-12-06 09:57:28','2013-12-06 09:57:28');
+
+insert  into `logins`(`id`,`person_id`,`login`,`pass`,`hash_id`,`status`,`created_at`,`updated_at`) values (1,1,'admin','027a5a22d5890e87be8fcfe1d4ef2a98aa7f3133$d30bd965c0e92fae88258a8defa365ea415ed907','027a5a22d5890e87be8fcfe1d4ef2a98aa7f3133$d30bd965c0e92fae88258a8defa365ea415ed907',1,'2013-12-04 19:38:01','2013-12-04 19:38:01'),
+(2,2,'employee1','37b84c8e767294549397595c929f43a237df340f$d30bd965c0e92fae88258a8defa365ea415ed907','37b84c8e767294549397595c929f43a237df340f$d30bd965c0e92fae88258a8defa365ea415ed907',1,'2013-12-04 19:38:01','2013-12-04 19:38:01'),
+(3,3,'customer1','0d93678b13efcda0d8f11ae884cf815084ba1a3b$d30bd965c0e92fae88258a8defa365ea415ed907','0d93678b13efcda0d8f11ae884cf815084ba1a3b$d30bd965c0e92fae88258a8defa365ea415ed907',1,'2013-12-04 19:38:01','2013-12-04 19:38:01');
+
+try and let me know if it is connecting and getting the result as follows... rtnvalue['RetCode']
+rtnvalue['data']['id'] 
+rtnvalue['data']['hash_id']
+rtnvalue['data']['geo_update_frq']
+krvramanan2012@gmail.com

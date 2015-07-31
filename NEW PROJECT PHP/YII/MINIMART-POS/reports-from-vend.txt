@@ -1,0 +1,27 @@
+sales reports.
+by period
+by month
+by day
+by hour
+by tag[may be in product reports menu]
+register sales details
+payment types by month
+
+product reports.
+sales by outlet
+by user
+by customer
+by customer group
+by supplier
+by type[category]
+by tag[it is sales reports menu now]
+popular products
+
+stock reports.
+stock levels
+stock on hand
+low stock
+
+register reports.
+register closures
+

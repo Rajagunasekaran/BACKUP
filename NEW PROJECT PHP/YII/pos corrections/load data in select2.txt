@@ -1,0 +1,19 @@
+// controller
+
+ public function getCodeLookup()
+   {
+       $code = Subproductprice::model()->findAll();
+       $code = CHtml::listData($code, 'id', 'code');
+       return $code;
+   }
+
+//_seach form
+$this->widget( 'booster.widgets.TbSelect2', array(
+            'attribute' => 'code',
+            'model' => $model,
+            'data' => $this->getCodeLookup(),
+            'options' => array(
+                'allowClear' => true,
+            ),
+            'htmlOptions' => $htmlOptions,
+        ) );

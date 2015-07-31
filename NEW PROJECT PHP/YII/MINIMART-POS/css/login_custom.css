@@ -1,0 +1,55 @@
+body.loginpage {
+    background: none repeat scroll 0 0 #0866C6;
+}
+.loginpanel {
+    height: 300px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+}
+.loginpanelinner {
+    left: -50%;
+    position: relative;
+    top: -150px;
+}
+.loginpanelinner .logo {
+    padding: 20px 0;
+    text-align: center;
+}
+.loginpanelinner .logo a {
+    color: #FFFFFF;
+    font-size: 3em;
+}
+.login-alert {
+    display: none;
+}
+.inputwrapper .form-group .form-control{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 0 none;
+    padding: 10px;
+    width: 250px;
+}
+.inputwrapper input[type="submit"],
+.inputwrapper button[type="submit"]
+{
+    background: none repeat scroll 0 0 #0972DD;
+    border: 1px solid #0C57A3;
+    color: #FFFFFF;
+    display: block;
+    padding: 10px;
+/*    margin-left: 15px;*/
+    width: 250px;
+    text-transform: uppercase;
+}
+
+.loginfooter {
+    bottom: 0;
+    color: rgba(255, 255, 255, 0.5);
+    font-family: arial,sans-serif !important;
+    font-size: 11px;
+    left: 0;
+    padding: 5px 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}

@@ -1,0 +1,42 @@
+// autocomplete
+// add this in ordercontroll.php
+protected function getOrderId()
+    {
+        $result = Order::model()->findAll();
+        if ( count( $result ) > 0 )
+        {
+            $listdata = CHtml::listData( $result, 'id', 'qoi_id' );
+        }
+        else
+        {
+            $listdata = CHtml::listData( array ( ), 'id', 'qoi_id' );
+        }
+//        print_r($listdata);
+        return $listdata;
+    }
+
+
+// in ordercontroll.php-function actionposclient()
+
+$this->render('altcreate',array('model' => $model,'orderid' => $this->getOrderId()));
+
+
+// in the view posclient.php
+
+<label>Enter Bill Number.</label>          
+<?php    
+    $input = array_slice($orderid,0);
+    //autocomplete
+    $form->widget('zii.widgets.jui.CJuiAutoComplete', array(
+        'model'=>$model,
+        'attribute'=>'qoi_id',
+        'name'=>'order_qoi_id',
+        'source'=>$input,
+        'htmlOptions'=>array(
+            'id'=>'qoi_id',
+            'size'=>'30',                
+            'placeholder' => 'Bill No.',
+            'onkeyup'=>'getOrderProductsForABill(event,"/pos/order/getOrderProductsForABill");',
+        ),
+    ));
+?>

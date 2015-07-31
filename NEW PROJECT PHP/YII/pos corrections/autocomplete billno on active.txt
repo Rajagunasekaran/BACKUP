@@ -1,0 +1,5 @@
+// get only on sales bill no from the order table not exchange, refund, cancel
+
+controller getOrderId():
+$criteria=new CDbCriteria;
+        $criteria->addCondition('addnlinfo=0 and status=3');
