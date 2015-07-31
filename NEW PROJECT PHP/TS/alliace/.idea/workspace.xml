@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="066a7bf0-47f0-4009-809a-13e88efeda1e" name="Default" comment="" />
+    <ignored path="alliace.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="alliace" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ALLIANCE_REPORT_MAIL.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ALLIANCE_REPORT_MAIL.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="235" column="49" selection-start="12881" selection-end="12881" vertical-scroll-proportion="0.6099426" vertical-offset="3676" max-vertical-offset="4199">
+              <folding>
+                <marker date="1425289244388" expanded="true" signature="414:485" placeholder="SELECT * FRO..VW_ACCESS_RIGHTS_TERMINATE_LOGINID..." />
+                <marker date="1425289244388" expanded="true" signature="504:581" placeholder="SELECT * FRO..VW_ACCESS_RIGHTS_TERMINATE_LOGINID..." />
+                <marker date="1425289244388" expanded="true" signature="692:742" placeholder="SELECT * FRO..EMAIL_TEMPLATE_DETAILS..." />
+                <marker date="1425289244388" expanded="false" signature="1590:1602" placeholder="..." />
+                <marker date="1425289244388" expanded="false" signature="1676:1712" placeholder="..." />
+                <marker date="1425289244388" expanded="false" signature="1772:1808" placeholder="..." />
+                <marker date="1425289244388" expanded="false" signature="1859:1906" placeholder="..." />
+                <marker date="1425289244388" expanded="false" signature="1959:1995" placeholder="..." />
+                <marker date="1425289244388" expanded="false" signature="2045:2081" placeholder="..." />
+                <marker date="1425289244388" expanded="true" signature="2411:2441" placeholder="select * fro..." />
+                <marker date="1425289244388" expanded="true" signature="5321:5351" placeholder="select * fro..." />
+                <marker date="1425289244388" expanded="true" signature="6347:6377" placeholder="select * fro..." />
+                <marker date="1425289244388" expanded="true" signature="6393:6504" placeholder="select EMPLO..." />
+                <marker date="1425289244388" expanded="true" signature="11196:11223" placeholder="DROP TABLE $..." />
+                <marker date="1425289244388" expanded="false" signature="12092:12111" placeholder="..." />
+                <marker date="1425289244388" expanded="false" signature="12547:12566" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/admin_entry_form.php" />
+        <option value="$PROJECT_DIR$/DB_ACCESS_RIGHTS_ACCESS_RIGHTS-SEARCH_UPDATE.php" />
+        <option value="$PROJECT_DIR$/HEADER.php" />
+        <option value="$PROJECT_DIR$/mail.php" />
+        <option value="$PROJECT_DIR$/FORM_DAILY_REPORTS_ADMIN_SEARCH_UPDATE_DELETE.php" />
+        <option value="$PROJECT_DIR$/FORM_DAILY_REPORTS_USER_REPORT_ENTRY.php" />
+        <option value="$PROJECT_DIR$/FORM_DAILY_REPORTS_USER_SEARCH_UPDATE.php" />
+        <option value="$PROJECT_DIR$/DB_DAILY_REPORTS_USER_SEARCH_UPDATE.php" />
+        <option value="$PROJECT_DIR$/wPaint/plugins/main/src/wPaint.menu.main.js" />
+        <option value="$PROJECT_DIR$/wPaint/plugins/shapes/src/wPaint.menu.main.shapes.js" />
+        <option value="$PROJECT_DIR$/DB_DAILY_REPORTS_ADMIN_REPORT_ENTRY.php" />
+        <option value="$PROJECT_DIR$/DB_DAILY_REPORTS_USER_REPORT_ENTRY.php" />
+        <option value="$PROJECT_DIR$/DB_DAILY_REPORTS_ADMIN_SEARCH_UPDATE_DELETE.php" />
+        <option value="$PROJECT_DIR$/wPaint/plugins/text/src/wPaint.menu.text.js" />
+        <option value="$PROJECT_DIR$/COMMON_FUNCTIONS.php" />
+        <option value="$PROJECT_DIR$/EXCEL_REPORT_MAIL.php" />
+        <option value="$PROJECT_DIR$/FORM_DAILY_REPORTS_ADMIN_REPORT_ENTRY.php" />
+        <option value="$PROJECT_DIR$/GET_USERSTAMP.php" />
+        <option value="$PROJECT_DIR$/FORM_DAILY_REPORTS_PROJECT_PERMITS_UPDATE.php" />
+        <option value="$PROJECT_DIR$/FORM_DAILY_REPORTS_REPORT_ENTRY.php" />
+        <option value="$PROJECT_DIR$/DB_DAILY_REPORTS_REPORT_ENTRY.php" />
+        <option value="$PROJECT_DIR$/CSS/StyleSheet.css" />
+        <option value="$PROJECT_DIR$/DB_DAILY_REPORTS_PROJECT_PERMITS_UPDATE.php" />
+        <option value="$PROJECT_DIR$/COMMON.php" />
+        <option value="$PROJECT_DIR$/FORM_DAILY_REPORTS_SEARCH.php" />
+        <option value="$PROJECT_DIR$/FORM_ACCESS_RIGHTS_ACCESS_RIGHTS-SEARCH_UPDATE.php" />
+        <option value="$PROJECT_DIR$/DB_DAILY_REPORTS_PROJECT_PERMITS.php" />
+        <option value="$PROJECT_DIR$/DB_PROJECT_PROJECT_ENTRY_SEARCH_UPDATE.php" />
+        <option value="$PROJECT_DIR$/FORM_PROJECT_PROJECT_ENTRY_SEARCH_UPDATE.php" />
+        <option value="$PROJECT_DIR$/ALLIANCE_REPORT_MAIL.php" />
+        <option value="$PROJECT_DIR$/CONNECTION.php" />
+        <option value="$PROJECT_DIR$/FORM_DAILY_REPORTS_PROJECT_PERMITS.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alliace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alliace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alliace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alliace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alliace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Configurable.PHP" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ATS" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\alliace" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="066a7bf0-47f0-4009-809a-13e88efeda1e" name="Default" comment="" />
+      <created>1424253908367</created>
+      <updated>1424253908367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2960725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DB_DAILY_REPORTS_PROJECT_PERMITS_UPDATE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="84" selection-start="3775" selection-end="4114" vertical-scroll-proportion="0.0" vertical-offset="933" max-vertical-offset="10523" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALLIANCE_REPORT_MAIL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="17" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="4199" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_DAILY_REPORTS_PROJECT_PERMITS_UPDATE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="84" selection-start="3775" selection-end="4114" vertical-scroll-proportion="0.0" vertical-offset="933" max-vertical-offset="10523" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORM_DAILY_REPORTS_SEARCH.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1066" column="21" selection-start="51681" selection-end="51681" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19737" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HEADER.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="3" selection-start="144" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_DAILY_REPORTS_PROJECT_PERMITS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="42" selection-start="31" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="7701" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORM_ACCESS_RIGHTS_USER_SEARCH_DETAIL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.08947369" vertical-offset="51" max-vertical-offset="2499" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_defines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="723" column="8" selection-start="17736" selection-end="17773" vertical-scroll-proportion="0.34819898" vertical-offset="12088" max-vertical-offset="23205" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/test/dev.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="5.8846154" vertical-offset="153" max-vertical-offset="2176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_entry_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="679" column="66" selection-start="30609" selection-end="30616" vertical-scroll-proportion="0.46140352" vertical-offset="11280" max-vertical-offset="24497" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/src/wPaint.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6018" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/plugins/text/img/icons-menu-text.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/plugins/text/wPaint.menu.text.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="77" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/plugins/main/img/icons-menu-main.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/src/wPaint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="701" column="36" selection-start="21859" selection-end="21859" vertical-scroll-proportion="19.395973" vertical-offset="357" max-vertical-offset="20162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/plugins/main/src/fillArea.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/plugins/main/src/wPaint.menu.main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="69" selection-start="6188" selection-end="6193" vertical-scroll-proportion="0.3321918" vertical-offset="2985" max-vertical-offset="5882" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/plugins/shapes/src/wPaint.menu.main.shapes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="254" selection-end="254" vertical-scroll-proportion="0.16748768" vertical-offset="0" max-vertical-offset="3672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMMON_PDF.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3978" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXCEL_REPORT_MAIL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="69" selection-start="3692" selection-end="3692" vertical-scroll-proportion="-7.8461537" vertical-offset="969" max-vertical-offset="1802" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMMON_FUNCTIONS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="19" selection-start="3979" selection-end="3979" vertical-scroll-proportion="0.6122807" vertical-offset="1691" max-vertical-offset="2261" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GET_USERSTAMP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="156" selection-end="156" vertical-scroll-proportion="0.18149467" vertical-offset="0" max-vertical-offset="562" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_MENU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="111" selection-end="111" vertical-scroll-proportion="-0.030965392" vertical-offset="102" max-vertical-offset="1938" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATS_REPORT_IMAGE/RAJA_02042014-102910/5_01022015_153312.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATS_REPORT_IMAGE/RAJA_02042014-102910/5_03022015_150715.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_DAILY_REPORTS_SEARCH.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="202" column="76" selection-start="8743" selection-end="8744" vertical-scroll-proportion="1.2678899" vertical-offset="2743" max-vertical-offset="8126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MENU.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="30" selection-start="6061" selection-end="6083" vertical-scroll-proportion="12.923077" vertical-offset="2937" max-vertical-offset="4369" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATS_REPORT_IMAGE/SN_01012012_021920/1_02022015_202007.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="2" selection-start="132" selection-end="153" vertical-scroll-proportion="0.1457976" vertical-offset="0" max-vertical-offset="583" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/plugins/file/src/wPaint.menu.main.file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wPaint/plugins/text/src/wPaint.menu.text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="20" selection-end="162" vertical-scroll-proportion="0.027914613" vertical-offset="0" max-vertical-offset="3995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMMON.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="64" selection-start="1045" selection-end="1045" vertical-scroll-proportion="-4.7122808" vertical-offset="3264" max-vertical-offset="6511" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_EMAIL_EMAIL_TEMPLATE_SEARCH_UPDATE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORM_ACCESS_RIGHTS_SITE_MAINTENANCE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORM_DAILY_REPORTS_SEARCH.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="812" column="32" selection-start="38881" selection-end="38881" vertical-scroll-proportion="-2.6649122" vertical-offset="15323" max-vertical-offset="19737" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HEADER.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="584" selection-end="584" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/companyLogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_ACCESS_RIGHTS_ACCESS_RIGHTS-SEARCH_UPDATE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="162" column="8" selection-start="5100" selection-end="5100" vertical-scroll-proportion="0.33079848" vertical-offset="2580" max-vertical-offset="19839" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORM_ACCESS_RIGHTS_ACCESS_RIGHTS-SEARCH_UPDATE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="785" column="37" selection-start="41360" selection-end="41366" vertical-scroll-proportion="24.210238" vertical-offset="102" max-vertical-offset="33592" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_DAILY_REPORTS_REPORT_ENTRY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="77" selection-start="2203" selection-end="2203" vertical-scroll-proportion="-5.3107862" vertical-offset="4027" max-vertical-offset="6562" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATTENDANCE_REPORT_MAIL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.1645339" vertical-offset="1731" max-vertical-offset="2431" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_PROJECT_PROJECT_ENTRY_SEARCH_UPDATE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="60" selection-start="8155" selection-end="8155" vertical-scroll-proportion="0.22586522" vertical-offset="2460" max-vertical-offset="3366" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORM_PROJECT_PROJECT_ENTRY_SEARCH_UPDATE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="760" column="21" selection-start="34862" selection-end="35003" vertical-scroll-proportion="0.5938069" vertical-offset="12594" max-vertical-offset="13413" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONNECTION.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="53" selection-start="502" selection-end="502" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/StyleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1770" column="1" selection-start="35066" selection-end="35066" vertical-scroll-proportion="0.43003413" vertical-offset="29838" max-vertical-offset="30447" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_DAILY_REPORTS_PROJECT_PERMITS_UPDATE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="411" column="39" selection-start="18459" selection-end="18459" vertical-scroll-proportion="3.8891013" vertical-offset="4953" max-vertical-offset="10523" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB_DAILY_REPORTS_PROJECT_PERMITS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="279" column="26" selection-start="9484" selection-end="9484" vertical-scroll-proportion="-15.807693" vertical-offset="4332" max-vertical-offset="8194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORM_DAILY_REPORTS_REPORT_ENTRY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="75" selection-start="2467" selection-end="2483" vertical-scroll-proportion="-13.622984" vertical-offset="7794" max-vertical-offset="16014" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORM_DAILY_REPORTS_PROJECT_PERMITS_UPDATE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1584" column="34" selection-start="78658" selection-end="78658" vertical-scroll-proportion="1.9078695" vertical-offset="25934" max-vertical-offset="36822" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FORM_DAILY_REPORTS_PROJECT_PERMITS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="333" column="39" selection-start="14451" selection-end="14455" vertical-scroll-proportion="0.3326613" vertical-offset="5496" max-vertical-offset="23851" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALLIANCE_REPORT_MAIL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="49" selection-start="12881" selection-end="12881" vertical-scroll-proportion="0.6099426" vertical-offset="3676" max-vertical-offset="4199">
+          <folding>
+            <marker date="1425289244388" expanded="true" signature="414:485" placeholder="SELECT * FRO..VW_ACCESS_RIGHTS_TERMINATE_LOGINID..." />
+            <marker date="1425289244388" expanded="true" signature="504:581" placeholder="SELECT * FRO..VW_ACCESS_RIGHTS_TERMINATE_LOGINID..." />
+            <marker date="1425289244388" expanded="true" signature="692:742" placeholder="SELECT * FRO..EMAIL_TEMPLATE_DETAILS..." />
+            <marker date="1425289244388" expanded="false" signature="1590:1602" placeholder="..." />
+            <marker date="1425289244388" expanded="false" signature="1676:1712" placeholder="..." />
+            <marker date="1425289244388" expanded="false" signature="1772:1808" placeholder="..." />
+            <marker date="1425289244388" expanded="false" signature="1859:1906" placeholder="..." />
+            <marker date="1425289244388" expanded="false" signature="1959:1995" placeholder="..." />
+            <marker date="1425289244388" expanded="false" signature="2045:2081" placeholder="..." />
+            <marker date="1425289244388" expanded="true" signature="2411:2441" placeholder="select * fro..." />
+            <marker date="1425289244388" expanded="true" signature="5321:5351" placeholder="select * fro..." />
+            <marker date="1425289244388" expanded="true" signature="6347:6377" placeholder="select * fro..." />
+            <marker date="1425289244388" expanded="true" signature="6393:6504" placeholder="select EMPLO..." />
+            <marker date="1425289244388" expanded="true" signature="11196:11223" placeholder="DROP TABLE $..." />
+            <marker date="1425289244388" expanded="false" signature="12092:12111" placeholder="..." />
+            <marker date="1425289244388" expanded="false" signature="12547:12566" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
