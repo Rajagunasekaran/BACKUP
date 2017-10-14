@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		#ajax-loading-screen {
+			background-color: #fff;
+			width: 100%;
+			height: 100%;
+			position: fixed;
+			top: 0;
+			left: 0;
+			display: none;
+			z-index: 1000000000;
+		}
+		body[data-ajax-transitions="true"] #ajax-loading-screen[data-method="standard"], body[data-ajax-transitions="true"] #ajax-loading-screen[data-method="standard"] .loading-icon {
+			display: block;
+			opacity: 1;
+		}
+		#ajax-loading-screen .loading-icon {
+			background-repeat:no-repeat;
+			background-position: center center;
+			display: block;
+			position: absolute;
+			opacity: 0;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+		.default-loading-icon {
+			top: 50%;
+			border-radius: 100%;
+			height: 40px;
+			width: 40px;
+			margin: 0 auto;
+			display: block;
+			position: relative;  
+			border: 3px solid #e5e5e5; 
+			margin-top: -20px;
+		}
+		.default-loading-icon:before {
+			border-top-color: #6a1a31!important;
+		}
+		.default-loading-icon:before {
+			position: absolute;
+			content: "";
+			border-color: rgba(0, 0, 0, 1) transparent transparent;
+			border-radius: 100%;
+			border-style: solid;
+			border-width: 3px;
+			display: block;
+			height: 100%;
+			width: 100%;
+			top: -3px;
+			left: -3px;
+		}
+		.loading-icon.spin, .portfolio-loading.spin, .pp_loaderIcon.spin, .default-loading-icon.spin {
+			animation: 2s cubic-bezier(0.63, 0.045, 0.34, 1) 0s normal none infinite spinning_animation;
+			-webkit-animation: 2s cubic-bezier(0.63, 0.045, 0.34, 1) 0s normal none infinite spinning_animation;
+		}
+		.default-skin-loading-icon {
+			width: 100%;
+			height: 100%;
+			background-position: center;
+			display: block;
+			background-repeat: no-repeat;
+			background-image: url("img/icons/loading-white-bg.gif");
+		}
+		.nectar-slider-loading .loading-icon, .portfolio-loading, #ajax-loading-screen .loading-icon, .loading-icon, .pp_loaderIcon {
+			background-image: url(www.redmondclay.com/);
+		}
+
+
+		@keyframes spinning_animation {
+			0% {
+				transform: scale(1) rotate(0deg);
+				-o-transform: scale(1) rotate(0deg);
+			}
+			50% {
+				transform: scale(0.8) rotate(360deg);
+				-o-transform: scale(0.8) rotate(360deg);
+			}
+			100% {
+				transform: scale(1) rotate(720deg);
+				-o-transform: scale(1) rotate(720deg);
+			}
+		}
+
+		@-webkit-keyframes spinning_animation {
+			0% {
+				-webkit-transform: scale(1) rotate(0deg);
+			}
+			50% {
+				-webkit-transform: scale(0.8) rotate(360deg);
+			}
+			100% {
+				-webkit-transform: scale(1) rotate(720deg);
+			}
+
+		}
+
+		@keyframes bounce_in_animation {
+			0% {
+				transform: scale(0, 0);
+				-o-transform: scale(0, 0);
+			}
+			20% {
+				transform: scale(1.4, 1.4);
+				-o-transform: scale(1.4, 1.4);
+			}
+			50% {
+				transform: scale(0.8, 0.8);
+				-o-transform: scale(0.8, 0.8);
+			}
+			85% {
+				transform: scale(1.1, 1.1);
+				-o-transform: scale(1.1, 1.1);
+			}
+			100% {
+				transform: scale(1, 1);
+				-o-transform: scale(1, 1);
+			}
+		}
+
+		@-webkit-keyframes bounce_in_animation {
+			0% {
+				-webkit-transform: scale(0, 0);
+			}
+			20% {
+				-webkit-transform: scale(1.4, 1.4);
+			}
+			50% {
+				-webkit-transform: scale(0.8, 0.8);
+			}
+			85% {
+				-webkit-transform: scale(1.1, 1.1);
+			}
+			100% {
+				-webkit-transform: scale(1, 1);
+			}
+		}
+
+
+		@keyframes grow_in_animation {
+			0% {
+				transform: scale(0, 0);
+				-o-transform: scale(0, 0);
+			}
+			100% {
+				transform: scale(1, 1);
+				-o-transform: scale(1, 1);
+			}
+		}
+
+		@-webkit-keyframes grow_in_animation {
+			0% {
+				-webkit-transform: scale(0, 0);
+			}
+			100% {
+				-webkit-transform: scale(1, 1);
+			}
+		}
+
+		#ajax-loading-screen[data-effect="center_mask_reveal"] {
+			background-color: transparent!important;
+		}
+
+		body[data-ajax-transitions="true"] #ajax-loading-screen[data-effect="center_mask_reveal"].hidden {
+			display: none;
+		}
+
+		#ajax-loading-screen[data-effect="center_mask_reveal"] span {
+			position: absolute;
+			background: #fff;
+			z-index: 100;
+			-webkit-transition: 0.8s cubic-bezier(0.12, 0.75, 0.4, 1) !important;
+			transition: 0.8s cubic-bezier(0.12, 0.75, 0.4, 1) !important;
+		}
+
+		#ajax-loading-screen[data-effect="center_mask_reveal"].set-to-fade span {
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			transform: none!important;
+			-webkit-transform: none!important;
+		}
+
+		#ajax-loading-screen .mask-top {
+			top: 0%;
+			left: 0;
+			height: 50%;
+			width: 100%;
+		}
+
+		#ajax-loading-screen.loaded .mask-top {
+			-webkit-transform: translateY(-100%) translateZ(0);
+			-ms-transform: translateY(-100%) translateZ(0);
+			transform: translateY(-100%) translateZ(0);
+		}
+
+		#ajax-loading-screen .mask-right {
+			top: 0;
+			right: 0;
+			height: 100%;
+			width: 50%;
+		}
+
+		#ajax-loading-screen.loaded .mask-right {
+			-webkit-transform: translateX(100%) translateZ(0);
+			-ms-transform: translateX(100%) translateZ(0);
+			transform: translateX(100%) translateZ(0);
+		}
+
+		#ajax-loading-screen .mask-bottom {
+			bottom: 0%;
+			right: 0;
+			height: 50%;
+			width: 100%;
+		}
+
+		#ajax-loading-screen.loaded .mask-bottom {
+			-webkit-transform: translateY(100%) translateZ(0);
+			-ms-transform: translateY(100%) translateZ(0);
+			transform: translateY(100%) translateZ(0);
+		}
+
+
+		#ajax-loading-screen .mask-left {
+			top: 0;
+			left: 0;
+			height: 100%;
+			width: 50%;
+		}
+
+		#ajax-loading-screen.loaded .mask-left {
+			-webkit-transform: translateX(-100%) translateZ(0);
+			-ms-transform: translateX(-100%) translateZ(0);
+			transform: translateX(-100%) translateZ(0);
+		}
+	</style>
+</head>
+<body data-ajax-transitions="true" data-ajax-transitions="true">
+	<div id="ajax-loading-screen" data-disable-fade-on-click="0" data-effect="standard" data-method="standard"  >
+		<span class="loading-icon none" > 
+			<span class="default-loading-icon spin"></span> 
+		</span>
+	</div>
+</body>
+</html>

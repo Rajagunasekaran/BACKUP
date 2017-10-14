@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>loader</title>
+	<style>
+		@-webkit-keyframes rotation { 
+			from {
+				-webkit-transform: rotate(0deg)
+			}
+			to {
+				-webkit-transform: rotate(359deg)
+			}
+		}
+		@-moz-keyframes rotation { 
+			from {
+				-moz-transform: rotate(0deg)
+			}
+			to {
+				-moz-transform: rotate(359deg)
+			}
+		}
+		@-o-keyframes rotation { 
+			from {
+				-o-transform: rotate(0deg)
+			}
+			to {
+				-o-transform: rotate(359deg)
+			}
+		}
+		@keyframes rotation { 
+			from {
+				transform: rotate(0deg)
+			}
+			to {
+				transform: rotate(359deg)
+			}
+		}
+		#preloader {
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background-color: rgba(255, 255, 255, 0.5);
+			z-index: 9999999;
+		}
+		#status {
+			width: 40px;
+			height: 40px;
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			margin: -20px 0 0 -20px;
+		}
+		.spinner {
+			height: 40px;
+			width: 40px;
+			position: relative;
+			-webkit-animation: rotation .8s infinite linear;
+			-moz-animation: rotation .8s infinite linear;
+			-o-animation: rotation .8s infinite linear;
+			animation: rotation .8s infinite linear;
+			border-left: 3px solid rgba(112,174,210,.15);
+			border-right: 3px solid rgba(112,174,210,.15);
+			border-bottom: 3px solid rgba(112,174,210,.15);
+			border-top: 3px solid rgba(112,174,210,.8);
+			border-radius: 100%;
+		}
+		#preloader .textload {
+			width: 100%;
+			position: absolute;
+			top: calc(50% + 30px);
+			left: 0;
+			text-transform: uppercase;
+			text-align: center;
+			color: #70aed2;
+			font-family: 'Montserrat', sans-serif;
+		}
+	</style>
+</head>
+<body>
+	<div id="preloader" style="display: none;">
+		<div class="textload">Loading</div>
+		<div id="status"> <div class="spinner"></div> </div>
+	</div>
+</body>
+</html>
