@@ -1,0 +1,114 @@
+# Sync the git project in local with SSH key:
+# Run this below comments in git bash:
+
+VSS00@COMPUTER17 MINGW64 ~/Desktop
+
+$ cat ~/
+Display all 43 possibilities? (y or n)
+
+VSS00@COMPUTER17 MINGW64 ~
+# Checking for existing SSH keys
+
+$ ls -al ~/.ssh
+
+VSS00@COMPUTER17 MINGW64 ~
+# Generate the SSH key
+
+$ ssh-keygen -t rsa
+
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/VSS00/.ssh/id_rsa):
+Created directory '/c/Users/VSS00/.ssh'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/VSS00/.ssh/id_rsa.
+Your public key has been saved in /c/Users/VSS00/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:cceJguVAI4ZyEbe5oPhEtzaG2TpivU/JkX3GvY34mos VSS00@COMPUTER17
+The key's randomart image is:
++---[RSA 2048]----+
+|  o++.+ .        |
+|. oo + *   o .   |
+| oo + . + o +    |
+|.o * oo .+..     |
+|o + Bo .S+ .     |
+| o.+..o o . +    |
+|..+. +   . o .   |
+|.. .o   . o      |
+|   ... E +o.     |
++----[SHA256]-----+
+
+VSS00@COMPUTER17 MINGW64 ~
+# View the generated key
+
+$ cat ~/.ssh/id_rsa.pub
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCoYzwUrnLQ2izGcuMx+14H66kmiZTf0akBXBy30HnW                                                                                                                                                                                               YICdgbWTtqNbgL16kn2KOvKXa2EabpIcbCCJF8oPLxaDaIgBLsbjYiek8C/l5jV1CnoB0Cm1HA4IqKFn                                                                                                                                                                                               JH8DsvXcAUhxU9TBJW/mKX9QcoSgpFwImwyFbPpsfbKa7+nxNOV+6QCDNUezUnkZCFs5KqpZ1YxYzAEu                                                                                                                                                                                               mHVNd2DNdNktCpJAzHTokSCp3m8gHV1laxtsaM4WaxIK9qv4kZQqmvGIVeIxvXamu90oy3oIYN7Al5WQ                                                                                                                                                                                               UEo3J0LqAt4SOsdpbaCFaIcH5NKVvincGyCbRvLdRzs9ow8I8Q12Rh5vrsdZ VSS00@COMPUTER17
+
+VSS00@COMPUTER17 MINGW64 ~
+# Attempts to ssh to GitHub
+
+$ ssh -T git@github.com
+
+# Open the local repository folder
+VSS00@COMPUTER17 MINGW64 ~
+$ cd /G
+
+VSS00@COMPUTER17 MINGW64 /G
+$ cd Projects/
+
+VSS00@COMPUTER17 MINGW64 /G/Projects
+$ cd freeform
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform
+$ cd innate
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform/innate
+# Use below comment and git path to clone repository
+$ git clone git@github.com:TheFreeformFoundry/Innate-brewers.git
+
+Cloning into 'Innate-brewers'...
+The authenticity of host 'github.com (192.30.253.112)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,192.30.253.112' (RSA) to the list of known hosts.
+remote: Counting objects: 2291, done.
+remote: Compressing objects: 100% (1953/1953), done.
+remote: Total 2291 (delta 295), reused 2291 (delta 295), pack-reused 0
+Receiving objects: 100% (2291/2291), 23.85 MiB | 732.00 KiB/s, done.
+Resolving deltas: 100% (295/295), done.
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform/innate
+$ ls
+Innate-brewers/
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform/innate
+$ cd ..
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform
+$ mv innate/Innate-brewers .
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform
+$ ls
+innate/  Innate-brewers/
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform
+$ rm -f innate
+rm: cannot remove 'innate': Is a directory
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform
+$ rm -Rf innate
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform
+$ mv Innate-brewers innate
+
+VSS00@COMPUTER17 MINGW64 /G/Projects/freeform
+$
+
+
+
+
+
+# Source Tree settings:
+Tools > options > general tab > SSH Client Configuration > Choose OpenSSH in SSH Client
+and choose the SSH key C:/Users/VSS00/.ssh/id_rsa.pub in SSH key box

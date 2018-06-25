@@ -1,0 +1,23 @@
+UPLOADING PROJECT TO CPANEL:
+
+compress into zip:
+1. downloade and compress the project folder into zip file also same in local
+2. cpanel -> file manager -> select project folder -> select all files in the folder -> select option compress
+3. name the zip folder in popup box
+4. reload the folder and downloade the zip 
+
+uploading to live:
+1. live cpanel -> file manager -> select project folder -> uploade the downloaded zip file in the folder
+2. enter the folder path in the popup and extract the zip file
+
+uploading Database:
+1. open mysql database wizard 
+2. enter the database name and click next
+3. enter username and generate password and click next
+4. select all privilages click next and database created.
+5. return to home and open the phpmyadmin and select database
+6. import the downloaded database file
+
+changeing localpath in Database:
+1. find or uploade the s2r.php file into the site path
+2. run the siteurl/s2r.php and change the localpath with live site url

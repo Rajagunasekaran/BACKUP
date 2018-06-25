@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+	*, :after, :before, input[type=search] {
+		box-sizing: border-box;
+	}
+	.ajax-loader, .ajax-loader::before {
+		border-top-color: #545454 !important;
+	}
+	.ajax-loader, .ajax-loader::before {
+		display: inline-block;
+		border-color: transparent;
+	}
+	.ajax-loader {
+		position: relative;
+		vertical-align: middle;
+		margin: 0 10px;
+		border-width: 2px;
+		border-style: solid;
+		width: 20px;
+		height: 20px;
+		border-radius: 50%;
+		animation: spin .75s infinite linear;
+		/* opacity: 0; */
+		transition: all .3s;
+	}
+	.ajax-loader::before {
+		animation: spin 1.5s infinite ease;
+	}
+	.ajax-loader, .ajax-loader::before {
+		display: inline-block;
+		border-color: transparent;
+	}
+	.ajax-loader::after, .ajax-loader::before {
+		left: -2px;
+		top: -2px;
+		position: absolute;
+		content: '';
+		width: inherit;
+		height: inherit;
+		border: inherit;
+		border-radius: inherit;
+	}
+	@keyframes spin {
+		0% {
+			transform: rotate(0deg);
+		}
+		100% {
+			transform: rotate(359deg);
+		}
+	}
+</style>
+</head>
+<body>
+	<span class="ajax-loader"></span>
+</body>
+</html>

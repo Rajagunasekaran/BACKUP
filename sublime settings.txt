@@ -1,0 +1,71 @@
+sublime settings:
+
+{
+	"auto_find_in_selection": true,
+	"font_size": 11,
+	"tab_size": 3,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"match_brackets_angle": true,
+	"show_line_endings": true,
+	
+}
+
+key builings: 
+
+[
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } },
+	{ "keys": ["f5"], "command": "revert" }
+]
+
+javascript beautifier:
+
+{
+  "indent_size": 3,
+  "indent_with_tabs": true,
+  "keep_array_indentation": false,
+  "keep_function_indentation": false,
+  "space_before_conditional": true,
+  "break_chained_methods": false,
+  "eval_code": true,
+  "unescape_strings": false,
+  "wrap_line_length": 0,
+
+  // jsbeautify options
+  "format_on_save": false,
+  "use_original_indentation": false
+}
+
+less: 
+
+{
+  // Boolean setting to auto-insert a semicolon after a ":" is typed.
+  "auto_insert_semicolon": true
+}
+
+
+installed packages:
+
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CSS3",
+		"DiffView",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"LESS",
+		"Package Control",
+		"PhpCodeGen",
+		"WinMerge"
+	]
+}
