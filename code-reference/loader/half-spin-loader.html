@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+	body { position: relative; }
+
+	.sqs-action-overlay>div.loading {
+		background: none;
+		position: relative;
+		opacity: 1
+	}
+	.sqs-action-overlay>div.loading .sqs-spin.default {
+		position: relative;
+		top: 50%;
+		left: 50%;
+		-webkit-transform: translatex(-50%) translatey(-50%);
+		-ms-transform: translatex(-50%) translatey(-50%);
+		transform: translatex(-50%) translatey(-50%)
+	}
+	.sqs-action-overlay-container:hover .sqs-action-overlay {
+		opacity: 1
+	}
+	.touch .sqs-action-overlay {
+		opacity: 1
+	}
+	.image-focal-point {
+		border-radius: 14px;
+		height: 14px;
+		width: 14px;
+		margin-left: -10px;
+		margin-top: -10px;
+		position: absolute;
+		border: 3px solid rgba(255, 255, 255, .8);
+		background: rgba(0, 0, 0, .2);
+		cursor: move;
+		opacity: 0
+	}
+	.sqs-loading-overlay-node {
+		background: rgba(255, 255, 255, .9)
+	}
+	.sqs-loading-overlay-node .sqs-spin {
+		position: absolute;
+		top: 50%;
+		left: 50%
+	}
+	.sqs-loading-overlay-node .sqs-spin.large {
+		margin-top: -11px;
+		margin-left: -11px
+	}
+	.sqs-loading-overlay-node .sqs-spin.extra-large {
+		margin-top: -20px;
+		margin-left: -20px
+	}
+	.sqs-loading-overlay-node.has-title .title {
+		position: absolute;
+		top: 50%;
+		width: 100%;
+		text-align: center;
+		margin-top: 22px;
+		color: #999;
+		font-size: 14px
+	}
+	.sqs-loading-overlay-node.has-title .sqs-spin {
+		margin-top: -22px
+	}
+	body>.login-wrapper {
+		position: fixed;
+		top: 0;
+		left: 0;
+		height: 100%;
+		width: 100%;
+		z-index: 30100;
+		-webkit-transition: all .5s ease-in-out;
+		-o-transition: all .5s ease-in-out;
+		transition: all .5s ease-in-out
+	}
+	body>.login-wrapper.hidden {
+		opacity: 0
+	}
+	.sqs-follow-button-hidden {
+		display: none
+	}
+
+
+	
+
+	.spinner-wrapper {
+		position: absolute;
+		top: 50%;
+		-webkit-transform: translatey(-50%);
+		-ms-transform: translatey(-50%);
+		transform: translatey(-50%);
+		left: 18px
+	}
+	.spinner-wrapper .sqs-spin {
+		display: block;
+		vertical-align: middle
+	}
+
+	.sqs-spin {
+		background-color: transparent;
+		border-radius: 150px;
+		display: inline-block;
+		vertical-align: middle;
+		-webkit-animation: sqs-spin 1s infinite linear;
+		animation: sqs-spin 1s infinite linear
+	}
+	.sqs-spin.light {
+		border: 2px solid rgba(255, 255, 255, .7) !important;
+		border-top-color: rgba(255, 255, 255, .15) !important;
+		border-left-color: rgba(255, 255, 255, .15) !important
+	}
+	.sqs-spin.dark {
+		border: 2px solid rgba(0, 0, 0, .75) !important;
+		border-top-color: rgba(0, 0, 0, .08) !important;
+		border-left-color: rgba(0, 0, 0, .08) !important
+	}
+	.sqs-spin.extra-small {
+		width: 4px;
+		height: 4px
+	}
+	.sqs-spin.small {
+		width: 8px;
+		height: 8px
+	}
+	.sqs-spin.default {
+		width: 12px;
+		height: 12px
+	}
+	.sqs-spin.large {
+		width: 22px;
+		height: 22px
+	}
+	.sqs-spin.extra-large {
+		width: 40px;
+		height: 40px
+	}
+	.sqs-spin.xx-large {
+		width: 80px;
+		height: 80px
+	}
+	@-webkit-keyframes sqs-spin {
+		0% {
+			-webkit-transform: rotate(0deg);
+			transform: rotate(0deg)
+		}
+		100% {
+			-webkit-transform: rotate(360deg);
+			transform: rotate(360deg)
+		}
+	}
+	@keyframes sqs-spin {
+		0% {
+			-webkit-transform: rotate(0deg);
+			transform: rotate(0deg)
+		}
+		100% {
+			-webkit-transform: rotate(360deg);
+			transform: rotate(360deg)
+		}
+	}
+</style>
+</head>
+<body>
+	<div class="spinner-wrapper" ><!-- hidden="hidden" -->
+		<div class="sqs-spin dark default">
+			<div class="sqs-spin-content"></div>
+		</div>
+	</div>
+</body>
+</html>
