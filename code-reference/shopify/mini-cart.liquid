@@ -1,0 +1,319 @@
+<div class="shop-item">
+  <div class="widget_shopping_cart_content">
+    <div class="mini-cart-empty">
+      <div class="container-fluid">
+        <p class="text-center">Cart is empty</p>
+      </div>
+    </div>
+    <ul class="engo-w-products-list">
+      <li class="product-block widget-product item clearfix" id="cart-item-14312614363195">
+        <div class="image pull-left">
+          <div class="product-image">
+            <figure><img src="https://cdn.shopify.com/s/files/1/0069/6749/2667/products/product101_small.jpg" alt="Dsport Backpack"></figure>
+          </div>
+        </div>
+        <div class="caption">
+          <div class="meta">
+            <h3 class="name"><a href="/products/dsport-backpack?variant=14312614363195">Dsport Backpack</a></h3>
+            <div class="price">
+              <ins><span class="amount"><span class="money" data-currency-usd="">$69.00 USD</span></span></ins>
+            </div>
+            <span class="p-qty">Quantity: 1</span>
+            <a class="remove" href="javascript:void(0)"><i class="fa fa-times-circle"></i></a>
+          </div>
+        </div>
+      </li>
+    </ul>
+    <p class="total"><strong>Total:</strong> <span class="amount"><span class="money" data-currency-usd="">$0.00 USD</span></span></p>
+    <p class="buttons clearfix">
+      <a class="button cart-button" href="/cart">View cart</a>
+      <a class="button dark checkout" href="/checkout">Checkout</a>          
+    </p>
+  </div>
+</div>
+
+<style type="text/css">
+.shop-item {
+  position: absolute;
+  top: 135%;
+  right: 0;
+  width: 310px;
+  visibility: hidden;
+  opacity: 0;
+  background: #FFF;
+  box-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+  margin-top: 50px;
+  padding: 5px 0 15px;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  line-height: 1;
+}
+a.header-cart-link:hover + .shop-item {
+  margin-top: 20px;
+  opacity: 1;
+  visibility: visible;
+  z-index: 99;
+}
+.shop-item .mini-cart-empty {
+  padding: 30px 20px;
+  display: block;
+}
+.shop-item .total {
+  padding: 0 15px;
+  line-height: 22px;
+}
+.shop-item .total strong {
+  font: 700 14px Poppins,sans-serif;
+  color: #888888;
+  text-align: left;
+  text-transform: uppercase;
+}
+.shop-item .total .amount {
+  font: 400 18px Poppins,sans-serif;
+  color: #c61a32;
+  float: right;
+}
+.shop-item .buttons {
+  padding: 0 15px;
+}
+.shop-item .buttons .button {
+  width: 130px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  display: block;
+  float: left;
+  border-radius: 20px;
+}
+.shop-item .buttons .button.cart-button {
+  border: 1px solid #909090;
+  color: #888888;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -ms-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+}
+.shop-item .buttons .button.checkout {
+  background: #c61a32;
+  color: #fff;
+  float: right;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -ms-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+}
+.mini-cart.hasItem .engo-w-products-list {
+  display: block;
+}
+.product-block .image {
+  position: relative;
+}
+.shop-item .product-block {
+  padding: 15px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #f6f6f6;
+}
+.shop-item .product-block .image {
+  width: 70px;
+  margin-right: 17px;
+}
+figure {
+  margin: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.product-block .caption {
+  background: #fff;
+}
+.shop-item .product-block .caption .meta {
+  padding: 0;
+}
+.product-block .caption .meta .name {
+  font: 400 20px Poppins,sans-serif;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+.shop-item .product-block .caption .meta .name {
+  font-size: 18px;
+}
+.product-block .caption .meta .name a {
+  color: #333;
+}
+.shop-item .product-block .caption .meta .price {
+  display: block;
+  float: none;
+  margin-bottom: 10px;
+}
+.product-block .caption .meta .price ins {
+  font: 400 20px Poppins,sans-serif;
+  color: #c61a32;
+  text-decoration: none;
+}
+.shop-item .product-block .caption .meta .price ins {
+  margin-right: 10px;
+  margin-left: 0;
+}
+.shop-item .product-block .caption .meta .p-qty {
+  font: 400 14px Poppins,sans-serif;
+  color: #888;
+}
+.shop-item .product-block .caption .meta a.remove {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  color: #d5d5d5;
+  font-size: 18px;
+}
+</style>
+<li class="product-block widget-product item clearfix" id="cart-item-{{line}}">
+   <div class="product-image" style="background-image: url('{{img}}');"></div>
+   <div class="meta">
+      <div class="title-box">
+         <h3 class="name"><a href="{{url}}">{{name}}</a></h3>
+         <div class="price">
+            <ins>
+               <span class="amount">
+                  <span class="money"><span>{{{linePrice}}}</span></span>
+               </span>
+            </ins>
+         </div>
+      </div>
+      <span class="p-qty">Quantity: {{itemQty}}</span>
+      <a class="remove" href="javascript:void(0)"><i class="fa fa-times-circle"></i></a>
+   </div>
+</li>
+
+{% raw %}
+<form action="/cart" method="post" novalidate class="cart ajaxcart">
+  <div class="ajaxcart__inner ajaxcart__inner--has-fixed-footer">
+    {{#items}}
+    <div class="ajaxcart__row">
+      <div class="ajaxcart__product" data-line="{{line}}">
+        <div class="grid grid--half-gutters">
+          <div class="grid__item one-quarter">
+            <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt="{{name}}"></a>
+          </div>
+          <div class="grid__item three-quarters">
+            <div class="ajaxcart__product-name-wrapper">
+              <a href="{{url}}" class="ajaxcart__product-name h4">{{name}}</a>
+              {{#if variation}}
+              <span class="ajaxcart__product-meta">{{variation}}</span>
+              {{/if}}
+              {{#properties}}
+              {{#each this}}
+              {{#if this}}
+              <span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+              {{/if}}
+              {{/each}}
+              {{/properties}}
+            </div>
+
+            <div class="grid grid--table">
+              <div class="grid__item one-half">
+                <div class="ajaxcart__qty">
+                  <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus" data-id="{{key}}" data-qty="{{itemMinus}}" data-line="{{line}}" aria-label="{% endraw %}{{ 'cart.label.reduce_quantity' | t }}{% raw %}">
+                    <span class="icon icon-minus" aria-hidden="true"></span>
+                    <span class="icon__fallback-text" aria-hidden="true">&minus;</span>
+                  </button>
+                  <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                  <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}" aria-label="{% endraw %}{{ 'cart.label.increase_quantity' | t }}{% raw %}">
+                    <span class="icon icon-plus" aria-hidden="true"></span>
+                    <span class="icon__fallback-text" aria-hidden="true">+</span>
+                  </button>
+                </div>
+              </div>
+              <div class="grid__item one-half text-right">
+                {{#if discountsApplied}}
+                <small class="ajaxcart-item__price-strikethrough"><s>{{{originalLinePrice}}}</s></small>
+                <br><span>{{{linePrice}}}</span>
+                {{else}}
+                <span>{{{linePrice}}}</span>
+                {{/if}}
+              </div>
+            </div>
+            {{#if discountsApplied}}
+            <div class="grid grid--table">
+              <div class="grid__item text-right">
+                {{#each discounts}}
+                <small class="ajaxcart-item__discount">{{ this.title }}</small><br>
+                {{/each}}
+              </div>
+            </div>
+            {{/if}}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{/items}}
+
+    {% endraw %}{% if settings.cart_notes_enable %}{% raw %}
+    <div class="ajaxcart__row">
+      <label for="CartSpecialInstructions" class="txt--minor">{% endraw %}{{ 'cart.general.note' | t }}{% raw %}</label>
+      <textarea name="note" class="input-full ajaxcart__note" id="CartSpecialInstructions">{{note}}</textarea>
+    </div>
+    {% endraw %}{% endif %}{% raw %}
+  </div>
+  <div class="ajaxcart__footer ajaxcart__footer--fixed">
+    <div class="ajaxcart__subtotal">
+      <div class="grid grid--table">
+        <div class="grid__item two-thirds">
+          <span class="ajaxcart__subtotal-title h3">{% endraw %}{{ 'cart.general.subtotal' | t }}{% raw %}</span>
+        </div>
+        <div class="grid__item one-third text-right">
+          <span>{{{totalPrice}}}</span>
+        </div>
+      </div>
+      {{#if totalCartDiscountApplied}}
+      <p class="ajaxcart__savings text-center"><em>{{{totalCartDiscount}}}</em></p>
+      {{/if}}
+    </div>
+
+    <p class="text-center ajaxcart__policies txt--minor rte">{% endraw %}
+      {%- capture taxes_shipping_checkout -%}
+      {%- if shop.taxes_included and shop.shipping_policy.body != blank -%}
+      {{ 'cart.general.taxes_included_and_shipping_policy_html' | t: link: shop.shipping_policy.url }}
+      {%- elsif shop.taxes_included -%}
+      {{ 'cart.general.taxes_included_but_shipping_at_checkout' | t }}
+      {%- elsif shop.shipping_policy.body != blank -%}
+      {{ 'cart.general.taxes_and_shipping_policy_at_checkout_html' | t: link: shop.shipping_policy.url }}
+      {%- else -%}
+      {{ 'cart.general.taxes_and_shipping_at_checkout' | t }}
+      {%- endif -%}
+      {%- endcapture -%}
+      {{ taxes_shipping_checkout }}
+    {% raw %}</p>
+    <button type="submit" class="btn btn--full cart__checkout" name="checkout">
+      {% endraw %}{{ 'cart.general.checkout' | t }}{% raw %}
+    </button>
+  </div>
+</form>
+{% endraw %}
+
+
+
+<div class="list collection-list compact crop image-contain column-{{ column }}">
+  {% for link in linklists.shop-dropdown-link.links %}
+   <h2 class="list-title">{{ link.title }}</h2>
+    {% if link.type == 'collection_link' %}
+      {% assign collection = link.object %}
+      {% if collection.products.size > 1 %}
+        {% for product in collection.products %}
+          {% include 'product-list-item', excludeCover: true %}
+        {% endfor %}
+      {% endif %}
+      {% assign count = count | plus: 1 %}
+    {% else if link.type == 'product_link' %}
+      {% assign product = link.object %}
+      {% include 'product-list-item', excludeCover: true %}
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+</div>

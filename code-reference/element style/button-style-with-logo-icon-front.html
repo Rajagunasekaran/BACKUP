@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Button UI</title>
+</head>
+<body>
+	<!-- button html -->
+	<a href="" class="btn sw-btn"><span class="btn-txt">Button</span></a>
+</body>
+</html>
+<style type="text/css">
+*, ::after, ::before { -webkit-box-sizing: border-box; box-sizing: border-box; }
+a, a:hover { text-decoration: none !important; }
+a:hover { color: #54b6bd; }
+/* btn style */
+.btn {
+	display: inline-block;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border-width: 1px 1px 1px 0;
+	border-style: solid;
+	border-color: #1e1e1e;
+	padding: .375rem .75rem;
+	font-family: 'OpenSans-Italic', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 1.45em;
+	line-height: 26px;
+	color: #1e1e1e;
+	cursor: pointer;
+	text-decoration: none !important;
+	-webkit-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+	-o-transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+.btn:disabled, .btn.disabled { cursor: default; }
+.sw-btn { position: relative; padding: 0 0 0 42px; border: 0; background: none; }
+.sw-btn:hover, .sw-btn:focus, .sw-btn:active,
+.sw-btn input[type="submit"]:hover, .sw-btn input[type="submit"]:focus, .sw-btn input[type="submit"]:active,
+.sw-btn input[type="button"]:hover, .sw-btn input[type="button"]:focus, .sw-btn input[type="button"]:active {
+	background: none; border: 0; outline: 0; box-shadow: none;
+}
+.sw-btn:hover > span.btn-txt { color: #fff; background-color: #1e1e1e; }
+.sw-btn::before, .sw-btn > span.btn-txt::after { content: ''; display: inline-block; position: absolute; }
+.sw-btn::before {
+	background: transparent url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAMAAAArteDzAAABL1BMVEUAAAAlLzAuTVAoOTsqQUQoOz0sSEovUlQ0Wl40XmI4am03ZWk9eHwfHx8rRUgpPkEsRkcyWVwzXF82YWU1YWQrQ0UuS04xVlgyWV0xV1o0X2I0X2I1YWQ7cXY2YGQ5a25HlJpAgYYoODotTE8yVlo1XmI1YmVTt781X2MyWVxJmqBVvMQfHx9VvMQiKSkgIiIqQkRKnKMsR0hFj5VStb1LoKc8dHgkLy8gJCRMpKs9d3w2YWRIlp0mNDVTt79AgYYvT1IxU1UuTE8tSkwoOjwnNzklMjNHlJpBhYo3ZmkxVllPq7JPqbBDipA6b3Q0XmEpPT4kKy1Op65JmaA/foM5a24zWV0qP0AhJSdUusJRsrpQr7dPrbREjJFGkphDiY5Ch4w+e4BQrLQ6bHA4aWzOuPBAAAAALHRSTlMA/d338PTj0q2bWi0dBurz6KaRRjrt38C1sWdfTkRBIxQN+OPBjkob2L51ZBo1yxsAAAVGSURBVFjDrNRHDoNAFAPQTxmK6EV0EGRthS33P1myixAZmPYO4I0t05OkKlvbdaz3l/Vy7basEtJSF42FC6spalIUBS643CAieaN94NZhjyRnyCEgHUjc4kGQt5CgboewvSMRUwYp2USPwh2S9pAe+FDg050th5J8I66YQRGLuZkOlDmc1JVBA1vpnxRaUrHe9TcQQttlrzMMmOnMgQGMTnoY0Z9OHoZE9OPBEO9DaZ31pg1EUQAeR3mIIkXdlL5GqtJWqs4x3sBgcNgpEHYICaWE0vT//4bKI9t4wY7yPfFgnZm59w62CF3iBNVYT40y3uhSBK6R0t7Rsx3iba6zN6qYZMWpTh1yhlytvr48GCe2+jn1pMWdBvmLJeQZU9KPsWdCuikkM8kpIHXyQ2scGwW1sefxscKN8Fwgzt0wXHjCJrI5PEDSijThuxCed4hbRoJ+WTn977GCQJ/6EyRXfi+lDj9G4IETZBtwjVCJOjyP5nchxAfEPdOFT+G2gGwHdhFN3QG9OvkjfZvKm/tIIRrI4cTnzeRwQNZm74W4UpKFGh/XriM0Nxoa4qasIkLdkKMhoFyJb8gKbUb6YMiBrPUQZbOCo4ZOOrJan8RHJI8/gqTxzg0W2pPFUrVOEzF1DsJVn8klW/B8FbdINUqW37XYDrtMUx6dC8So93xRAcyHNXLsdujAcyvOkNCSlZyPgnmxTVprv9v/ENetcFMzdZJ7DdC48m/qOZJGVPBUDE7WtNifw7OmjqTyy4JkZSLHoO3v9PzEy6nB3VwPpr4U/g/MaNk4we6qiWn4IhSk9Pnbz7R/stiBVFiwjXx1f24VoSLFJpfwtC2ugiu14wNesb2DpJ4ItYv8y5Xs+nG6qzTxCo1/MkMf/xNebUtqQkGQqrzkLZVLJR+Qyq0ybUDAKyCuKCru1npJdJGo6+b/vyErHJk5y1rbb1MUh+HM9HTPFt35DrZ/j8wsy4zthl7ANcxLh/4p0uvAgc3PXHmh9dqzBSu7uPa0UA0EYZ4vMCMxAlccTDiQOJTTZ6S3lL+E6xfdsfW4Mj4SkVGAMVUR8SB4pcnzBOiofNOIFoioQIwrKvEPqFMVLtbl3ipoGu2QTnOa7GE1iUx4ygNgR4w2YqriAT0hqD/OhGsAvVreuy4OKsFIHeOLKgFDqmCNjINPxhdV9AzHQu/MFA2Sot9Hjxj752SrlcDk6J3xPv+8B9wU3Jmy6G/u3CJRwfkB10Mg1uj21TBatL4GxqNzGQIuyiLIifJXTNAMD1TBCgcOTnJifL8H4nrZprOhrOgvojFMmZKI2HF4MvxsGMZPWCHroyXZcnSIWsFR6idmFXfxG22Nwm8fD/3GfqQLS+r8/JTBAA1B4bZjVc9M9Dn7wZAaPURa03uve0puwN10HDrln/KF6Ux/oxu0WKdK887ZEFk4fygKEBG8p4x356ThtWYlR1hqUunmRs1JSD3eIiQKEk34LNh8YWwl2fT2NcNhzvLLbCJW72d5/9qSXV01KyQ+6vbcFNPntoein33VpYOg+GTICnBlIZ1e2CR4kbCwMvO1ZGIBbl11gHXiVgdQ79vYn+QtmrjAanNpkeBUm0sATgAAcZ8JEK5vHLTXbO6QJgGA8e3llUcuZ+HBTRZerz/SphLgSGsytTNnYXebl5ezl9dI8//sPbzQc5E+zm4kLTq8tOia02QQgRbDHfQZmKF8CIlOg12UD8vRZwCR8qFOugzKUj58TK+BbsqH5Ok/eYAAUkRlLz6pgZ+QocXUEWKSSxnbJJcyOZNcmNNxSpDpOGYWJhUipuMAykfqMvF5nFwAAAAASUVORK5CYII=') no-repeat center center / 56px;
+	top: 50%;
+	left: 0;
+	width: 56px;
+	height: 56px;
+	border-radius: 50%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	z-index: 1;
+}
+.sw-btn > span.btn-txt {
+	display: block;
+	position: relative;
+	overflow: hidden;
+	vertical-align: middle;
+	padding: 14px 28px 14px 38px;
+	border-top-right-radius: 35px;
+	border-bottom-right-radius: 35px;
+	border-width: 1px 1px 1px 0;
+	border-style: solid;
+	border-color: #1e1e1e;
+	color: #1e1e1e;
+}
+.sw-btn > span.btn-txt::after {
+	top: 50%;
+	left: -46px;
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	z-index: 0;
+	background: rgba(255, 255, 255, 0);
+	display: inline-block;
+	position: absolute;
+	border: 1px solid #1e1e1e;
+}
+.sw-btn input[type="submit"], .sw-btn input[type="button"] {
+	position: absolute; top: 0; left: 0; width: 100%; height: 100%; padding: 0; border: 0; background: transparent; color: transparent; outline: 0; z-index: 9;
+}
+
+body:not(.home) .sw-btn:hover > span.btn-txt::after { background: rgb(205, 228, 235); }
+</style>
